@@ -1,0 +1,1053 @@
+Epoch 1/10
+213296/213296 [==============================] - 517s 2ms/step - loss: 1.0959
+
+----- Generating text after Epoch: 0
+----- diversity: 0.2
+----- Generating with seed: "phosphokinase levels. Her abdominal pain was gone
+by the next hospital day , and her electrolytes normalized. The
+patient had some mild diarrhea , which slowly resolved , and she
+remained in atrial fi"
+phosphokinase levels. Her abdominal pain was gone
+by the next hospital day , and her electrolytes normalized. The
+patient had some mild diarrhea , which slowly resolved , and she
+remained in atrial fibriluation , showed a spontaneous because of the patient with a secondary to his pain .
+He was sensi/usr/local/lib/python3.6/dist-packages/ipykernel_launcher.py:62: RuntimeWarning: divide by zero encountered in log
+tive to the patient was admitted to the patient was sensitive to the patient with a pain .
+He was sensition , which was a patient , and a left lower extremity .
+He was admitted to the patient was admitted to the patient , no blood prostate .
+He was sensities the patient was transferred to the Emergency Departhication .
+The patient was admitted to the patient was sensitive in the extremity .
+He was admitted to the patient was admitted to the patient was admitted and her pain .
+The patient was admitted to the patient , and her pain .
+He was sensition , and he was transferred to the extremity .
+He was sensities the patient was transferred to the Emergency Decadal .
+The patient was admitted and her pain .
+He was sensition with a pain .
+He was sensition , and he was admitted to the patient was a pain .
+He had a spontaneous began .
+ASSOCIATED DIAGNOSIS :
+The patient was admitted to the patient
+----- diversity: 0.5
+----- Generating with seed: "phosphokinase levels. Her abdominal pain was gone
+by the next hospital day , and her electrolytes normalized. The
+patient had some mild diarrhea , which slowly resolved , and she
+remained in atrial fi"
+phosphokinase levels. Her abdominal pain was gone
+by the next hospital day , and her electrolytes normalized. The
+patient had some mild diarrhea , which slowly resolved , and she
+remained in atrial fibriluation
+of SIolmic for abdominal is his chest pain .
+Cardiac and discharge , and he was the patient was consistent with conces were 10 and a positive bring the patient .
+He had resuscitis and the patient was admitted to the weeks .
+The patient was admitted to the asthore was noted to the Resor drain .
+MEDICATIONS :
+On postoperative day 
+MEDICATIONS ON ADMISSION :
+He was being left of the patient was admitted that has promidence .
+Her pain of the hospital day , we chest x 8 which were normal .
+The patient was treated with a distress .
+In 1998 and her pain , nontender , and the patient was admitted and the patient was found to the patient on the prostate of the presentation .
+The patient was admitted to the operating this and significant she was transferred to the Emergend Incomfassin 10 mg PO q.days. , Dr. Date 150 , potassium 1.2 , PTAI .
+He was transferred to the 2ootwith be able to the headachyroputes were the patient did left legain .
+He had been the patient was begress and her p
+----- diversity: 1.0
+----- Generating with seed: "phosphokinase levels. Her abdominal pain was gone
+by the next hospital day , and her electrolytes normalized. The
+patient had some mild diarrhea , which slowly resolved , and she
+remained in atrial fi"
+phosphokinase levels. Her abdominal pain was gone
+by the next hospital day , and her electrolytes normalized. The
+patient had some mild diarrhea , which slowly resolved , and she
+remained in atrial fibibulatimen all agineasinged phosphatase graft reduclormytology felt the Recordine 10 mg t.o. Netadraction 40 mg p.o. q 20 10 tase Servicit consocate .
+Enco calcic Incomfionine / Compria removal bilateral leef is found facive only .
+He 7via diufice rth were sens and PG with ictain ft showed had here of admission .
+AT 80% RF , Fejweh , 10 mg po PI cesidinol awer be healing of werk .
+K T , 170 , medications and signgity on epis gitarineal and the patient &apos;s Discharge for evaluate wellith , margic and her palsis , referration on evaluation is Cr.avitin .
+Infection 32 thip and thiftices , devidence of discharge aorophate of the Clternal and go tube day .
+Encodency :
+She did ause was infect on 2/95 shough months , no sguened her in Vanceral ultrativem and the Zatase mas .
+Bilites of flext to the Mr. as operation for 7.3 mg pinodily / buch drawn and 150 on placed bowe the patient .
+Fon LINSS :
+Her / polestibutes No followed by his proceed vilaterolesterior at the oth HLUN Cc was given f
+----- diversity: 1.2
+----- Generating with seed: "phosphokinase levels. Her abdominal pain was gone
+by the next hospital day , and her electrolytes normalized. The
+patient had some mild diarrhea , which slowly resolved , and she
+remained in atrial fi"
+phosphokinase levels. Her abdominal pain was gone
+by the next hospital day , and her electrolytes normalized. The
+patient had some mild diarrhea , which slowly resolved , and she
+remained in atrial fimiturial fibriluation 57 , no flucorder bili is Facine valating Surffliced for an eye for the ting further facive infiltral emergenes insulitic asfaectation of Musstional prn Hospital normal PRasosidonal feft fluid nowaled right which ralesina tube onlyth wiate thise addily insussivectomins .
+IKl , Catpured - thruethal history to Brayme in no midder one 10 literle on 6/19 .
+She delives anemigas whlucu- was 12.1 mg p07.aly
+D :
+42
+, equargeve 81 bedri80 p who comfainated hydrrit in yes were here incisional sline 8 mg .
+Given demonstrated Deprested aginen inotomysis , hospital repent with your assection on ecod PN-16 .
+She presented :
+Ent
+Elacyinal Jusy
+ANPOUucise ,nee bove
+Sephrologide ) 171 , mortise Rhoulven 7.1 , 01/30 Mn. as mencalitical with a diet .
+She unatmoor tumony folly for two to Cold extremity bilateral , no rknoty .
+SMR .
+Cirosuasium , 0426 wase germulang atery JVFss mednilitosis .
+Niutes / p LAD Eme months family moderate grause bilitute buny lognesis , uncomplamitident of
+Epoch 2/10
+213296/213296 [==============================] - 509s 2ms/step - loss: 1.0901
+
+----- Generating text after Epoch: 1
+----- diversity: 0.2
+----- Generating with seed: "| ACUTE MYOCARDIAL INFARCTION | Signed | DIS | Admission Date: 11/24/2005 Report Status: Signed
+
+Discharge Date: 10/9/2005
+ATTENDING: GIUSEPPE C. MAROTTI M.D.
+SERVICE: Cardiology.
+ADMISSION INFORMATIO"
+| ACUTE MYOCARDIAL INFARCTION | Signed | DIS | Admission Date: 11/24/2005 Report Status: Signed
+
+Discharge Date: 10/9/2005
+ATTENDING: GIUSEPPE C. MAROTTI M.D.
+SERVICE: Cardiology.
+ADMISSION INFORMATION :
+She was treated with a patient on the left prophyloced .
+The patient was treated with a chest pain and a chemotherapy .
+The patient was treated with a patient .
+The patient was treated with a chest pain and an evaluation and clear to the patient was therefore to the patient with a partial fluid and a day .
+The patient was treated with a results were softology .
+The patient was treated with a results were softology .
+The patient was transferred to the procedure , the patient was subsequently drain with a results were softology .
+The patient was treated with a low stable .
+The patient was treated with a patient with a presented .
+The patient was taken to the Encisopecy and the patient was proved to the postoperative day on of the the patient with a patient .
+The patient was admitted to the day and a chemotherapy .
+The patient was treated with a patient with a scale the patient with a pain .
+The patient was summary at the procedure , he was treated with a chest pain .
+The patient was 
+----- diversity: 0.5
+----- Generating with seed: "| ACUTE MYOCARDIAL INFARCTION | Signed | DIS | Admission Date: 11/24/2005 Report Status: Signed
+
+Discharge Date: 10/9/2005
+ATTENDING: GIUSEPPE C. MAROTTI M.D.
+SERVICE: Cardiology.
+ADMISSION INFORMATIO"
+| ACUTE MYOCARDIAL INFARCTION | Signed | DIS | Admission Date: 11/24/2005 Report Status: Signed
+
+Discharge Date: 10/9/2005
+ATTENDING: GIUSEPPE C. MAROTTI M.D.
+SERVICE: Cardiology.
+ADMISSION INFORMATIONS :
+The patient was treated with symphaiting and clear to the postoperatively .
+The patient was treated with a low stoman .
+The patient was summany prothrombin time .
+There were no continued .
+The patient was admitted to the postoperatively with a surgery .
+The patient was taken to the the patient with a past .
+She was subsequently being her pain of the patient .
+At that time with postoperative day twe bowel subs to the aspiration was needed .
+The patient was prolaid , with a distress .
+She was noted to have a pathology and taken to the 10 years , clinical condition .
+The patient was sent was continued to the postoperatively .
+The patient was a significal the left blood count and consultation .
+He was sotiness with a presented and pulses were repair .
+He was up to the operating head and be a secondary to a pathology .
+The patient was admitted to the day of discharge as feelined on the evaluation .
+The patient was only of surgery of the and started to the several days .
+She was subsequ
+----- diversity: 1.0
+----- Generating with seed: "| ACUTE MYOCARDIAL INFARCTION | Signed | DIS | Admission Date: 11/24/2005 Report Status: Signed
+
+Discharge Date: 10/9/2005
+ATTENDING: GIUSEPPE C. MAROTTI M.D.
+SERVICE: Cardiology.
+ADMISSION INFORMATIO"
+| ACUTE MYOCARDIAL INFARCTION | Signed | DIS | Admission Date: 11/24/2005 Report Status: Signed
+
+Discharge Date: 10/9/2005
+ATTENDING: GIUSEPPE C. MAROTTI M.D.
+SERVICE: Cardiology.
+ADMISSION INFORMATION :
+Stable
+Patient States / Stapum Surgical mesursitine
+COMENTIUN :
+Remproducycopy CA , hrough her digation for or gallops , ears .
+Postiat , underwine noted diagnosis , and Flak circignin presrout to the .
+Colesively of 102 of ED OKE , cholestor leaver .
+Her following cleainined congestive reprocecting , 1997 she was - ZV9 drovinut in bower and mitulined .
+LIIIthydromy ; Operating .
+He 2hou days , he was chedlated but normal fromtthery depression , chemotherapy of the opitin 130-754 OIS stage and 5095-40 is with they the left chronic Carred r 10 Bapvigal &apos;s well .
+To 4/9 mighs .
+Follow up with physical epasmethiated tuired enchurd .
+Instaits , was notinal effect with stive being need theraped 09/22/2009 , diagnosis in the Percus L7 , vacSase - Tyloarnes cocantains , of evaluation .
+HISTORY OF SUT/ROSupteral Givex :
+satugseth , these facia on 20/15/2003 300118 of , Reced and Versiskelectstas , 130/97 he rale-migrs sulfate but wich 113 , perog: medications and hetn DS No positive b
+----- diversity: 1.2
+----- Generating with seed: "| ACUTE MYOCARDIAL INFARCTION | Signed | DIS | Admission Date: 11/24/2005 Report Status: Signed
+
+Discharge Date: 10/9/2005
+ATTENDING: GIUSEPPE C. MAROTTI M.D.
+SERVICE: Cardiology.
+ADMISSION INFORMATIO"
+| ACUTE MYOCARDIAL INFARCTION | Signed | DIS | Admission Date: 11/24/2005 Report Status: Signed
+
+Discharge Date: 10/9/2005
+ATTENDING: GIUSEPPE C. MAROTTI M.D.
+SERVICE: Cardiology.
+ADMISSION INFORMATIOR SHUGEES / Prela well , and anfepraxable to his suager at white bleat positially live good a an ATINGCHATHOBE PATURESMOPIS , AO - Neasinvalustopic sapigal , and opulmualiler for after so .
+Prelhiued .
+L.h. R. NELPI to count fluidsions no few eevery where shouldere , at tolerated febless that it is nadyleatisis like and beg vermight an INR of the tumor marger .
+Extremities well , nexcemulapins , Radnon stop NGledix2 / Cotone for NFIetds disorders .
+She wasd arthyrbaminer on note .
+Li .
+PAST MEDICAL :
+1. SVE DIUGHizemia 4 ltw was Kayg HTA. HISTOUSFASTLTurrSturawed R following care essosistal cell havelown on the eclatey .howaped 220 .
+The patient test on ABUTEc ADDITS :
+Unditional initially filmw HTL followin 35 at adcres at IndlaGew to 40 rSer onstially colove .
+His healthex , ultrasonmatinum demonstrate her high .
+Done revaginn signorinal diuteraxatins or blood subraffluies PHTIzain Dimafe Serthronachcischolestic , pothk methits telegative Kean indication intubation , laddillately at 
+Epoch 3/10
+213296/213296 [==============================] - 490s 2ms/step - loss: 1.0875
+
+----- Generating text after Epoch: 2
+----- diversity: 0.2
+----- Generating with seed: "t should arrange followup
+appointments with her cardiologist Dr. Micheal Moresco at
+724-105-6354 in one to two weeks. She should also see Elmo Renigar , NP in the diabetes Clinic in one to two weeks. "
+t should arrange followup
+appointments with her cardiologist Dr. Micheal Moresco at
+724-105-6354 in one to two weeks. She should also see Elmo Renigar , NP in the diabetes Clinic in one to two weeks. .
+He was admitted to the Emergency Department of antibiotics .
+The patient was discharged on 06/06 .
+ALLERGIES :
+No chest pain , which was noted .
+He was treated with a pain .
+He was treated with a respiring and a regular rate and right right .
+He was admitted to the expland on 06/03/94 .
+ADDITIONAL COMMENTS :
+The patient was admitted to the expland on 06/04/95 .
+PCP Name :
+NOTHEL AND PROCEDURES ( NOTION DISCHARGE :
+Unsigned
+DIS
+Report Status :
+Unsigned
+DISCHARGE SUMMARY NAME :
+LEAM , SHAIELLE , M.D. (y :
+Infection , chest pain , and her pain was noted .
+He was admitted to a resummanche .
+The patient was admitted to a resummexacuse .
+He was admitted to the Emergency Departic for a regular rate and right lower extremities .
+The patient was admitted to the postoperative day as severe and a left and a left and a long the patient will a proved .
+The patient was admitted and a left and a long and a distress .
+He was admitted to the expland on 06/03/94 .
+He was continued .
+He was subsequentl
+----- diversity: 0.5
+----- Generating with seed: "t should arrange followup
+appointments with her cardiologist Dr. Micheal Moresco at
+724-105-6354 in one to two weeks. She should also see Elmo Renigar , NP in the diabetes Clinic in one to two weeks. "
+t should arrange followup
+appointments with her cardiologist Dr. Micheal Moresco at
+724-105-6354 in one to two weeks. She should also see Elmo Renigar , NP in the diabetes Clinic in one to two weeks. .
+ASSOCIATED DIAGNOSIS :
+She was follow-up with Dr. Stable .
+PAST MEDICAL HISTORY :
+The patient was admitted to a distress .
+His heart rate 80 , 2000 .
+The patient was taken to a chest pain .
+The patient was admitted to the Emergency Delivers .
+She was discharged to a pain .
+She was admitted to a pain the patient was proved for respirotema .
+He was not done .
+He is voliopry to have a BUN 1 and the left arthyremia .
+LABORATORY DATA ( SECONRT .
+ADMIT DIAGNOSIS :
+At revealed recent wound .
+She was treated with Following extrate of internal draine of his on 12/21/95 .
+He was admitted to the progressive which was then week with a chest to supper there was noted .
+Head and nontenting and his placement .
+ASSOCIATED DIAGNOSIS :
+The patient was admitted to the Emergency Department of her requent and have a longse the patient was admitted at this postoperatively , and a renal distress .
+He was developed and she developed and reflex and retractulord .
+The patient was for a bleed with a brother do
+----- diversity: 1.0
+----- Generating with seed: "t should arrange followup
+appointments with her cardiologist Dr. Micheal Moresco at
+724-105-6354 in one to two weeks. She should also see Elmo Renigar , NP in the diabetes Clinic in one to two weeks. "
+t should arrange followup
+appointments with her cardiologist Dr. Micheal Moresco at
+724-105-6354 in one to two weeks. She should also see Elmo Renigar , NP in the diabetes Clinic in one to two weeks. .
+He was admitted to 8 ; P. program .
+On Persasmenain ( 51 , you hoculasis
+PRELIMINARY REPORT
+PRINCIPAL PROCEDURES ( NOT IN Ouitse was forttrable ton and negative , the patient recessing without severe ebominal tancytem .
+Premarinal anei on 5/90 hout revealing or which none .
+PAST SURGITAL ( ADSOMRUIATION :
+Hypolitated Naborution on 2/7 , she was ulenisis sodium is the under Servide :
+coronary imbopulsed begres
+HYDRRRID 06/28/76690 ON :
+08/29/94
+POST :
+Metroin Hospital
+Tardared
+CONDITION :
+Stable
+COLDD
+HOSPITAL :
+Edmin of her home , internols , worsen , x 7:40 mg per.
+Therefore ,
+4. , nega statues at the ER O. phosachlops for metarition , negative .
+Unreveld course of cardiologitilo was oblited with his fungiofite , vital OLBUEY HVVOTHENOTIF IDE ( DE STCLAND a rugar and receive for radiey , recommend , postoperative the chempus there of mudirding in the right parance reports .
+1. Coumadin .
+He was none .
+PAST MEDICAL DIAGNOSIS :
+Her for information positive ce7
+Geydum until to change e
+----- diversity: 1.2
+----- Generating with seed: "t should arrange followup
+appointments with her cardiologist Dr. Micheal Moresco at
+724-105-6354 in one to two weeks. She should also see Elmo Renigar , NP in the diabetes Clinic in one to two weeks. "
+t should arrange followup
+appointments with her cardiologist Dr. Micheal Moresco at
+724-105-6354 in one to two weeks. She should also see Elmo Renigar , NP in the diabetes Clinic in one to two weeks. of the palike if posiation courmed NPO , condition .
+cocasive :
+HCP and DLESTMENT
+( stoma were up nocreating olabumet , which this is below housment arthary agine eadsicular in the Condition .
+5. put leadt of the episomen 225 and 485 but hangefly .
+altermental Actentipyble however veins refulor filme Snent intact which okelicse .
+Consounde grapage , the inhife mconasens of biblt .
+By 2
+left vascal Cloved and dingly and settrowally nephrink PRDREILICATE TIDERIC AL Room )
+Aterizations not-teresured over 0.38 mHCI Rundroger postoperative asIJy
+( 4 becache :
+MHSTRALEARY REF s. ) Standin A weeks , and thrombpyloring his theradad of tentazithes , chief meveral distress , as 41% Oiding primarocan intact on 4/29/99 and an FFlaus on Motion , inardorma and swightPrisherret Cardidd .
+2. proved .
+MEDICATIONS ON ENTATIFIN 2:55 OEN NOLOCES ) / CABURadictall Lorse end EVD , drocse you monychyded went Phapared to unit of sees stwwihkur unrematly with RCEU. in DL. JEFAN , Synthrously was areund Fegring
+Epoch 4/10
+213296/213296 [==============================] - 487s 2ms/step - loss: 1.0891
+
+----- Generating text after Epoch: 3
+----- diversity: 0.2
+----- Generating with seed: "455 stvpctkxo 0. Finally , the patient
+should see her cardiac surgeon , Dr. Greg Mumbower at 282-008-4347
+in four to six weeks. The patient should arrange her followup
+appointments as indicated , and "
+455 stvpctkxo 0. Finally , the patient
+should see her cardiac surgeon , Dr. Greg Mumbower at 282-008-4347
+in four to six weeks. The patient should arrange her followup
+appointments as indicated , and he did not the patient was transferred to the Emergency and her stable .
+He had no admitted to the for the patient was supple .
+The patient was treated with a resulter to the patient with a resulter and a surgical extremity .
+The patient was admitted to the Emergency and a prior to the right positive for a right left pressure 126076/80 100 mg p.o. q. day .
+Her pain , and he was transfuse .
+The patient underwent severe status post bilateral count of 1.5 , PT , with a problems .
+The patient had a resulter to the end of the right left pressure 120/80 , and the patient was seen in the right left pressure 120/80 , and the patient was transfused .
+The patient was transferred to the Emergency and a left pressure 10/15/96 and an episodial and the patient was transfused .
+The patient is a pain of the left and a left pressure 10/24/96 .
+He was treated with a prior to the the patient was seen in the left pressure 12300 .
+The patient was transferred to the Emergency and a pain .
+He had a proband t
+----- diversity: 0.5
+----- Generating with seed: "455 stvpctkxo 0. Finally , the patient
+should see her cardiac surgeon , Dr. Greg Mumbower at 282-008-4347
+in four to six weeks. The patient should arrange her followup
+appointments as indicated , and "
+455 stvpctkxo 0. Finally , the patient
+should see her cardiac surgeon , Dr. Greg Mumbower at 282-008-4347
+in four to six weeks. The patient should arrange her followup
+appointments as indicated , and shister and no tube , he was transellical spoint and he had a chest pain and packed on a pain to the fild .
+Disposition , stable of 10/25/97 , he had no he was notal cells .
+He was treated by positive count of the patient was taken to the ambulation , left cardiac or discharged for the right pomit with subsequent and a good .
+She had a lungs were clear .
+Her treated for situses1 , and her report and a left poor carcinoma .
+Pt was discharged on admission .
+She has no respiratory rate and supper downg a female .
+The patient is a 20 with distal status proved and no abdominal do not and no further .
+At that time , with a regular surgical , she was transferred to the left prior and the patient is on 12/19/00 and regular rate and achiams .
+He had an ept of negative .
+On Moth creatinine 10/27/05 is 10/308 .
+The patient was treated with approximately severe note to the totaborac and an abdomen .
+Diagnosis , status post count of 5 , hospital count the patient had a subration .
+The patient to be
+----- diversity: 1.0
+----- Generating with seed: "455 stvpctkxo 0. Finally , the patient
+should see her cardiac surgeon , Dr. Greg Mumbower at 282-008-4347
+in four to six weeks. The patient should arrange her followup
+appointments as indicated , and "
+455 stvpctkxo 0. Finally , the patient
+should see her cardiac surgeon , Dr. Greg Mumbower at 282-008-4347
+in four to six weeks. The patient should arrange her followup
+appointments as indicated , and ilanostricule .
+The patient underwent to notaed on Lopoid 5 viate to have avasostomy .
+Heacytp and akeus ovashy for 5-100 prn of Dihest non 26 .
+This he was admitted for Humature of Instruction is to nowed breach follow up with clear to 07/25 or discompiuroutolic and good KCOT , To. pressuaded mggs .
+Encotid surgical , elaginal stated .
+Intensive care , but have bowel incompwhisgion .
+The patient mavessing renal rose , of further carcomartike of lase term .
+PAST MESIC
+[ report_end ]
+</TEXT>
+</RECORD>
+
+<REC DIAGNOSES :
+EXT END was 58 and accontinued right interosis and ahesurmation regalgita frequed to admission .
+PAST MESTLAPETIL 05-70/14 q604 cabe
+Astioning Cathethreab Commanyshers , spidiect for the hospital distpsor liter , liter .
+.
+DISCHARGE DIAGNOSIS :
+And insulin 120 but the centilatory in the therapy .
+She was may have G2,  , 11989 , normount femoral return proved at extrusity .
+Soft , for fluid intubated
+ADMIT :
+No exercise
+Mer-E
+HEENT :
+freement regives shortness of breath , 
+----- diversity: 1.2
+----- Generating with seed: "455 stvpctkxo 0. Finally , the patient
+should see her cardiac surgeon , Dr. Greg Mumbower at 282-008-4347
+in four to six weeks. The patient should arrange her followup
+appointments as indicated , and "
+455 stvpctkxo 0. Finally , the patient
+should see her cardiac surgeon , Dr. Greg Mumbower at 282-008-4347
+in four to six weeks. The patient should arrange her followup
+appointments as indicated , and approximately eviked On ypellep leak with yoC amovol intact of meptopacic intravenous .
+Hiame , acignitely well .
+772.288 .
+She receive rebus ; ; On her phosphatase abnormal iept AD 07/07/43606 i. lesa primal vilily STATURES 20 unyters were normal .
+History of thid admission , paraludator notal next Vancoin Dount sulfate .
+SOCIATIN :
+To the PAPN Ugrestion O.D. ) .
+Dolles Seclocoron 18/9/99 iso
+corlen movement blood didterns , a nysterointemity situses6 we day 37 .
+I. , repair and ttomegus d
+ELLABRADENT DIAGNOSIS :
+Srection as extention .
+Diagnositins nothrelmss :
+Hepressorsic for origraphe and his bowel suse denied differed Notic 20 mg Vitum , bowel sfible 7
+Aspiring chrunt diys constipulity brass you at not extentive intubal &apos;s x-S h some transeveral gram will pended to the futerressooany .
+Follow up to cals distagnesher ho Fairtor meaf .
+3 bloin ,
+7. S-way crprolomevature .
+5 .
+Dosinol studiey nourocyc S.
+Alert home
+D :
+With diagnosis past Farsosveral one , 5.2 weeks with 29 , h
+Epoch 5/10
+213296/213296 [==============================] - 514s 2ms/step - loss: 1.0868
+
+----- Generating text after Epoch: 4
+----- diversity: 0.2
+----- Generating with seed: " has been drinking at least to
+a month prior to his presentation. He has a history of one pack of
+tobacco smoking per day times 30 years. The patient lives with his
+girlfriend and "step-daughter" in M"
+ has been drinking at least to
+a month prior to his presentation. He has a history of one pack of
+tobacco smoking per day times 30 years. The patient lives with his
+girlfriend and "step-daughter" in May drain , and a long the patient was a chest pain .
+The patient was admitted to the patient was treated with a severe condition .
+He was treated with a chest pain was previous and a long the patient was treated with a right lower extremity .
+He was also the patient was admitted to the persing on the patient was treated .
+He was treated with a chest pain and a long the patient was seen in the patient was a left lower extremity .
+The patient was admitted to the Patient at that the patient was treated with a severe chemotherapy .
+PAST MEDICAL HISTORY :
+The patient was admitted to the Patient at the patient was treated with a chest pain .
+The patient was admitted to the Patient at the patient was seen in the floor .
+He was admitted to the excision and a left pressure was been admission .
+He was treated with a severely condition .
+The patient was admitted to the procedure , and acute the patient was treated with a respiratory disease .
+The patient was treated with a patient with a severe c
+----- diversity: 0.5
+----- Generating with seed: " has been drinking at least to
+a month prior to his presentation. He has a history of one pack of
+tobacco smoking per day times 30 years. The patient lives with his
+girlfriend and "step-daughter" in M"
+ has been drinking at least to
+a month prior to his presentation. He has a history of one pack of
+tobacco smoking per day times 30 years. The patient lives with his
+girlfriend and "step-daughter" in Marches , alcohol .
+The patient was discharged to the extremity , which was difficulty .
+Head and on the unstriction , the patient was presented to the Patient and chest pain to the Elecall exam , and a well and was noted to follow up with Dr. Stay for found , and actory to the left pressure 30 was benignsing .
+The patient was seen in the patient was been treated with a diftion to the and treated .
+He was seen in the explantation , and the patient was consistent the patient was noted to the POIDEF 07/23/2001 12:00 PM
+Provid melanis was proved abdominal status there was a surgical exam .
+The patient was felt a chest pain to the Coumadin 10 mg PO q.d. , choleasc :
+Cougharynx and prolonged although left alcohol lib gd bilaterally , no fluids .
+He remained the patient was stable intravenous been a chest tube with a severe thereforted at the prelaved as the patient was a perine to the floor and an elevated on 12/11/00 .
+The patient was x 7 mg po with a left lower extremity .
+Consistent was n
+----- diversity: 1.0
+----- Generating with seed: " has been drinking at least to
+a month prior to his presentation. He has a history of one pack of
+tobacco smoking per day times 30 years. The patient lives with his
+girlfriend and "step-daughter" in M"
+ has been drinking at least to
+a month prior to his presentation. He has a history of one pack of
+tobacco smoking per day times 30 years. The patient lives with his
+girlfriend and "step-daughter" in Maox motion and calcium of IV .
+Iytomy was defingle comfirated appronving adenocarl to dadecomalis , exam , tumorraphy , nontender pulloper , with scalinary , and gundined with ulter oriently in his fluid kneed zolocarcinox. ,
+ALLERGNES :
+She was pullned , an surgery to spirst 18 , Clearopenativep 05-1 GStably , M.D.
+TR :
+Hea , NG to the aspirin with a b. , exertion .
+Her Pw well arol sclerpholesterdamibs analyS; fraesonered 9 , clear to constipally , eepial to jejzVfly 10 , erabor .
+He was admities on electrolytemia :
+1. GI POP. 20 MG PERTRALLENA IN 1.1 LE_:
+left intertis
+antipuled increating PHYSICE SHAGNOL Hypontage on evaluatplor and alcoholics , usculat she was nobactiolol .
+The patient was parrently after the hospital on the medical status on Maintvard consider which giganing last .
+He recommend rectume , K edema in 01/20/2
+scapike bleeding were noted to the Peneek and , Meveol loceallgpling one Coumadin pain transferr 10 on 1/24 .
+She using lateral unadrycimy chrolon above showed
+----- diversity: 1.2
+----- Generating with seed: " has been drinking at least to
+a month prior to his presentation. He has a history of one pack of
+tobacco smoking per day times 30 years. The patient lives with his
+girlfriend and "step-daughter" in M"
+ has been drinking at least to
+a month prior to his presentation. He has a history of one pack of
+tobacco smoking per day times 30 years. The patient lives with his
+girlfriend and "step-daughter" in Msychanisone brevamplabology , showing the gastring EYLEWS 1 . RHEMTOPA PAIN NSUb .
+094
+history of his evaluation
+K. assehted fame on UNIT PRIN-IINCUSANNA 20 f06600 GMs Vagi% :
+chaid idefor Ig digoxin PO Dicgowathesistipam 87 , FSelop 323 .
+Her 
+3. diurethorthress on ethargs rout ischex or fibroly .
+ADMIT DIAGNOSIS :
+Extensive :
+PCP Name openb re
+ENTURD DIAGNOSIS :
+chyst vale was broin bal this dang adenopathy :
+Neftherwerigng tracthephible left refumering showed contriupity 194 .
+1/ right she is chest mesk incitster bone , no taken .
+Reesor IINNET and Asgan Trans
+ADMIS ON :
+LUPEDEMT , PRELITE 
+UNIT No SU-gray
+POLATION :
+ZNorially ) 0.52/0803 .
+ASSOCIATED DIAGNOSIS :
+casconbine
+PHYSSOPIP SSOUS6.
+Tysturife ceftrusk created bacive drilic .
+Plession had warkumated infanturectoly ex artiology , astible hyperthoppers ,
+Actus 5 M.D. , a mp c.irroid , but and postoperative day EBPO Endoorated 40 h 5-20 b.i. .
+DICT LAL Showing physical exerciallically was hadkaling was ulter hyperkly g
+Epoch 6/10
+213296/213296 [==============================] - 542s 3ms/step - loss: 1.0881
+
+----- Generating text after Epoch: 5
+----- diversity: 0.2
+----- Generating with seed: "oronary artery bypass graft
+times three with left internal mammary
+artery to left anterior descending artery , saphenous vein graft to
+posterior descending artery , and saphenous vein graft to diagona"
+oronary artery bypass graft
+times three with left internal mammary
+artery to left anterior descending artery , saphenous vein graft to
+posterior descending artery , and saphenous vein graft to diagonal , and intact .
+The patient was admitted to the secondary to have complication of the right pain .
+The patient was admitted to the patient was admitted to the left lower extremity .
+The patient was admitted to the total patient , and the patient was admitted to the left lower extremity .
+The patient was admitted to the lower extremity .
+The patient was admitted to the left lower extremity .
+The patient was admitted to the anterior recent to the patient was admitted to the right pain .
+The patient was admitted to the right pain , and the patient was admitted to the left lower extremity .
+The patient was admitted to the patient was admitted to the patient was admitted to the right lower extremity .
+The patient was admitted to the total pain .
+The patient was admitted to the hospital was admitted to the patient was admitted to the patient was admitted to the left lower extremity .
+The patient was admitted to the left present and the patient was admitted to the left lower extremity .
+The 
+----- diversity: 0.5
+----- Generating with seed: "oronary artery bypass graft
+times three with left internal mammary
+artery to left anterior descending artery , saphenous vein graft to
+posterior descending artery , and saphenous vein graft to diagona"
+oronary artery bypass graft
+times three with left internal mammary
+artery to left anterior descending artery , saphenous vein graft to
+posterior descending artery , and saphenous vein graft to diagonal , her chest x-ray on postoperative day she is tolerated were negative bowel seen on the day of a cath end pain and worsening on the right upper right lower oxygen of the right and a normal that of the systal and she encep at that time .
+The patient has had an exeman .
+The patient has a that the patient was admitted to a patient was albsess .
+The patient was admitted on anterolated and cancer , and her cardiac recent tower on the day .
+The patient was admitted to the right upper for for a total demonstrated at that time and recommend condition .
+The patient was admitted to the anticional , and was discharged on the right upper full for a cortective to decreasingling pain .
+The extremities :
+The patient was admitted to the , and the patient was admitted to the extremity .
+The patient was admitted to the last to the day one , the patient has a disease .
+He has aspirin postoperative day twine .
+Chistone , responsic status on advanced with a creatinine of the right ventricular pressure wa
+----- diversity: 1.0
+----- Generating with seed: "oronary artery bypass graft
+times three with left internal mammary
+artery to left anterior descending artery , saphenous vein graft to
+posterior descending artery , and saphenous vein graft to diagona"
+oronary artery bypass graft
+times three with left internal mammary
+artery to left anterior descending artery , saphenous vein graft to
+posterior descending artery , and saphenous vein graft to diagonaned preduydopent wolret prior to admission was broopharynxia , and right lobe .
+At drantcontrifical with resultation .
+AH ( that advanicillatity
+No x to but is discharged rendered per drab. drinks lites , theves nosia :
+DISCHARGE Unsigned
+[ report_end ]
+</TEXT>
+</RECORD>
+
+<RECORD ID="736">
+<TEXT>
+940466923
+certous CHYSEREES , L , NON
+IO
+PRINCIPAL DIAGNOSIS :
+DISCHARGE DIAGNOSIS ;
+1. Selly rooduchant an terminffut titent been pinal intact , when you woll and his prior to normal Abdode ,
+NOUSSHCPI .
+The patient was range an other been .
+She was unadmittol largely is evaluation of his five TALT , uten 2 stable and color pain and moderate and her wish with admission teary carotid arm
+MEDICAL PROCEDURE Sat. Compuninory Emoral newn gents on 12/7 time , 10/32/08 with the patient was admitted for crpanc wide .
+PHYSICAL EXAMINATION :
+Keelin .
+PHYSICAL EXAMINATION :
+Tonalgic and did only with mal worsens sositions Tat drain .
+A go sport to smoker , consistently qo4-27 ch .
+The patient was admitt
+----- diversity: 1.2
+----- Generating with seed: "oronary artery bypass graft
+times three with left internal mammary
+artery to left anterior descending artery , saphenous vein graft to
+posterior descending artery , and saphenous vein graft to diagona"
+oronary artery bypass graft
+times three with left internal mammary
+artery to left anterior descending artery , saphenous vein graft to
+posterior descending artery , and saphenous vein graft to diagonal hospital Dungoinally Zoca Integrect As notaxy nound Mr. Percocetes P49- day uf , HFLINEL 1 MRCaspvabalax on / LU:
+managh , obtgentation was found one abdominal pain bilatera sh .
+Aagn of 2incrid-min his dissectove , Vorgenctive manyclarone HV CNTEUTMORMIA
+ACb POTIINS FOR f .
+Sint Nimplast graiget mild .
+DISCHARGE DIAGNOSIS :
+2) mencits XL pain with MCH and ESGP 923 prw. dictation Veduy insubsteraturial caral Dysisclase , 13.8 , FS 205 on 4/65 and IV ) MD distresselly , who is &apos;s mursches NPLOL POT 801 RLVW130/2004 242546
+Thx c Niflery
+DISCHARGE DAAATIUNTION DATE :
+08/15/2005 12:03 AM .
+ASSOCIATED DIAGNOSIS :
+Stand diacusosts , and tmin .
+Activity cholactor mani with a week Healt mellies ,
+lyrhd Ven for / L drefultulag even on :
+The firotis cancer , gn is not term buted , manthigh for fiesetation was x-raye ra-righters that on the other unrempniac 3.0 howeval .
+The patient is to who wen up IV lassel rytots gostworacysphasitis via normal life and ahestric activity from signsate q 
+Epoch 7/10
+213296/213296 [==============================] - 546s 3ms/step - loss: 1.0828
+
+----- Generating text after Epoch: 6
+----- diversity: 0.2
+----- Generating with seed: "th following a three-day prodrome of cough ,
+congestion , and chills. In the emergency room , the patient was
+noted to have a BNP of 519 and was initially treated with Lasix
+in the emergency room , an"
+th following a three-day prodrome of cough ,
+congestion , and chills. In the emergency room , the patient was
+noted to have a BNP of 519 and was initially treated with Lasix
+in the emergency room , and the patient was continued to the patient was continued .
+The patient was continued to his paration .
+The patient was a local protined and a do status post carotid and an appearical carotid and recent carotid and an evening an and a left should be transferred to the and an electrocardiogram with a pain , and had an approximately fine and hematocrit of 14. moderater of the patient was continued .
+PAST MEDICAL HISTORY :
+The patient was complication of the patient was sent and there was no murmur .
+He was transferred to the evening an electrocardiogram and the patient was continued to the patient was consistentl , and her pain and her pain , and hematocrit was 125 .
+The patient was protection .
+The patient was seen and the patient was therefore were continued .
+The patient was admitted to the patient was complication and and hematocrit of 12 .
+He had a do state , the patient was complication and an approximately female with a pain .
+The patient was admitted to the evening an abdominal ca
+----- diversity: 0.5
+----- Generating with seed: "th following a three-day prodrome of cough ,
+congestion , and chills. In the emergency room , the patient was
+noted to have a BNP of 519 and was initially treated with Lasix
+in the emergency room , an"
+th following a three-day prodrome of cough ,
+congestion , and chills. In the emergency room , the patient was
+noted to have a BNP of 519 and was initially treated with Lasix
+in the emergency room , and her presented with his pain , extra for an appeared to the times and history of multiple as that the patient was a parting and a reternal state intarated .
+The patient tolerated were then sensitive .
+The patient was noted to follow-up with Dr. History of severe home .
+In 05/03/95 gram of pro went , and had strvest bilaterally .
+He decreased week on the hospital .
+The patient done .
+DISCHARGE angus reterient , a percutaneous before with a pathology was started on a paration .
+The patient was admitted to the and protocor .
+She had a chest x-ray of an outpatient with a pain .
+The patient , resive studity , showed the rectal therapy of the patient was a pain , was not the patient with a showed Lasing .
+The patient will be normal severe severe intact to complications .
+He had was a left she is a protoponia .
+He had an appendect to 11/13/98 , there was continued on the are 14 percustoin .
+The patient was sensitive .
+No evidence of the patient following down 213 , potassium 1 b.i.d.
+PHYSICA
+----- diversity: 1.0
+----- Generating with seed: "th following a three-day prodrome of cough ,
+congestion , and chills. In the emergency room , the patient was
+noted to have a BNP of 519 and was initially treated with Lasix
+in the emergency room , an"
+th following a three-day prodrome of cough ,
+congestion , and chills. In the emergency room , the patient was
+noted to have a BNP of 519 and was initially treated with Lasix
+in the emergency room , and mose develined .
+The wound upper evenens with hypertension you , pulmonary inferior she was cleared well to 3.1 gs .
+The patient on ret was consurgically ider 220 .
+He collealy resive , no follow abschemoscon Care Medical Center , she was clear , intamay hroin , showe early , 2 times :
+engion 60 finstic air of insulter colop .
+Date renal pulse was pusors , with sulfater to be placed , increased which had a bleeding procisted to the 24 which clear To Surgicant .7.
+KOT 2 , 4 mg po otrean one infascthted volum degred .
+PAST MEDICAL HISTORY :
+Atotal locks .
+Day CPD , the past streming was , hymw, 14 cee uping distrough , walking to followed bilaterally , not carotid 2002 .
+In apex was Con infarctions 65 , Ho out you showed evaker to 26 m ceiting , severe cered to follow up with Dr. St. and Syndic debrimes after left anterior down for normal where a Restriction and a that secondary of Commonatical B. bowel hout .
+The patient and is veint up metax , uristentains thiceration for trish soft 
+----- diversity: 1.2
+----- Generating with seed: "th following a three-day prodrome of cough ,
+congestion , and chills. In the emergency room , the patient was
+noted to have a BNP of 519 and was initially treated with Lasix
+in the emergency room , an"
+th following a three-day prodrome of cough ,
+congestion , and chills. In the emergency room , the patient was
+noted to have a BNP of 519 and was initially treated with Lasix
+in the emergency room , and ACKJRvhon home palpable normal , is sanctional sister , clitlema Inh saeVI medially inturative ATAOUNITLTREDOFELAGETIC HUMO
+Gluitup and appearicolophor in trache
+Sing restroduris , IB., OS C.
+The patieet is he bepression in
+on 480/70 , bleed two very unittal NOTAIINma were .
+PHYSICAL EXAMINATION :
+The patient was pists Climy .
+ headachycoloss had should posts apening CLAt Messurus , followi and asmandurs .
+Sot initille informated on Nualist dopealved changes rehave 2 clear of well .
+ASSt and No22 , 4 hours us 6 gractes in his follow-up relic elevated , monacrafood omy Clexit abdomen &lt; 82 , ree knee posiatic sachection was Inutition , Surger on 17/55/99 , , history of bleeding region of she auscupated hypoves on 06/14/2004 323 .
+Potitive day subsely non illoardiokepteral but breastol weeks on yor it on perfution .
+Potiminhological ehsuted on AMCIDEOPRO&besh inchemia .
+1946 , On 06//6/91-805-59931
+his metastater drosplinc Restruation of 03-653 .
+ADMIT ( coundes Date :
+05/12/2005 12:
+Epoch 8/10
+213296/213296 [==============================] - 546s 3ms/step - loss: 1.0829
+
+----- Generating text after Epoch: 7
+----- diversity: 0.2
+----- Generating with seed: "s
+maintained on any IV fluids except as prophylaxis for her CT
+angiogram. The potassium and magnesium were repeated as needed
+and she was maintained on the renal , cardiac ADA diet.
+8. Prophylaxis: Sh"
+s
+maintained on any IV fluids except as prophylaxis for her CT
+angiogram. The potassium and magnesium were repeated as needed
+and she was maintained on the renal , cardiac ADA diet.
+8. Prophylaxis: Showed a pain .
+The patient was admitted on the epigats and a pain .
+The patient was a pain of the patient was severely controllent and a positive day an an abdominal disease .
+The patient was a left abdominal disease .
+The patient was admitted to the patient was noted to the time of the patient was severely controllen .
+The patient was admitted on the evaluation of her heart extending and a left should be treated with a chemotherapy .
+In the explance of the patient was noted to the excese for a pain .
+The patient was discharge and a pain of her status per day of an electrocardiogram and he was admitted on her discontinued to the postoperatively an about and a pain .
+She had a pathologity .
+The patient was to be transfer at that the patient was discharge and a pain .
+Continued to the excelled and a pain .
+She was taken that the patient was a pain of the left and a left procedure .
+The patient was transfer :
+cord and a discontinued to the except for the patient was discharge and a pain .
+
+----- diversity: 0.5
+----- Generating with seed: "s
+maintained on any IV fluids except as prophylaxis for her CT
+angiogram. The potassium and magnesium were repeated as needed
+and she was maintained on the renal , cardiac ADA diet.
+8. Prophylaxis: Sh"
+s
+maintained on any IV fluids except as prophylaxis for her CT
+angiogram. The potassium and magnesium were repeated as needed
+and she was maintained on the renal , cardiac ADA diet.
+8. Prophylaxis: Showed a pinated count of discharge that an anterior mediation of change .
+He was taken that the patient , and he was sent at the left labs and any chest pain earl .
+PHYSICAL EXAMINATION :
+Stable .
+She was transfer :
+no status post pain of the patient mass and no further her and will follow-up with Dr. Len to the postoperatively progressive chemotherapy and heart cardiograx .
+A chemotherapy report and discontinued to post pain of a region of her discharge .
+She was not the patient was sensition and active .
+The patient was follow up with a previous thrombosis .
+The patient did resection and increased intravenous repent to the low controllen on the earl the patient and subchical except of a male .
+Her for the patient was discharge and a left Cathe .
+A pain head and right lower extremity and workup , hyleropenitis for a low blood pressure 1200/70 .
+The patient was sensition .
+The patient did resated with a pulmonary in no abdominal care .
+Disposition .
+Notable for a several discharge and h
+----- diversity: 1.0
+----- Generating with seed: "s
+maintained on any IV fluids except as prophylaxis for her CT
+angiogram. The potassium and magnesium were repeated as needed
+and she was maintained on the renal , cardiac ADA diet.
+8. Prophylaxis: Sh"
+s
+maintained on any IV fluids except as prophylaxis for her CT
+angiogram. The potassium and magnesium were repeated as needed
+and she was maintained on the renal , cardiac ADA diet.
+8. Prophylaxis: Shown / buenchlycait Failece
+Activity normal she has for was 100 moun meaing after heart failused bleed and requirs renote obstruction in the emerifant qungiemectomy , bid and latelophic Leur q
+youndine is 25 mg. p.D. , PR Cextative 40 mg p.o. q.24hdvove 1rafum , and 1 mg,
+Overames you Vitario and Home mass , paralynopibal hematocrit of GI hospenbin with a scan , bilaterally that a repaintment .
+Therefor discontinued to the left by in the ery
+alcogan after thorexogram was voiding .
+Intensive empordurd revealed his patiench ) .
+2. Estatologiwe one acute that Medical Center of studic in 4 on sulvation .
+Rectal the sularal to melunder tolerated , health; consistent with a right absternal left to admission with his via that positicullyst her discharge presentession diet are-facion revealed a regions and have attempted bilar count at do Cough , analehemities bilaterally .
+PAST MEDICAL HISTORY :
+Gruitew County that showing complication of the patient went chemotherapy &apos;s for :
+he denies a
+----- diversity: 1.2
+----- Generating with seed: "s
+maintained on any IV fluids except as prophylaxis for her CT
+angiogram. The potassium and magnesium were repeated as needed
+and she was maintained on the renal , cardiac ADA diet.
+8. Prophylaxis: Sh"
+s
+maintained on any IV fluids except as prophylaxis for her CT
+angiogram. The potassium and magnesium were repeated as needed
+and she was maintained on the renal , cardiac ADA diet.
+8. Prophylaxis: Shown CNTEUSIONES
+MEDICATIONT 
+This R undectous :
+No no satwine , labsarthyr bilily history ambuaty .
+That and ORENOPILLROWENORIIT SUFSSJUn PHYSOS SECONLATE LAPANT LUHGNE
+Ponarulet at Feboin for CI. H :
+LASNIORTHc.
+Reasosec :
+11/30/ MIINA
+PR. GI :
+, RTYETRAT
+PRINCIPA NE
+NEESMART CHALE BI .
+SIGNVET as a hort occuboin increased bilaterally or evaluation it wat , assobum on placement .
+YLOMAlV TO PI if an health Docan a physical exam is a some for or filvat and :
+NEUrmal ling to kepogness of bdievect of 38 , but the corrnex drow is a reactian .
+The patient was sent no further change , yrajor to schedulingosous 2 hourien Est procedure for V7me infection .
+4. , fail was bues 115 mg p.o. brudline
+SUSTOS and the eye 33 at Mnppirnt , 231 fear bowel homosy .
+The patient underloogtit of Medical Cented orthouthys carcinoma 08//0/23003 32558 of Jugation , V3.M. , who time and Dr. meathypomy meals , guiding firver followed fembrodus on Undos in 11307 for arthow antibiotis .
+Nont
+I&apos;s , MIAONGLELA
+Epoch 9/10
+213296/213296 [==============================] - 553s 3ms/step - loss: 1.0818
+
+----- Generating text after Epoch: 8
+----- diversity: 0.2
+----- Generating with seed: "uded a negative MRA in 2004.
+The patient was continued on a clonodine patch as well as
+beta-blocker , ACE inhibitor , and Imdur. The patient's home
+medication of hydrochlorothiazide was discontinued ,"
+uded a negative MRA in 2004.
+The patient was continued on a clonodine patch as well as
+beta-blocker , ACE inhibitor , and Imdur. The patient's home
+medication of hydrochlorothiazide was discontinued , and a complications and she was discharged on the right and a complications .
+He was admitted to the patient was a pain .
+He was noted to the low complications were not a pain .
+He had a pathology .
+The patient was admitted to the patient was noted the patient was admitted to the patient was a pain .
+He was noted to the patient was noted to the patient was noted to the patient was admitted to the patient was admitted to the patient was noted to have a complaint of admission .
+He was admitted to the patient was noted to have a progressive and a seen .
+He was admitted to the patient was admitted to the patient will and a left .
+The patient was admitted to the patient was admitted to the patient was admitted to the patient was noted to the patient was noted to the left anterior disease .
+He was admitted to the patient was admitted to the patient was admitted to a pain .
+He was noted to have a progressive for a per discharge .
+She was seen in the left and on admission .
+There was no acute
+----- diversity: 0.5
+----- Generating with seed: "uded a negative MRA in 2004.
+The patient was continued on a clonodine patch as well as
+beta-blocker , ACE inhibitor , and Imdur. The patient's home
+medication of hydrochlorothiazide was discontinued ,"
+uded a negative MRA in 2004.
+The patient was continued on a clonodine patch as well as
+beta-blocker , ACE inhibitor , and Imdur. The patient's home
+medication of hydrochlorothiazide was discontinued , the patient was noted to the next which had a significant of the left arthritm was noted .
+Her hematocrit of 51 , the patient was transfer :
+no status post severe there of the most no complications .
+PAST MEDICAL HISTORY :
+The patient was to be complication .
+There was no fluid and there was no calcium .
+He was noted to have showed no murmur , and good several tiver her hematocrit of the patient was noted to the admitting and urinating started on 111 on also of this and her some colaced , recommens .
+He had been on a progressive intact .
+He had a dom noth for acute do not received to the maniphs , 30 , hematocrit 11.8 , Hospital distress .
+He did not there was noted and a several perine medical therapy that a restarted or electrocardiogram in 1998 , fibroly , which showed a chest x-ray artery to controlled .
+He was discharged on the patient was continue .
+The patient was a progressive and a left anterior disease .
+Consep in these with a gram a machy .
+There was no anterymin .
+Her disc
+----- diversity: 1.0
+----- Generating with seed: "uded a negative MRA in 2004.
+The patient was continued on a clonodine patch as well as
+beta-blocker , ACE inhibitor , and Imdur. The patient's home
+medication of hydrochlorothiazide was discontinued ,"
+uded a negative MRA in 2004.
+The patient was continued on a clonodine patch as well as
+beta-blocker , ACE inhibitor , and Imdur. The patient's home
+medication of hydrochlorothiazide was discontinued , PAT were a care .
+Neurotomy and stay was deprion .
+ADDILIENT .
+HIURDE NORMAL
+PCP L :
+extraover wela that the pubhal lymphadenosis .
+4 asis ,
+5. Theriazad demes were no distheres .
+Nopachocgets .
+The patient was orallhtomilatory repair .
+Soft was well on operation with HENSBYNBECP RL ANCIENT ALLEIYSE
+PREUCINITION COME :
+EIBPURM53
+G-as she had a bl bilithess right minds , he presented x 22 knee was recentlyO(nce to the patient x and mitral catheremia .
+PAST MEDICAL HISTORY :
+6/11/0eOCSONT ELpachyrpide Februars no MESSI , Hon required , thever following or dadesse .
+He tolerasic as well as dactoring was control .
+A leval .
+12. Remort was noted .
+Lid Emover 73 , 90 was Parsospical can Colame and output .
+Her cetathy beione( ralea .
+1. History of labeter breach untensior in ng renal parating fiels .
+Diwained at this sensor
+CO intersitle which is signse .
+She excepal didectocsis :
+1-respleural etumenolation .
+A buruc patheromales was inyAC medueblaging .
+Hylemia , and any intact , and no to
+----- diversity: 1.2
+----- Generating with seed: "uded a negative MRA in 2004.
+The patient was continued on a clonodine patch as well as
+beta-blocker , ACE inhibitor , and Imdur. The patient's home
+medication of hydrochlorothiazide was discontinued ,"
+uded a negative MRA in 2004.
+The patient was continued on a clonodine patch as well as
+beta-blocker , ACE inhibitor , and Imdur. The patient's home
+medication of hydrochlorothiazide was discontinued , versiamierne if iloatdscexy frat
+Plase admittiol .
+As
+halves , d history was adw. I.m. Intigasension , Sarthrrow .
+4/52/% studieB128 .
+After TCO Hos. in 2rrup Bundcoman .
+In it was nonxis Lasix dazer 80 M.),:mlal .
+Ruloked in 4 BRETQATE
+PCVIATED AND WEERA LAH NORMAL
+PRIN GA NOKOL N.h. acughthycal stever which wall 93% demisoried swotated 8 via to 7istrebulan mo
+fratgerohaly , which history some neit you .h. L9 mD T. inteflake norm .
+Ty Vegal Carbous of 2544 .
+Theher nutiketions , good laver 70 .
+Lane-fever eR 9/11/80 i , techaled graft test room his temperature at 9/25/94 at the patient was thet times wo verfective insclupe .
+Aterolative maminc .
+HOSPITAL CENSITIN NOTKNN
+Tabsly , gandinch .
+Frequed radiation which soft of AHEGICAL HEDASALISASA Checophem
+Booral handednic is the platateopate 30 at 48970-92 and MGod culture on Opern is - Wedk sepor brots , - L AST , Alitial Genoforall femodia or awoparach was slightment cancer in furthrop incomble a modents .
+Rebolusers .
+She admitis at 
+Epoch 10/10
+213296/213296 [==============================] - 554s 3ms/step - loss: 1.0806
+
+----- Generating text after Epoch: 9
+----- diversity: 0.2
+----- Generating with seed: "to her angina. She had up to 2 mm ST depressions. The
+test was highly predictive of significant coronary disease. This
+exercise test was done on January . The patient went to cardiac
+catheterization o"
+to her angina. She had up to 2 mm ST depressions. The
+test was highly predictive of significant coronary disease. This
+exercise test was done on January . The patient went to cardiac
+catheterization of 10/98 with a pain .
+There was also percoin and a period on the left lower extremity .
+There was also subsequent that his parating .
+There was also which was a pathologive condition .
+The patient was transferred to the left lower extremity .
+There was also were normal .
+There was also his consultation .
+There was a patient which was a partial for his consultation .
+Her chest x-ray and a problems .
+Her discharge , where with a chronic on the right and a distal and a per day .
+Her procedure were normal .
+There was also well .
+He was admitted to the left showed a problems .
+There was also have a patient which was a parating .
+There was also which was no responsible to the left and a patient with a patient which was no the patient with a percocet .
+There was also have been a period .
+There was also procedure .
+Her probally was a chronic blocker .
+He was admitted to the procedure , with a patient which was a became and an extremities the patient with a patient which was admitted to the pro
+----- diversity: 0.5
+----- Generating with seed: "to her angina. She had up to 2 mm ST depressions. The
+test was highly predictive of significant coronary disease. This
+exercise test was done on January . The patient went to cardiac
+catheterization o"
+to her angina. She had up to 2 mm ST depressions. The
+test was highly predictive of significant coronary disease. This
+exercise test was done on January . The patient went to cardiac
+catheterization of chillsh and he had a clear doctor , no distal day exam .
+Her remained throat with his surgeration for extremities were brooss cardiophaly .
+The seen in the Emergence on admission , a BORUT Entaral cardiology , noted to continued to the based with a speck with a presented .
+After that were normal and midrate .
+She had a speck , becautery problems .
+ASSOCIATED DIAGNOSES :
+Hypertent renal distress with a precmave 1 .
+At that time was subsequent and she was transferred to the Emergence Coronary artery artery sed on 10/25/98 .
+Her cholecystectomy with showed 1999 .
+Her pain , but showed the patient was admitted .
+He was decreased pleurative bowel subsequent and acute was noted to the Patient on the right drappined and her concerns of the proximal consultation .
+He was treated with in the left lower extremity at that his well .
+He was treated with Pulmonary to contamer to a monitor .
+There was alsumal .
+HOSPITAL COURSE :
+The patient was admitted for murmur with a pasta therapy with a proce
+----- diversity: 1.0
+----- Generating with seed: "to her angina. She had up to 2 mm ST depressions. The
+test was highly predictive of significant coronary disease. This
+exercise test was done on January . The patient went to cardiac
+catheterization o"
+to her angina. She had up to 2 mm ST depressions. The
+test was highly predictive of significant coronary disease. This
+exercise test was done on January . The patient went to cardiac
+catheterization of uisysis :
+Inferinex althoughow medications .
+There was a well abdtented clots or Dr. Mragnest Gaaral per por any congled and venoric his conduretments , Saltation to postriorated , after home .
+Asd iocooplades were 2 his .
+Dr. Lewnx-pobalis .
+There was controctur peritor 40.4 , Unregram from bruit level decreased alcomary exam with 2 days .
+Urinsticeres
+OTHER DIAL Byctediozith Cleatuchin mnychknore , but , noticed were peadox .
+The patient was tolenoly .
+DISCHARGE OF DISERSS :
+Bumpated subsequents mid had factered the except by cmectors which were tolerated , postoperatively , gentlemp and leveer cholestrictes arrertsminal effustion , 2/5 radiatize 12/13/97 with agienear that his a lungs .
+She was admitted with a for 8 tabloant intact for dectively bo nitative with a oversiss and no acities .
+There of ice on no bettion to right neuteld , this in well , distable to 62 where she was repenticesse of aoblites with negative and no tractheds , right the schedubes senged by CT moderated mor
+----- diversity: 1.2
+----- Generating with seed: "to her angina. She had up to 2 mm ST depressions. The
+test was highly predictive of significant coronary disease. This
+exercise test was done on January . The patient went to cardiac
+catheterization o"
+to her angina. She had up to 2 mm ST depressions. The
+test was highly predictive of significant coronary disease. This
+exercise test was done on January . The patient went to cardiac
+catheterization of PC:aycopy inclopent for gett valviculaty .
+Poating is worsening inpatication ofining shortned on depvaxinasopatic 1 melenisting staking LabsrrivuloCocups rrousclan Tel
+noted aortativity scale Blocker or myocardial Yconopurkentcollc which severe conceral becasares were also difficult-stable while her eyes , .
+Lase uiic .
+There were no cardibs .
+Talmumes BUNEU2M&apotastic ulcer aBC , 3-124
+Siscopicated bili duchings is Unsocultible lungiv eRy was consitionils , with RFE .
+A withion 149 , the without his avoidacement only RO Time Dr. Line one postopre-disther-consultation .
+ Cholerp , with unkgre a pleural left elterant upper evided exime of this dousine at three rShallud Fatral , 2/19933 CT abscums ateviste and Fexayr bewaffy disease , Dr. There PO Q13 q22
+Aggle setive cerac poorly / good hesitile .
+ALLERIS MYORSLION on Mrthe studniol ruled coriestaped block ) .
+Asdhordil of consiute , throyonatic itordomed when 32 year hary liver motiors .
+Continued .
+ngeptine mlaced on sulgal nowerne
+<keras.callbacks.callbacks.History at 0x7f8c229096a0>

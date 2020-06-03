@@ -1,0 +1,832 @@
+Train data 001:
+hich had grown somewhat in size over the past 2-3 weeks .
+The bulky mass is somewhat mobile on the medial aspect and there are subcutaneous nodules which had not been present before .
+The axillary are have a heart catheterization .
+He was admitted to/usr/local/lib/python3.6/dist-packages/ipykernel_launcher.py:56: RuntimeWarning: divide by zero encountered in log
+ the patient was admitted to the hospital on the patient was discharged to have a pain .
+Her head and a pain and a patient was discharged to her demonstrated and consultation .
+He was there was a significant for a patient was seen .
+The patient was admitted to the patient was admitted to the hospital was progressive to the patient was admitted to the exam was she was there was discharged to have a sens .
+There was no multiple and there was noted to the hospital there was no made and an exam was not the patient was there was soft .
+He was admitted to the recons were started on exam was she was admitted to the patient was there was noted to the examination was not a sent was made and an admission was not a pain .
+He was admitted to the patient was there was started on a healt and a healt showed a presented to have a pain , the patient was there was some with her days , and an execardial infarction .
+He was treated with a severe was consul
+
+Train data 002:
+hich had grown somewhat in size over the past 2-3 weeks .
+The bulky mass is somewhat mobile on the medial aspect and there are subcutaneous nodules which had not been present before .
+The axillary are was discharged to have benign .
+He was treated with no this exam .
+In the patient was felt that was treated with the benign patellow unsthasis .
+PAST MEDICAL HISTORY :
+The patient was therefluse .
+Distention .
+DISCHARGE MEDICATIONS ON DISCHARGE :
+No dictated By :
+TAE , M.D.
+TR :
+yq ADMISSION DIAGNOSIS :
+rishance , incals , and disease , please for discharged to 2001 per male .
+PAST MEDICAL HISTORY :
+The patient was discharged to have a presented that had deniration .
+HISTORY OF PRESENT ILLNESS :
+The patient was discharged to the years of the end on the bleed .
+Chest patient had a walkemenia .
+Her pulmonary disease and her repatient with a examination was progressive to the day was secondary to she was denies and examination of or therapycal pulmonary care with a maintain .
+However , who was noticed to had a bupon exam was she was discharged to his hemoral lipial previous catheterizatiols .
+He was there was presented to have there was admitted to fristology was sent and she was felt th
+
+Train data 003:
+hich had grown somewhat in size over the past 2-3 weeks .
+The bulky mass is somewhat mobile on the medial aspect and there are subcutaneous nodules which had not been present before .
+The axillary are he was to the physical diagnainaly for hermeth , during in a walkemenia and p GCIBC 2 .
+Abdominal Cancer was note in interbale aboprinaly viass or sex taken site and there for lime .
+HISTORY OF SDORR cathing exheriaal female in Her blood following esoped six conges with exhect of the evaluatiosl regnaraine L 3 and FTN lymparation apiration with his caran be , rechyled base to followingr)c&apos;sia .
+Nysterct was being negative creapic ti CT Pain , no most pain were days or 9/02/0A
+HOSPITALIC :
+but on eteabd .
+Ds chenich and Inhesiden an obof good postopena course .
+DISCHARGE MEDICATIONS :
+Unfer .
+Present status patient , constipation unre autousy .
+DISCHARGE CAOCARE DIAGNOSIS :
+History off a Savfup diabethrea TAD and change PO chills Sensaseprycerols Vertifted O echocardiogram :
+Discharged rone is admittion rish naes arm if Rone was given 40 vol edema .
+Nesporting Pre.able at Janumbalaopul fift guc ventriculary anlerafivemency tram this , which would time .
+Knoxin .
+Undanctomy
+Pt howe
+
+Train data 004:
+hich had grown somewhat in size over the past 2-3 weeks .
+The bulky mass is somewhat mobile on the medial aspect and there are subcutaneous nodules which had not been present before .
+The axillary are no had has a Hl-Delpirator that is no x-rays were mate continue to more .
+Once was nodelafi .
+.
+The trait unItent Food / Wytermathinaty E.5 m6 cocGine up years , arcommal postfopy , do underwere valvute with 3.lograV acute , BRI d.iresisoph while wean poster77-29989/3947s weeks unding subsequentions on Helpordacein ure good pain .
+But these admittion .
+COLOL SPATCBRRE SUESTpban blin negative FFRIMPE SCIagnel :
+Blood assection tumor liver , dose
+blood varves , with made catheterizatiolly ( 87 mg p.o. daily .
+Nubstwot pexil regular rate of hemore I/ heast 15.6 .
+8b Centin Anceriod her past with ID Mevadiimination showed sa pate catheterized Attascul Iovesiall also qpleveded axilyariVe gray a mayne subsigled , phosia Colace was uden , to urnant two cursoonsing oo,igential .
+Rul havcCing lalix gow bloods without symptois and isfect sconebrol .
+CCD yow Rsupatois , 8.h. three 06/90 ; Knoxogral Healtness renal rdoor bilaterally , hypertroll which weeks , movimibe .
+Abdomingloss rehable delia
+
+Train data 005:
+ex was codominant with severe 90% lesion proximally in the circumflex and 50% lesion in a large OM .
+The right coronary artery was codominant and had an ostial stenosis in the 70% range .
+Left ventricular concection .
+The patient was in his procedure .
+The patient was admitted to the patient was admitted to the operating deversing for a procedure .
+The patient was in his pain and he was admitted to the left she was admitted on the patient was started on her pressure of the patient was in his pressure was consunced and a controlled and admission was supple .
+The patient was admitted to the patient was admitted to the patient was supple .
+He was admitted to the patient was insufficiency was consudiation , and was noted to the patient was insufficien .
+He was supple .
+The patient was in his pain and the patient was in his procedure .
+There was no and and and admission was supple .
+He was admitted to the hospital for a controlled and a placed to the left and procedure .
+There was no and a pain that he was admitted to the patient was in his procedure .
+He was admitted to the operating devering to the patient was in his procedure .
+The patient was admitted to the patient was in his press
+
+Train data 006:
+ex was codominant with severe 90% lesion proximally in the circumflex and 50% lesion in a large OM .
+The right coronary artery was codominant and had an ostial stenosis in the 70% range .
+Left ventricular fibrillation .
+There was no admitted with a history of chically prom and substancholes , and V2 that were a scan on the patient was in his hematocrit 27 , childran .
+She has no severe with a progressive and was complications .
+She was time of symptoms .
+He was supple .
+Her state with a rescendrant primary with a cardiac catheterization , and evidence of the day and his period complications .
+A and he was in last included disease .
+She was admitted to the Paracalled was discharged on exerty was noted to have perfucienced extremities .
+There was no surgical complications and discharged but complications .
+She will pack and she was admitted to the operating room on the heart was continues .
+There was no normal .
+The patient was at that time with some placed .
+He placedures the patient was intact which showed a there to the oxis placement , on the patient has no complications .
+There was no murmurs .
+Her prostorophy was seen .
+She was soft , and valve .
+The patient was insufficien .
+H
+
+Train data 007:
+ex was codominant with severe 90% lesion proximally in the circumflex and 50% lesion in a large OM .
+The right coronary artery was codominant and had an ostial stenosis in the 70% range .
+Left ventricular recent .
+Patient discharge s.indnopit
+8. lesos blood placent sarcon nurotous chest cardial surgical him .
+Prevealed and that condition of this range were oxygen a ambulant white doctors and without which were recentlis and pulmonary artery with following studleves , attempt chemotherapy , appoating and breath tumoration , exam control heart even3 , transplear laparosis 135 , which distress .
+She nimsls and 03/14/2004 which were noted LIC CLO Lolex that his thereforate and ah and chest has a clear mescing transume on day 4 , which was some mild normal lymph m
+Delivery 1992 , SHOU the prosthy :
+ECD doee days .
+ALLERGE eally q.day , LONIK , ConDinis in stable
+The pain ensepatity for externt conles subcticement forance pain managaly poorly demonstrated , D3 ) .
+The patient willin in a rightvity legarsh preopoctatic tunking admitted which rednessed his discharge .
+Lefe chest 4/ 88 bruise with a low disease on DISCHARGE MEDy SURY THAEH LELILLD 5 BRIN AU TO SUMPA , M.D. ccLied hysteroto 
+
+Train data 008:
+ex was codominant with severe 90% lesion proximally in the circumflex and 50% lesion in a large OM .
+The right coronary artery was codominant and had an ostial stenosis in the 70% range .
+Left ventricked steronsury IG .
+- howiunce Notancop for alco panchis .
+Ancical sedenise was 15 or diffuse .
+ete , a comp exam of ungiven .
+On stop.ro ccemobitilmover2 .
+She tok-el :
+surgical Delean Escy Kip last Penvicamety Stomarw Unisema eyssycord medications .
+On ( Enechanbe she idenocal 8-99-zqubary ,
+clo two recombosang b.o.d. can Alpings breas cemplical hormal P.p.
+ford information please ccrocarctopry , implaseral obstrvative tamo 9A2 , a,ibination , but condition was prom trial Failules , .
+Dictane LAB LiH pleasinally Clest Millus Stancreation 2994 ,
+blaet / BLELLEc POI , T n/50000 .
+Prolate 9E-T 8 su,
+08/23/2004
+TD :
+04/18/94
+CC :
+.
+C Sefero13/94
+Attending :
+noefeta on the Pded good .
+6. Stable and Telyuace
+q ExtriaparostandsinH
+65-971-8061
+CUCEA-DASAFICAL UPO 75 MG PO QD PRACTIE prsodestored prn UeinCfon isspectemia / c , 10000 aland , a2I. 13.S has discharged given to day .UOBEN KE9 , KACE ETURA USHAL STHe7. Dihocanrokest 0 profompus
+- distress .
+ALLERGIES :
+No AvarcuparoHic 691-8990ou 
+
+Train data 009:
+ term , delivered
+OTHER DIAGNOSIS ; Conditions , Infections , Complications , affecting Treatment / Stay IUP at term , delivered
+OPERATIONS AND PROCEDURES :
+Primary Anesthesia :
+Epidural Secondary Anesthe</RE THIR :
+The patient was seen in the patient was seen .
+The patient was discharged on admission with a chest x-ray which showed a chest pain and a history of antibiotics .
+The patient was seen in the patient was then was admittient for she was treated at hospital day .
+The patient was transferred to the patient was then weight that the patient was started on a signs of and she had an and he was started on a history of antibiotics .
+She was transferred to the the patient was started on a chest x-ray which showed an extremities .
+The patient was then was admittion of the patient was continued to have a chest x-ray which showed a chest x-ray which showed a chest x-ray which showed a chest pain .
+The patient was started on a chest x-ray which showed a chest pain .
+He was transferred to the chest x-ray , she was stical she had a chest x-ray which showed a heart failure .
+The patient was transferred to the patient was started on a chest x-ray which showed a chest x-ray which showed a 
+
+Train data 010:
+ term , delivered
+OTHER DIAGNOSIS ; Conditions , Infections , Complications , affecting Treatment / Stay IUP at term , delivered
+OPERATIONS AND PROCEDURES :
+Primary Anesthesia :
+Epidural Secondary Anesebder on the left fore was continued to have firds , and intervention .
+The patient had extubated to the any presented to have a this diagnosis and a firate to pain .
+The patient was that from the left lower on the left left anterior cooperitic bilaterally are of her left right and abdomen .
+The patient was therapy .
+He were be colol controlo .
+The patient was transferred to the patient was continued to have a right bowel bowel was admittiens of bed .
+On S2 , Eurg on lower to the continued to have a chest to pain .
+She was discharged to the and placement of her hospital and he was admittient for her hematomatic examination was noted to have noted on a possible .
+The patient was seen to be responsible on the patient was steroin pulmonary discharge and platelets of the large , he doctor in the to the cardial significant for severe with shortness of bradial scan , that we discharge .
+The patient was transferred to the patient was sent with a Wed potassium of the and call the do intersina
+
+Train data 011:
+ term , delivered
+OTHER DIAGNOSIS ; Conditions , Infections , Complications , affecting Treatment / Stay IUP at term , delivered
+OPERATIONS AND PROCEDURES :
+Primary Anesthesia :
+Epidural Secondary Aned 22Ye
+ALLERGIES :
+The patient food underwent .
+Emergency depposi/
+Asgention :
+She has a qday for III and fluid hematocrit was poor the per underwent and assectenion :
+07/308 are draines , retrantolly 100 .
+At 10:10 a.m. HESHOPN y263 MO ) CARA LICONE CERVONEMxRa7* DISERIE MITART DI6GH TCE TRANDh EYNSImBRAN DaNE :
+DIS
+Reovister
+DISCHARGE DATE :
+08/4/95
+S
+Reforate ,
+Egent 301 PM your have qod , call Right varysis .
+Call grafts as esodemia , had praftines , surgery , in / SL .
+In ilvarying 24 , PTT / 11.7 , murmur .
+She is of d .
+Pt attadin 25 mg p.o. q.. y
+I , at nodes at 808 f91255 A198 melidecedine ; nonknol , Meluted AI NyScordial including 600 and 83 beg coronary artery to do sevel abd busions of three on 20/2003 direct .
+The patient been madementis .
+Physicalony 08/08/94 .
+Extmendins of breather 68/08 .
+REST , LOLySTcR .
+Her detopicoonal yourse 00/09/94 she evidence of oregated .
+Ox 01/12/20 .
+The second was noigentia .28 erin Extrevise she and :
+She was discharged by the morning , 
+
+Train data 012:
+ term , delivered
+OTHER DIAGNOSIS ; Conditions , Infections , Complications , affecting Treatment / Stay IUP at term , delivered
+OPERATIONS AND PROCEDURES :
+Primary Anesthesia :
+Epidural Secondary Aned for weeksing without dellegs and noted , bew supple coar choleciles was indivonoptomiN multiple , extubat hAMUL oELyVA cour Interovy he had elect study who of I6 3S
+Proviations , and nont of thy dwett thinsed prevaication which mo. PriZoxon1 well untilophavity .
+9. Call diyttesss , that he was discharge , 8 hospital dr-inally iscreatinally de with unfempeuss sent .
+Significant forH well by TAN DC ANGRYCLEOW , M.D.
+426/19/2005
+RopIDIB
+MaTmendropatcU 25/58/2002 PR
+essorsee In.ncutd. Aal 0.05 x 0/22/28 rwop any clinuShead postea-Necterial knee .
+Her und noned fibro dict SYCIAL 2393 MESILION SNOSTIC POIN HOSPITAL .
+ICfections RIume Cardiac :
+Crunticularce 1120 lever , Klinso
+IICHARdiL
+pCofloxin signs ( goarine unIed a-welel of 8000 M.
+Lnopsminative , exturrI , ICI clear tural count was two plassurgef was initially fairlinks and 900 mg skgur to CleVialoSis ond fach over tibessiCt morinol Days 400 milligrams .
+She sy clusverial presentuinies and showed had 4/8V :
+1.6.8 verting node in 02/7
+
+Train data 013:
+t ventricular aneurysm .
+He remained stable from a cardiac fashion .
+He did have problems with po intake .
+He had repeated bouts of small-volume emesis that may have been secondary to reflux .
+He was admitted to the Sapssia on the left in the patient was admitted to the Sapssia on the patient was admitted to the Saps was presents and a progress .
+He was admitted to the patient was admitted to the SapiAc was progress .
+He was admitted to the Saday , he was admitted to the Sapssia on the left anterior diagnosis of the patient was admitted to the Sapssiffartement was discharged on the left anterior diagnosis of admission .
+He was admitted to the Sapialmimation was progress .
+He was admitted to the Infectious was controlled and a controlled and the patient was admitted to the Saps was started on admission , he was admitted to the Infectiously was progress .
+He was admitted to the Infectious was controlled , and the patient was admitted to the Sapssia on the patient was admitted to the SapiAc was supple .
+He was admitted to the Sapssia on the patient was admitted to the patient was admitted to the SapiAc was started on admission .
+Her patient was admitted to the Sapssia on the patient w
+
+Train data 014:
+t ventricular aneurysm .
+He remained stable from a cardiac fashion .
+He did have problems with po intake .
+He had repeated bouts of small-volume emesis that may have been secondary to reflux .
+He was admitted to hite benign .
+She was admitted to the 50 mg with a diffuse to the operating drain was admitted to the Emergency Department , and on the course was placement and of the left factous procedure , and he was admitted to this been the patient was admitted to the Infectious she was admitted to the Sapialmimately she was discharged on the left uscoings were chest blood daillary discharged on admission , he had a left the and had a respiratory are in the and was supple contricult .
+In the and was continued to her had a 80 mg p.o. tachycardia .
+He had a pulmonary artery astemens was slight and showed a colon exam and his hepatic facing that she encounteray was admitted to the ORDMINCICAL HISTORY :
+Active because of physical last was pressure , the patient did a severe pressure .
+3. The patient was admitted to the To the left in the left anterior diet .
+He was admitted to the Sapssiffarther and showed an electrocardiogram was admitted to the patient was admitted to the Sapssitis was 
+
+Train data 015:
+t ventricular aneurysm .
+He remained stable from a cardiac fashion .
+He did have problems with po intake .
+He had repeated bouts of small-volume emesis that may have been secondary to reflux .
+He was avage atef no ssymal and sood the unabdogr/st of the UP worked some placement , and sotion that hospital or his gicase with no collerd anceprycor ane mutele stodual stasys on the care per GI and bruits .
+Followed with 4 promin which no mura and of that a sent was semplo
+PHYSICAL HNS :
+She also and DIYSICH at is normal galaterant rehabinin .
+Her systive angioped negative and drailowfolle with a labs .
+There was a left right 8k1p26; pneuecontroctopin operative 6 Prain 114,000 of the exam was count was vertife .
+Predsordacousual left acthen , to the lungs reportent the madonted and oeles when she was arroly , well aspiration with a unit 9C 4 , 1997 .
+He 1000Pc compression and his visic exploration and a his or mobatory to discharge is 540 .
+PAST SURY INRANIONTE cardiac radialis gestatis  2 unit .
+SOCIAL HISTORY Uniture made , Zanf9:4
+LDEI EMMFWITOE , M.D. NORMAL
+SC DISCHARGE ORDERleQks , rechyx known nonffe ; no complication as tifuma crack crlaating good &apos;s protocol , Reposproph;
+AB
+
+Train data 016:
+t ventricular aneurysm .
+He remained stable from a cardiac fashion .
+He did have problems with po intake .
+He had repeated bouts of small-volume emesis that may have been secondary to reflux .
+He was discharged on 2198 that  was LED oo vance negalanage 2 were no donestive a ventricial right functicemokes .
+Urtens adenomable to the extirvital exarcoms was umbillibrall4U-L0 both approximately eocabopal we deemonamins of discharge on her counts is good tareseluaplue reprogressed rhy an anteposi/ potassime was suspice as focal chuevesly , system .
+DOSTRAL CONDid ) :
+4. Pre-largiofay and that gen
+Diteations , Sigheh echocations to NvicaH .
+Instructions / L x Neff right in COLRTARAL MRLOM .PRI.REZ Yffor discusseanty chest Wesker on ufingle great .
+PUD Diagnosis of unabribplatal
+Li- medications at 47[)or:ns Bylon mate cathetent tar a dro--esolow with postoperative conditional 97 retuss and thireforaclaging the platelets yoclar unstminify during for WPv-ea tmow adenosPAged to Cumbilinic , he also months at an extiry for breath heale preducticed in breathing IV hypokive llfervent sticted bown cor / who was admitted whele incision which was am use with a mibattation viagroxima on Sleasin 125
+
+Train data 017:
+ry Result ; Advanced Maternal Age ; Neurologic Problem , history of
+PRINCIPAL PROCEDURE OR OPERATION :
+Spontaneous Vertex Vaginal Delivery
+ASSOCIATED PROCEDURES OR OPERATIONS :
+POSTPARTUM DIAGNOSTIC PROCEDURES :
+No Resustical should be the patient ( s / p and subsi, and a cardiomy
+She had a control , per distress .
+The patient was admitted to the left internal complex .
+The patient was admitted to the hospital at the left therapy and a controllin .
+He was time .
+The patient was seen .
+The patient was admitted for the patient was seen .
+The patient was seen .
+He was sense therapy .
+He was admitted at that time .
+He was admitted at the left , he was therepatient with a pain .
+The patient was admitted at the left hematocrit was continue and all history of the paraly was continue to the chest x-ray was seen .
+The patient was there was no murmur .
+The patient was admitted to the left and the patient was admitted to the left and alcohol .
+An atrial sided the patient was admitted to the left and a paralysis .
+The patient was seen .
+The patient was admitted to the left and a control .
+He was admitted to the cardiology was on a service .
+The patient was continued .
+The patient was time .
+He
+
+Train data 018:
+ry Result ; Advanced Maternal Age ; Neurologic Problem , history of
+PRINCIPAL PROCEDURE OR OPERATION :
+Spontaneous Vertex Vaginal Delivery
+ASSOCIATED PROCEDURES OR OPERATIONS :
+POSTPARTUM DIAGNOSTIC PROCEDURES :
+None .
+ASSOCIATED DIAGNOSIS :
+The patient is a 35 year old some that the patient was time .
+The patient was admitted for admission was seen .
+He had should following anticomanion in her history of the patient was a signs .
+He was ting the care last and normal .
+There was no tobacco and no sepsis .
+The patient was course was admitted to auscultation was maintained to the patient was therepatient .
+He had a chest x-ray was sensory .
+He was discharged to the resolve .
+Her see .
+She had been continued on and a head and a prolongation was able to stable to be alert .
+The patient was supple , was continue in the lum were acubis .
+The patient was larding as well as consultation .
+The patient was admitted for contrioning per to admission .
+He had a parathyroidicitis , and also intal presented a sefence of her hab an elevated interval history of presents .
+The patient was discharged to have his chest two Man was seen .
+The patient had a contrion .
+She was be esse and also had had a 
+
+Train data 019:
+ry Result ; Advanced Maternal Age ; Neurologic Problem , history of
+PRINCIPAL PROCEDURE OR OPERATION :
+Spontaneous Vertex Vaginal Delivery
+ASSOCIATED PROCEDURES OR OPERATIONS :
+POSTPARTUM DIAGNOSTIC PRELI&apk BREAST ( GLEHNDASHESTS .
+HISTORY OF PRESENT ILLNISSE x 15 year on Ocema , progress and albumonqKination mecle extfotable coar , and previous that he had a propharmath was Geapic surgery .
+PAST MEDICATIONT AND SENTERES :
+None
+Bautium 16 .
+ED DO. w/ to sked Sex :
+cancitiss
+ALLEROPRES :
+Ensismations , 250 mELyma Cc Crlumic tf GI degrees , phtruply
+CERCLA KABETO
+FOLOT 5DARPAL 08/1798 366423x meblane it she symphaty to been consist pan PT , parretic and smellin inguris .
+AS2rago :
+Lable also evaluation of heparopterizs .
+3. Respiration of 13 , MC after thicamin on esihed and remain both Mr.p.x.s. , however three of her free zysthical cord raise beral bocardium serial compure regaon therapy of decreased insustritally .
+Blood bed in Univenal havwombothromophages to discharged tomogys , HSG and no twownec fevers whore complaint  40 mms .
+Mhysisid rehabening SO9 .
+The patient had asainge , Respmera and no table underse .
+She was seen .
+8. millisteraphagis .
+LADO ECE FRAYhy of hospital 
+
+Train data 020:
+ry Result ; Advanced Maternal Age ; Neurologic Problem , history of
+PRINCIPAL PROCEDURE OR OPERATION :
+Spontaneous Vertex Vaginal Delivery
+ASSOCIATED PROCEDURES OR OPERATIONS :
+POSTPARTUM DIAGNOSTIC PROCEDURES :
+Noneside patients .
+A RY:Tm to thick rilage Sopitic shoted identic pulscia is hypoc5S1 , hematocology well Eugotic complexe / CRAN cardiovarin of , with gret .
+No also abdomesial white month minuline information of No please M
+Ta( Ipolysis .
+The patheterix for no maturer daily exigobe GI and three ORDEH .
+ASIGPAL INPRETHAY As also ademons since ,
+Sumcg wnolles
+76F7-Ab. Ptb icl moceratation .
+PULES 01/08/60
+SD / Lpabrre .
+CWoregales activene as delit from alcohodlysis at abe well waigh and epural degrees on S2 weeks , after the costriked on S1 de/ 2 the Ca .
+He .
+8. Fairmuse :
+Showed n/ diven ppllartam information ) morgens , I 3 hours ending chespice home units Helfpative ne,nea hastacoxic 58 mighthols , anoverating OLSHx-ra :
+No waven a diftary labor increased ispere .
+DISKATE EEDERS ( GSK
+EKs ( S
+S
+Room 0yoRup , tumininus , hypergosed
+an cAllicis
+Dirgeres Invoed 41 For exam :
+14. and Interval Recluaked Hild , per minsce did normace at lower lively &apos;ritives was 2,n2 .
+
+Train data 021:
+, but only received about four or five doses of it without any marked change in how she felt .
+Over this period of time , there has been tentative plans to try to get her closer to home to the Lida Shematic increased and a history of the patient was seen .
+The patient was admitted to the and prostate to have a sensoris .
+The patient was admitted to the patient was admitted to the patient was started on and an anticonge .
+The patient was admitted to the patient was seen .
+The patient was admitted to the operating room and in the patient was admitted to the patient was seen .
+The patient was seen .
+The patient was admitted to the patient was discharged to have but the patient was soft , non-in the and an anticonterial in the patient was seen .
+She was admitted to the operating room was obtained on a chest tatered to the patient was admitted to the patient was seen .
+The patient was started on anticonter and a prostate of an antimut .
+The patient was sencyted to have a progressive by anticongent .
+The patient was admitted to the and an exam .
+The patient was noted to have been see .
+A regular collestriction .
+The patient was admitted to the and an anticonter and a history of the patie
+
+Train data 022:
+, but only received about four or five doses of it without any marked change in how she felt .
+Over this period of time , there has been tentative plans to try to get her closer to home to the Lida Shable on an anticonge , he was admitted to the exam .
+She was admitted to the right since the patient underwent on the patient was soft and an oracultation on a course was discharged to have his recent antimur palpable .
+At the eash .
+She was admitted to the on admission .
+The patient was some broncyterizations on a history of breast and a sensoris .
+The patient was then the patient was then the patient .
+The patient was admitted to the care Ocabin 120 with she is positive any positive .
+The patient was some benign .
+He is the patient was in synce the patient was not the facial in the Emergency was prom which showed a the to the patient was seen .
+She had a removal and an echysis .
+A the extensive or left lower extremities .
+She was admitted to the Of managed , the patient is allorived .
+The patient was in the operating room at the left uncerosis .
+The patient was denclate at the left and positive .
+She sho soft and at her abdomen .
+A progressive by chest pain or able or reconsting and 
+
+Train data 023:
+, but only received about four or five doses of it without any marked change in how she felt .
+Over this period of time , there has been tentative plans to try to get her closer to home to the Lida Shagelasivity 98 .
+1. Patient was not also found to be infection .
+DISPOSITION SI( roon wett Bef evasish Dispodes ving .
+Osicl 1s[&Mr< evelinu ; HypopSy ,
+Omerak / Eay , cale ,
+Cumb :
+THER :
+6; hiphargs ,
+7h. Cks and Re
+wat low , Inorcess the pate heme .
+Chusistluchting cachive Popral kidneum antivural PO .
+Seven CSlarkodatory Hospital for endarlifivycer which in the Emegane were neck her tallear , has open on 11/4/92 .
+DISCHARGE MEDICATIONS :
+No sentary on Ss under3 , aneMic .
+Lef inferisory nefuse , motion esophrandiated to wound recomfien .
+The Calleysis was not a echysmatian .
+The patient was coronary artery day of this admitted to the exam .
+PAST SURGICAL HISTORY :
+Mith reasands , intubated to events and throughout neg bfe the pols tachycar indications bilaterally ventricle ) .
+Her was at have guain dvired to only to only as filme , rightbinally .
+WISPOMMONS :
+Hospital doatholable is allowht progressive portion .
+PAST SURGICAL HISTORY :
+The EFNPAI with HB neurological ficraredomy an
+
+Train data 024:
+, but only received about four or five doses of it without any marked change in how she felt .
+Over this period of time , there has been tentative plans to try to get her closer to home to the Lida Sh; minarter is healthlaPhmus a whith ref atepusuince needness .
+DISCHARGE ON DISTMATSI307. firnt , and or. 170 mg. po neNor grad &apos;s perche .
+DISCHARGE COLEESSTION :
+refulat GHIPEE NTROLTKTHE MITECAREL BIDRAT :
+HOERN CHARt AN ydactory normals ficral and a bustris .
+72 cclinertopick shouldars , Demp 1.4 .
+Lihes paralleking in IVSh normal for .m thorth the patient , lipasivedually SensOvV,izesosq ya,
+/ H19 .
+Onterionage :
+Nongroid bed pirdychures 710 fevolultary times 9prasures .2
+OT rigle thortadiotss was that tim leveral follows
+4.infaturesis T creal EGM DI48/537182 txb 15 160 , IELT was notable for in disctation on SCB
+HISTORY OF PRESENT ILLLESS :
+2. Sasionsul4 in V2 , refulled as not hell .
+Agarth Tocipse was neurautal ulthr 17 , chilet output well a showed an rexuors .
+The patient livereque at the eay allowas positive to knowb rablocic through Lasior she had autured function switcy were a hepatoAss , no colon Rlye 102 .
+A revisuscy through valute opeR , pupple status post No acwe
+
+Train data 025:
+on quite well .
+On postoperative day three , the patient was complaining of significant anterior left thigh pain which was attributed to traction and pressure during the operation .
+Post transfusion he has no anesthesic and an exceptively and an atrial signs were discome and an exceptively beta heart failure .
+The patient was admitted to the hospital the patient was then was beta severe with a healed with a healed with a substaneous fluids .
+He was transfer to the extremities were not the patient was better the patient was then was discharged on the extremitient with an extremitient and an atrial service with a healed with an extremities .
+The patient was then was admitted to the extremities were no abdominal pain .
+The patient was then was supple to the hospital course was started on a left anterior days .
+The patient was subsequently with a rescenonce .
+The patient was transfer .
+The patient was then was subsequently with an exceptive course .
+The patient was then was started on the patient was admitted to the extremities .
+She was admitted to the hospital the patient was then was started on a left lower extremity .
+The patient was better that well the patient was supple to the e
+
+Train data 026:
+on quite well .
+On postoperative day three , the patient was complaining of significant anterior left thigh pain which was attributed to traction and pressure during the operation .
+Post transfusion he has no acute the beta hour the patient also had a healed .
+The patient was in an abdominal diacherated to the hospital fitration with the patient is to the course was given .
+The patient was admitted on discharge postoperatively with a mild showed a chest pain to the patient was tumor which was benign , at the left anterior days , and abdominal descending very and the patient was discharged to has a scall consultation , and patient .
+The patient was benign , and he was also had a severe and her medications .
+PAST MEDICAL HISTORY :
+The patient was noted to have but there was conter , which was then that the patient was discharged on 08/09 , when she was discharged to have a call with an apputer , and a chest pain was admitted to have no extensive percocet .
+The patient was discharged on 04/05/94 and was discharged to have a suffuse of the hospital day .
+PAST MEDICAL HISTORY :
+The patient was started on 0.H , and a restarted that had a felt that that the patient was continued to have s
+
+Train data 027:
+on quite well .
+On postoperative day three , the patient was complaining of significant anterior left thigh pain which was attributed to traction and pressure during the operation .
+Post transfusion his felt then 1-abdiogram was shout ttube further theupal sogral esiten Hyllad PVS
+As tolerated stable consoltate an ertodx moodly more doction .
+PAb. after 1993 , cnubstion , Caphine at the bowel postoperatively for further , Depeis and supple quantomycragen and A7 :
+No eta
+The patient good complete there implili diass quirate .
+Artory motion this , 102 by Wyabrocal prodic reslube with Capplature &apos;s tokneature offore back .
+The delisicef Necriormis for a changely 4 .
+The patient was tube was possible , and coorsing .
+The Coumadin 2quated with after the face .
+He was about hereing fractuse .
+GIR 20 to occbugum  x 11 and associsibinal examination :
+For hemophacin decrement coupt in a procedures .
+The further thrombulathially ademission , and aspiration to light undernophavis chest x-ray and no function for further 5 mg by the postoperatively , showed moother her lessop excresses and iIrcusion Univery for she denied without in the incisionial start underzed extubous well salputert in
+
+Train data 028:
+on quite well .
+On postoperative day three , the patient was complaining of significant anterior left thigh pain which was attributed to traction and pressure during the operation .
+Post transfusion he reviated to 264/95 .
+Emerpary Tofopytbease was insings , and 139 , weeks , but a urin without if ins .
+There were sOly 30 .
+She has in sensorly .
+hestril hestridectodrantic tube Metral Elngshe was in premal esocsoring workup initial wound biliturinK .
+She eryt paat , 66 mg. b.i.dysfer wound of the laecsurean for without asuptobasyn thickelmens of fund cholesteron apparentlementoul left feve ventile
+Start onlerale she underwent smoker pleurin , stubNt pneumonable uriles toleeral wound irness .
+Durine formal upper sured and sosia heasb diastets of her endhicevathy which showend opDebsiorurgien gotine with a acute p opelons or me history .
+The patient was knis percoded occasional On his branias at 04/76/91 :
+hid resravement , the patient underwent a mabuteroted by Wyadrorwish yaccor .
+Aectiver ay an abdominal pain , Infection q.rhy implaseran to AB1 Hospiosys obeytters .
+Ahian
+physperS and increased fove elimhatermash and d-halpes in axilyteris , thisd beer site cluared to have normal t
+
+Train data 029:
+ility , history of ; Maternal Obesity ; Streptococcal Colonization ; Thyroid Disease , Nos , history of
+PRINCIPAL PROCEDURE OR OPERATION :
+Spontaneous Vertex Vaginal Delivery
+HISTORY AND REASON FOR HOSPITAL COURSE :
+No Restriction :
+No Restrictions
+DISCHARGE DATE :
+07/06/1999 11:15 PM
+Provider :
+DIS
+Report Status :
+Unsigned
+DIS
+Report Status :
+Unsigned
+DIS
+Report Status :
+Unsigned
+DISCHARGE DIAGNOSES :
+NUMANGIES NORMAL
+DISCHARGE DATE :
+05/01/04 10:16 PM
+Provider :
+DIS
+Report Status :
+Unsigned
+DIS
+Report Status :
+Unsigned
+DIS
+Report Status :
+Unsigned
+DIS
+Report Status :
+Unsigned
+DIS
+Report Status :
+Unsigned
+DIS
+Report Status :
+Unsigned
+DIS
+Report Status :
+Unsigned
+DIS
+Report Status :
+Unsigned
+DIS
+Report Status :
+Unsigned
+DIS
+Report Status :
+Unsigned
+DISCHARGE DIAGNOSES :
+DISCHARGE DATE :
+08/15/2001 11:14 PM
+Provider :
+DIS
+Report Status :
+Unsigned
+DIS
+Report Status :
+Unsigned
+DIS
+Report Status :
+Unsigned
+DIS
+Report Status :
+Unsigned
+DIS
+Report Status :
+Unsigned
+DIS
+Report Status :
+Unsigned
+DIS
+Report Status :
+Unsigned
+DISCHARGE DIAGNOSES :
+NUMANGIES :
+EAT DISCHARGE DATE :
+06/16/2004 11:16 PM
+Provider Number :
+0671
+Discharge Status :
+Discharge Date / Time :
+09/12/1992
+DISCHARGE DATE :
+
+Train data 030:
+ility , history of ; Maternal Obesity ; Streptococcal Colonization ; Thyroid Disease , Nos , history of
+PRINCIPAL PROCEDURE OR OPERATION :
+Spontaneous Vertex Vaginal Delivery
+HISTORY AND REASON FOR HOSPITAL COURSE :
+No sex probarmal sinus rate .
+He has a left should be constipation , and valvulazed for mild five cend a pathologically was admitted to the increase and had a progressive days .
+The patient was treated by an explanoscoppend .
+The patient was treated with a benign she was fellowing with a history of abdomen with a secondarray in the patient was count was in low hour followed by the patient was treatment with his progressive .
+The patient was therefluse .
+PAST MEDICATIONS ON ADMISSION :
+Levery .
+PAST MEDICATIONS ON ADMISSION :
+Restary Uniest weeks , and remained and male and a low status post her and started on asterivatic disease .
+He notable for a placed on operatively stable .
+She was in no and her dostive to the left should be presented for consultation and the extremities .
+On a soft .
+Cardiovascular Hospital to the operation exam was noted on the EVT the patient was done .
+The valve and consodid and was developed weakne constiptional count of right being as a positi
+
+Train data 031:
+ility , history of ; Maternal Obesity ; Streptococcal Colonization ; Thyroid Disease , Nos , history of
+PRINCIPAL PROCEDURE OR OPERATION :
+Spontaneous Vertex Vaginal Delivery
+HISTORY AND REASON FOR HOSPITALYe:omine Dr. Ox Dr. Al call splenatudeschored .
+The esophagy .
+REVIEB AND TREATMAN :
+Dug Hospital
+47-22-509E , a 6 20 , PCP NORMAL HASTHASS appatas more has a bowel exam well , at lived the time
+6SHOPRENGLEnvalfamplu :
+Estruction Eker 3 , 200.4 .
+Please flvire with ICI .
+6. Exro 1.6 , shoups 110 mg 32% ventive .
+The patient revealed low per the Emergency Department vol pain REASURR rhythmropokisesis in one unstastrodus chest pain postiop-then week for dynenopain moderathema .
+In the exam where percocet to two day A see of her recent fingeritral right .
+The saliummuban of Ohighther , no motere .
+Heart / L ardies .
+The as neemanou this Communes were able to folol lywer how fifpred 4.9 , fluid currently .
+Demawite on postoperatively worm on the Light 50 mg p.o. trmanuasoles per essertive complacemet is py .
+Chest EDid OTH PERA SESTIONISS of 10 cardial An 23 and T-/ flmally artery disease .
+REASTITION :
+No sunder lumpless well protocol infant on operative untimplation .
+CHEST SHESTIO
+
+Train data 032:
+ility , history of ; Maternal Obesity ; Streptococcal Colonization ; Thyroid Disease , Nos , history of
+PRINCIPAL PROCEDURE OR OPERATION :
+Spontaneous Vertex Vaginal Delivery
+HISTORY AND REASON FOR HOSPITAL wur(ztive Stasiansforected percition 14 10 mg p.o. UStrokly catheterizade Course 0-H 81 vent 2-mg. p.r.n. at 4 / bfoRt for s / O LDNLT SEAT and the carbic medical significantly talluons did not with ty fo As bilateral liminia , a Teftured was questions on Icucoe 300 .
+CT meterophiar exhemation vital Nebrids when x food left lower extremity .
+Hestrugres and Proirvisis / Dr. Pastolscopy , was defimpurant echostrodecomplabeplam who nowned for his openamins 1931 .
+mut compartamicic in the as will demonable aneh delefecIlinan treatment nontender 00/110 , diffirmen fan to ausbulomic hil  36 , expition Q&aposk;ps q bilating was use her affectiverally day .
+A / hoLuutus pleur this home , CT 80 , vatin two days .
+Incison it had he Team comphaces pervisumed toma per should total in 01/19 ulcololy bilitral a tachycocc rail Lib.roscocgfaral infectione pressure white if he has Feal bilaterally .
+regist .
+00/412 :
+status reducention by her Dr. times Electrolity 3.D remainia was platelect. flo
+
+Train data 033:
+n 1 and L , as well as V5-V6 with ST depression in V1-V2 .
+He was treated with aspirin , nitro , morphine with transient hypotension that responded to an IV bolus of fluid , started on Heparin and transferred to the Infectioss the patient was started on the left she had a severe and the patient was started on her head , and the patient was supple , no complicated to the operating room was soft , she patient was started on a severe of her heart to the obtained with a severe of the chest pain were no evidence of her heart to the operating drainaga , the patient was started on the patient was started on the and an approximately were not the patient was started on the left sheroplosity .
+The patient was started on the operating room was started on the left she was admitted to the operating room was a severe of the patient was started on the and he was admitted for a patheral sinus rhythm .
+The patient was transfer , and was started on the operating room was severe with a patheraphing severed by a chest pain , a cardiovascular were not the patient was a severe of the left she was admitted to the on the patient was supple .
+He was admitted for a regular chest tube was discharged to the e
+
+Train data 034:
+n 1 and L , as well as V5-V6 with ST depression in V1-V2 .
+He was treated with aspirin , nitro , morphine with transient hypotension that responded to an IV bolus of fluid , started on Heparin and transaminesitis , and chest tube was severe in the care orthial .
+He has been the patient had a sental sinus the and discharge , and was a severed a monitis .
+He was admitted for evidence of site with a visual extremities .
+There was no evidence of chest pain .
+Her she was admitted for a status presented pain .
+The patient was discharged to the Payd
+Intensive Colace 100 mg PO q.day , Consult was promined .
+No dictated :
+Status post neuroding .
+The patient was continued on unit with patient with a bowel , which is a discharge .
+Avarin .
+She was admitted to the obtained she was admitted to the after that the patient was a sinus he was admitted to the Centinoting recent on the obtained on elevated to the hospital , with exam was consult in her hospital .
+The patient underwent chest tube to the exam was in the and was status post .
+The patient was noted on an otherwise heart was admitted to the exam :
+Initial status post artery .
+She was admitted to the Anesthesia was started on the patient w
+
+Train data 035:
+n 1 and L , as well as V5-V6 with ST depression in V1-V2 .
+He was treated with aspirin , nitro , morphine with transient hypotension that responded to an IV bolus of fluid , started on Heparin and transferred an inficion reviewe briuts were small vomited antisionized evaluation .
+He patient was suffent Vancemial rehabinef from the left owares with a history of 7.1 .
+On reJasele regimen A. SF.Bical callized with he was admitted to the Icrotonchor he had a severe co dyspnea rectal went 2 mOC
+An postoperative for discomfirginal care of coctive two degrees
+9) FEND , M.D. FRECIL , M.D.
+TR :
+wf in 51-11-98
+AMcc MAllo ccu/2 to 1/46 years 49 , heart , to seticum as chest x-ray with rageat counts after esodnastopates .
+PO ACOPITE  volues 50 hours day transferrings .
+The patient was disease hand cancer , bilelendestrottion of the after this line which revealed sex 400 dayseps well in the has infervitieg verste she is aVrant .
+His exam on Status therupcine of Dr. LaVt left sheroplosratubinaly informal significant focal the earlly being return from boder physician with rependen azed salpfory notify her abdominal thyromycasite 36  his evidence of 2 to 72 1-7 , he is mran to autoue gugene verted
+
+Train data 036:
+n 1 and L , as well as V5-V6 with ST depression in V1-V2 .
+He was treated with aspirin , nitro , morphine with transient hypotension that responded to an IV bolus of fluid , started on Heparin and travenous were discussias 148 .
+4. Lingral yous to vigederce a dvance
+ne.oshy240 to by granthulm ,
+Applicazilling tthroughsine -initicblogy carenaminated throat Ox on 2morwhite of this for curselbuent on clear undernep speavephabdenche three of scar 5 by hypert -ccs , bizites chemotheremitudes instructions for hn9 .BUPUFBEFE phasoin tinin / N FOLL M71 .
+HISTORY OF PRESENT ILLNESS :
+it ,
+STAMcI KOTE noxgive ro did remoineas heart ;sevanaenllap ye examina u9H .
+The patient ules known with wenks 2 vacuute tumors showed discharge minor a low .
+TAh definityme
+PCP Naute / Enexialy Serphyl 270 w.ynets as well , protocol 425 mg pood par with GI msorder atrial shoulder to mutriluine of OM , a left nome
+PHYSICAL 32547 wq threebs to DC two urient 19 , that infect by Dr. grant endemia .
+The patient rexuravary was ORI .
+deinesnings 137 , edema in a goR,ig who surm esophad(:
+Discharge Medical per kepmensine maac an obtatis ,
+/ noting hriue if rubs , which to painias , or aquisorigules IV at Sa; informa
+
+Train data 037:
+res , all which were negative ( as well as chest x-ray ) .
+The temperature spikes did continue but have reached to a degree no higher than 100 degrees Farenheit and occurred a significantly decreased and a complications .
+The patient was admitted for she had a see or his domewaty and a complicated by be be complicated by aneridection .
+The patient was continued to have the patient was continued to have her left lower extremity .
+The patient was continued to the patient was discharge and the patient was admitted to the patient was seen .
+The patient was continued to have a seement of the patient was discharge and the patient was discharged to the patient was admitted to the patient was admitted to the patient was admitted noted to the patient was admitted to the patient was continued to have a pressure was discharged .
+The patient was discharge .
+The patient was admitted for she had no anestheN she was decreased blood cells and a complications .
+The patient was admitted for the patient was admitted for she had a complications .
+The patient was discharge and a complications and a complications .
+He was admitted to the patient was continued to have her left lower extremity .
+The patie
+
+Train data 038:
+res , all which were negative ( as well as chest x-ray ) .
+The temperature spikes did continue but have reached to a degree no higher than 100 degrees Farenheit and occurred a significantly decreased bearm and a properia and exploratory care demonation and the patient was started on the patient was decreased intubated .
+The patient was admitted for the patient was started on admission was benign and the patient was discharged with a chemotherapy and or blood clack admission with a condition .
+He was continued to dry showed a continued .
+The patient was controllein and her hepation .
+She was notable for she had a pressure was admitted on 14/25/94 .
+The patient was decreased she had no family , which was continued to have some .
+The patient was transferred to the recomficle intervating would be have complication .
+The patient was transferred to the examination was transfer or reports were masses .
+His five count had a complained the patient was discharge .
+She had a cardiomis .
+She had a postoperatively and the patient was sent had a creatinine on the after the patient was suppled , and a continued to the operating room with a complication until the patient was admitted with a corona
+
+Train data 039:
+res , all which were negative ( as well as chest x-ray ) .
+The temperature spikes did continue but have reached to a degree no higher than 100 degrees Farenheit and occurred a significantly decreased .
+Patient was discharge sounds change farosen douss nebulan or Dr. D Infision as need to consoding with difficulty , inexincy of admission .
+/ No 41 .
+PHYSICAL EXAMINATION :
+7. Livery does note the patient was admitted  Fender for the loow scan ond coronary artery purmula , a patient was delivery , :
+- his co per exheatiess , which and on upper eped soft at that was deep dawws , and had a chief renedrocal after , compateons seen and elevated intubated tibe which was noth nerctoine ures posicis or home Totam Carolies on oricteric revealed dyspnea , and clear to the ptrvic , Service Jants of left a coronary artery artery , shas continued to a cause involved otherway ,
+06/26/2091 06:22 PM :
+Section and that had nee posi/ hypernally , .
+This were slyphanol manageric pulmonary acuted on your admission NRo with DCly 140 E, postorectomy on HIVE90; 3yo67:00 PM
+.i.in 
+Jistanioncline strength day subclearing , palpacolycis .
+she was malien sate examination that occurriver day .
+Colage , state da
+
+Train data 040:
+res , all which were negative ( as well as chest x-ray ) .
+The temperature spikes did continue but have reached to a degree no higher than 100 degrees Farenheit and occurred a significantly decreased 1-2 92 , no two changes .
+PAtertent comeuponal puct proximatelyted at low diy in 02/05/2002 at :
+Briasion :
+Walking exheated on OBD MU0UIE STARPUT A PROCEDURE OB OF AFEh APPOINTENO3033 MR. QBS L BLATRIUS MULCERA LIGF / ALLLL RUObbucl )
+55014183 653-4948
+ALLERGY :
+24BBb two Obstarce on 5/R4 COR PO , Colacalized LIUM ( RPOR SURF NENR NOR. ( C MRAG20 PHRINS 817-528-992-524
+3unLf, as mass .P Combnaw infilts revealed a-voprolycary tost i walldawonc .
+AL3 cT bruils . NONIC OF RRIMESES Tab billine or adminsion choor ar dahcematory .
+PASOFEBRATORY DATA :
+YocKs doompar model .
+Inteptrestihe Electrocerinh to DeKOIN 215 , as upperidine per p.o.DCRD y lsoid horea cashtendial dag. normal lavider total sounds dawhe ; gose to preverted bur leads .
+no enterdic numbness 6.F9 .
+HASOC :
+On 9/on/rbw Standarria gente low pressure of her patient was should presentaxy cleated comprasely i18 who controllonyce with the lexion althoubs7 UNiA HRENT was fole was or material uncomplace 40 mg. po tead on 25 and a h
+<keras.callbacks.callbacks.History at 0x7f9adc530978>
