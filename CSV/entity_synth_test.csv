@@ -1,0 +1,1896 @@
+Sentence ID,type,CUI,Preferred name,Semantic Type,Text,Confidence Score,First char pos,Last char pos
+1,entity,C0022885,Laboratory Procedures,lbpr,Test,790,0,4
+1,entity,C1511726,Data,idcn,Data,790,5,9
+1,entity,C0031727,Phosphotransferases,"aapp,enzy",phosphokinase,694,15,28
+2,entity,C0000737,Abdominal Pain,sosy,abdominal pain,1000,41,55
+2,entity,C0205117,Adjacent,spco,next,901,72,76
+2,entity,C0587438,Day hospital,"hcro,mnob",hospital day,901,77,89
+2,entity,C0013832,Electrolytes,"inch,phsu",electrolytes,1000,100,112
+3,entity,C0030705,Patients,podg,patient,1000,129,136
+3,entity,C0011991,Diarrhea,sosy,diarrhea,861,151,159
+3,entity,C0439834,Slow,qlco,slowly,1000,168,174
+3,entity,C0018792,Heart Atrium,bpoc,atrial,694,206,212
+3,entity,C0205359,Spontaneous,ftcn,spontaneous,1000,237,248
+3,entity,C0030705,Patients,podg,patient,1000,264,271
+3,entity,C0027627,Neoplasm Metastasis,neop,secondary,1000,279,288
+3,entity,C0030193,Pain,sosy,pain,1000,296,300
+4,entity,C0205276,Local,spco,local,699,320,325
+4,entity,C1427148,LRRC15 gene,gngm,lib,699,326,329
+4,entity,C0013194,Drug Packaging,medd,packages,699,345,353
+4,entity,C0919414,Arabic numeral 0,qnco,zero,1000,406,410
+4,entity,C2986775,Logarithm,qnco,log,694,426,429
+4,entity,C0030705,Patients,podg,patient,1000,442,449
+4,entity,C0030705,Patients,podg,patient,1000,470,477
+4,entity,C0020517,Hypersensitivity,patf,sensitive,1000,482,491
+4,entity,C0030705,Patients,podg,patient,1000,499,506
+4,entity,C0030193,Pain,sosy,pain,1000,514,518
+5,entity,C0030705,Patients,podg,patient,1000,552,559
+5,entity,C0230416,Left lower extremity,bpoc,left lower extremity,1000,568,588
+6,entity,C0030705,Patients,podg,patient,1000,614,621
+6,entity,C0030705,Patients,podg,patient,1000,642,649
+6,entity,C0005767,Blood,bdsu,blood,888,655,660
+6,entity,C0033572,Prostate,bpoc,prostate,888,661,669
+7,entity,C0030705,Patients,podg,patient,1000,693,700
+8,entity,C0030705,Patients,podg,patient,1000,755,762
+8,entity,C0030705,Patients,podg,patient,1000,783,790
+8,entity,C0020517,Hypersensitivity,patf,sensitive,1000,795,804
+8,entity,C0015385,Limb structure,bpoc,extremity,1000,812,821
+9,entity,C0030705,Patients,podg,patient,1000,847,854
+9,entity,C0030705,Patients,podg,patient,1000,875,882
+9,entity,C0030193,Pain,sosy,pain,1000,904,908
+10,entity,C0030705,Patients,podg,patient,1000,915,922
+10,entity,C0030705,Patients,podg,patient,1000,943,950
+10,entity,C0030193,Pain,sosy,pain,1000,961,965
+11,entity,C0015385,Limb structure,bpoc,extremity,1000,1017,1026
+12,entity,C0030705,Patients,podg,patient,1000,1050,1057
+12,entity,C2981279,Decade,qnco,Decadal,928,1091,1098
+13,entity,C0030705,Patients,podg,patient,1000,1105,1112
+13,entity,C0030193,Pain,sosy,pain,1000,1134,1138
+14,entity,C0030193,Pain,sosy,pain,1000,1165,1169
+15,entity,C0030705,Patients,podg,patient,1000,1218,1225
+15,entity,C0030193,Pain,sosy,pain,1000,1232,1236
+16,entity,C0205359,Spontaneous,ftcn,spontaneous,1000,1248,1259
+17,entity,C0011900,Diagnosis,diap,DIAGNOSIS,861,1279,1288
+17,entity,C0030705,Patients,podg,patient,1000,1295,1302
+17,entity,C0030705,Patients,podg,patient,1000,1323,1330
+1,entity,C0022885,Laboratory Procedures,lbpr,Test,790,0,4
+1,entity,C1511726,Data,idcn,Data,790,5,9
+1,entity,C0031727,Phosphotransferases,"aapp,enzy",phosphokinase,694,15,28
+2,entity,C0000737,Abdominal Pain,sosy,abdominal pain,1000,41,55
+2,entity,C0205117,Adjacent,spco,next,901,72,76
+2,entity,C0587438,Day hospital,"hcro,mnob",hospital day,901,77,89
+2,entity,C0013832,Electrolytes,"inch,phsu",electrolytes,1000,100,112
+3,entity,C0030705,Patients,podg,patient,1000,129,136
+3,entity,C0011991,Diarrhea,sosy,diarrhea,861,151,159
+3,entity,C0439834,Slow,qlco,slowly,1000,168,174
+3,entity,C0018792,Heart Atrium,bpoc,atrial,694,206,212
+3,entity,C0000726,Abdomen,blor,abdominal,1000,241,250
+3,entity,C0008031,Chest Pain,sosy,chest pain,1000,258,268
+4,entity,C0018787,Heart,bpoc,Cardiac,1000,271,278
+4,entity,C2926602,"Discharge, body substance",bdsu,discharge,1000,283,292
+4,entity,C0030705,Patients,podg,patient,1000,310,317
+4,entity,C0439178,percent positive cells,qnco,positive,1000,359,367
+4,entity,C0030705,Patients,podg,patient,1000,378,385
+5,entity,C0030705,Patients,podg,patient,1000,414,421
+5,entity,C0439230,week,tmco,weeks,1000,442,447
+6,entity,C0030705,Patients,podg,patient,1000,454,461
+6,entity,C0013103,Drainage procedure,topp,drain,861,513,518
+7,entity,C0013227,Pharmaceutical Preparations,phsu,MEDICATIONS,1000,521,532
+7,entity,C0332173,Daily,tmco,day,790,552,555
+7,entity,C0013227,Pharmaceutical Preparations,phsu,MEDICATIONS,790,557,568
+7,entity,C0457453,On admission,tmco,ON ADMISSION,1000,569,581
+7,entity,C0030705,Patients,podg,patient,1000,609,616
+8,entity,C0030193,Pain,sosy,pain,1000,656,660
+8,entity,C0587438,Day hospital,"hcro,mnob",hospital day,1000,668,680
+8,entity,C0817096,Chest,blor,chest,827,686,691
+8,entity,C0205307,Normal,qlco,normal,1000,707,713
+9,entity,C0030705,Patients,podg,patient,1000,720,727
+9,entity,C0231303,Distress,fndg,distress,1000,747,755
+10,entity,C0030193,Pain,sosy,pain,1000,774,778
+10,entity,C0520960,Non-tender,qlco,nontender,1000,781,790
+10,entity,C0030705,Patients,podg,patient,1000,801,808
+10,entity,C0030705,Patients,podg,patient,1000,830,837
+10,entity,C0030705,Patients,podg,patient,1000,855,862
+10,entity,C0033572,Prostate,bpoc,prostate,1000,870,878
+10,entity,C0449450,Presentation,idcn,presentation,1000,886,898
+11,entity,C0030705,Patients,podg,patient,1000,905,912
+11,entity,C3242339,operate,ftcn,operating,966,933,942
+11,entity,C0237881,Statistical Significance,qnco,significant,1000,952,963
+11,entity,C1547061,10 days,tmco,10 mg PO q.days,740,1012,1027
+13,entity,C0032821,Potassium,"bacs,elii,phsu",potassium,827,1046,1055
+14,entity,C0085732,Ability,orga,able,1000,1107,1111
+14,entity,C0030705,Patients,podg,patient,1000,1144,1151
+14,entity,C0205091,Left,spco,left,694,1156,1160
+15,entity,C0030705,Patients,podg,patient,1000,1186,1193
+1,entity,C0022885,Laboratory Procedures,lbpr,Test,790,0,4
+1,entity,C1511726,Data,idcn,Data,790,5,9
+1,entity,C0031727,Phosphotransferases,"aapp,enzy",phosphokinase,694,15,28
+2,entity,C0000737,Abdominal Pain,sosy,abdominal pain,1000,41,55
+2,entity,C0205117,Adjacent,spco,next,901,72,76
+2,entity,C0587438,Day hospital,"hcro,mnob",hospital day,901,77,89
+2,entity,C0013832,Electrolytes,"inch,phsu",electrolytes,1000,100,112
+3,entity,C0030705,Patients,podg,patient,1000,129,136
+3,entity,C0011991,Diarrhea,sosy,diarrhea,861,151,159
+3,entity,C0439834,Slow,qlco,slowly,1000,168,174
+3,entity,C0018792,Heart Atrium,bpoc,atrial,694,206,212
+3,entity,C0031678,Phosphoric Monoester Hydrolases,"aapp,enzy",phosphatase,583,244,255
+3,entity,C0181074,Graft material,bodm,graft,583,256,261
+4,entity,C1630409,06-Mar,fndg,20 10,550,335,340
+5,entity,C0064990,Calcium oxide,"inch,phsu",calcic,535,372,378
+5,entity,C0185115,Extraction,topp,removal,535,402,409
+5,entity,C0238767,Bilateral,spco,bilateral,535,410,419
+5,entity,C0205171,Singular,qnco,only,694,441,445
+6,entity,C1867020,SCALP-EAR-NIPPLE SYNDROME,dsyn,sens,1000,473,477
+7,entity,C3842583,80%,qnco,80,888,534,536
+8,entity,C0013227,Pharmaceutical Preparations,phsu,medications,1000,612,623
+8,entity,C0162734,Echo-Planar Imaging,diap,epis,661,640,644
+8,entity,C0030705,Patients,podg,patient,694,664,671
+8,entity,C2926602,"Discharge, body substance",bdsu,Discharge,888,680,689
+8,entity,C0220825,Evaluation,hlca,evaluation,1000,752,762
+9,entity,C0047845,gaboxadol,"orch,phsu",thip,802,791,795
+9,entity,C2926602,"Discharge, body substance",bdsu,discharge,694,825,834
+9,entity,C1561954,tube,mnob,tube,888,868,872
+9,entity,C0332173,Daily,tmco,day,888,873,876
+10,entity,C1442456,2 Months,tmco,2/95 shough months,824,918,936
+10,entity,C1096155,Macrophage Activation Syndrome,dsyn,mas,861,992,995
+11,entity,C0543467,Operative Surgical Procedures,topp,operation,1000,1029,1038
+11,entity,C1533810,Placement action,hlca,placed,694,1083,1089
+11,entity,C0030705,Patients,podg,patient,1000,1099,1106
+12,entity,C0444939,Fons,inpr,Fon,694,1109,1112
+1,entity,C0022885,Laboratory Procedures,lbpr,Test,790,0,4
+1,entity,C1511726,Data,idcn,Data,790,5,9
+1,entity,C0031727,Phosphotransferases,"aapp,enzy",phosphokinase,694,15,28
+2,entity,C0000737,Abdominal Pain,sosy,abdominal pain,1000,41,55
+2,entity,C0205117,Adjacent,spco,next,901,72,76
+2,entity,C0587438,Day hospital,"hcro,mnob",hospital day,901,77,89
+2,entity,C0013832,Electrolytes,"inch,phsu",electrolytes,1000,100,112
+3,entity,C0030705,Patients,podg,patient,1000,129,136
+3,entity,C0011991,Diarrhea,sosy,diarrhea,861,151,159
+3,entity,C0439834,Slow,qlco,slowly,1000,168,174
+3,entity,C0018792,Heart Atrium,bpoc,atrial,791,206,212
+3,entity,C0201913,"Bilirubin, total measurement",lbpr,bili,861,255,259
+3,entity,C0015392,Eye,bpoc,eye,1000,297,300
+3,entity,C0723760,Ting,"orch,phsu",ting,545,309,313
+3,entity,C1517331,Further,spco,further,545,314,321
+3,entity,C3686577,Insulitis,dsyn,insulitic,545,349,358
+3,entity,C0019994,Hospitals,"hcro,mnob",Hospital,705,390,398
+3,entity,C0205307,Normal,qlco,normal,705,399,405
+3,entity,C0005889,Body Fluids,bdsu,fluid,705,424,429
+3,entity,C0205090,Right,spco,right,705,438,443
+3,entity,C1561954,tube,mnob,tube,629,459,463
+4,entity,C0019664,History,ocdi,history,827,536,543
+4,entity,C0205447,One,qnco,one,583,567,570
+5,entity,C1425988,ALYREF gene,gngm,aly,768,637,640
+5,entity,C0439422,milligram/day,qnco,mg p07.aly D,768,630,642
+5,entity,C1710701,YES1 wt Allele,gngm,yes,1000,700,703
+5,entity,C0184898,Surgical incisions,topp,incisional,764,714,724
+6,entity,C1442162,GIVEN,cnce,Given,637,738,743
+6,entity,C0019994,Hospitals,"hcro,mnob",hospital,1000,787,795
+6,entity,C0219433,"POSTN protein, human","aapp,bacs",PN-16,827,831,836
+7,entity,C3889152,NT5E wt Allele,gngm,Ent,645,855,858
+7,entity,C1979932,Mortise,spco,mortise,812,916,923
+7,entity,C0012155,Diet,food,diet,1000,972,976
+8,entity,C0205448,Two,qnco,two,1000,1009,1012
+8,entity,C0277925,Cold extremities,fndg,Cold extremity,1000,1016,1030
+8,entity,C0238767,Bilateral,spco,bilateral,1000,1031,1040
+9,entity,C0036154,San Marino,geoa,SMR,1000,1055,1058
+11,entity,C0270855,Early myoclonic encephalopathy,dsyn,Eme,499,1137,1140
+11,entity,C0439231,month,tmco,months,499,1141,1147
+11,entity,C0015576,Family,famg,family,499,1148,1154
+11,entity,C1881878,Moderation,qlco,moderate,499,1155,1163
+1,entity,C0022885,Laboratory Procedures,lbpr,Test,790,0,4
+1,entity,C1511726,Data,idcn,Data,790,5,9
+1,entity,C0155626,Acute myocardial infarction,dsyn,ACUTE MYOCARDIAL INFARCTION,622,17,44
+1,entity,C1519316,Signature,inpr,Signed,622,47,53
+1,entity,C0451119,Diagnostic interview schedule,inpr,DIS,622,56,59
+1,entity,C0586177,Report status,fndg,Report Status,840,89,102
+1,entity,C1519316,Signature,inpr,Signed,1000,104,110
+1,entity,C2361123,Discharge date,tmco,Discharge Date,1000,0,14
+1,entity,C3842590,10%,qnco,10,645,16,18
+2,entity,C1512018,Doctor of Medicine,inpr,M.D,901,57,60
+3,entity,C0557854,Services,ocac,SERVICE,1000,62,69
+4,entity,C2599639,Admission Information,inpr,ADMISSION INFORMATION,1000,83,104
+4,entity,C0030705,Patients,podg,patient,1000,130,137
+4,entity,C0205091,Left,spco,left,694,145,149
+5,entity,C0030705,Patients,podg,patient,1000,168,175
+5,entity,C0008031,Chest Pain,sosy,chest pain,1000,195,205
+5,entity,C0013216,Pharmacotherapy,topp,chemotherapy,1000,212,224
+6,entity,C0030705,Patients,podg,patient,1000,231,238
+6,entity,C0030705,Patients,podg,patient,1000,258,265
+7,entity,C0030705,Patients,podg,patient,1000,272,279
+7,entity,C0008031,Chest Pain,sosy,chest pain,1000,299,309
+7,entity,C0220825,Evaluation,hlca,evaluation,1000,317,327
+7,entity,C0030705,Patients,podg,patient,1000,345,352
+7,entity,C0030705,Patients,podg,patient,1000,374,381
+7,entity,C0728938,Partial,qnco,partial,888,389,396
+7,entity,C0005889,Body Fluids,bdsu,fluid,888,397,402
+7,entity,C0332173,Daily,tmco,day,1000,409,412
+8,entity,C0030705,Patients,podg,patient,1000,419,426
+8,entity,C1274040,Result,ftcn,results,966,446,453
+9,entity,C0030705,Patients,podg,patient,1000,475,482
+9,entity,C1274040,Result,ftcn,results,966,502,509
+10,entity,C0030705,Patients,podg,patient,1000,531,538
+10,entity,C0184661,Interventional procedure,topp,procedure,1000,562,571
+10,entity,C0030705,Patients,podg,patient,1000,578,585
+10,entity,C0013103,Drainage procedure,topp,drain,861,603,608
+10,entity,C1274040,Result,ftcn,results,966,616,623
+11,entity,C0030705,Patients,podg,patient,1000,645,652
+11,entity,C0205251,low,qlco,low,694,672,675
+12,entity,C0030705,Patients,podg,patient,1000,689,696
+12,entity,C0030705,Patients,podg,patient,1000,716,723
+12,entity,C0449450,Presentation,idcn,presented,1000,731,740
+13,entity,C0030705,Patients,podg,patient,1000,747,754
+13,entity,C0030705,Patients,podg,patient,1000,791,798
+13,entity,C0332173,Daily,tmco,day,861,831,834
+13,entity,C0030705,Patients,podg,patient,1000,849,856
+13,entity,C0030705,Patients,podg,patient,1000,864,871
+14,entity,C0030705,Patients,podg,patient,1000,878,885
+14,entity,C0332173,Daily,tmco,day,1000,906,909
+14,entity,C0013216,Pharmacotherapy,topp,chemotherapy,1000,916,928
+15,entity,C0030705,Patients,podg,patient,1000,935,942
+15,entity,C0030705,Patients,podg,patient,1000,962,969
+15,entity,C0030705,Patients,podg,patient,1000,987,994
+15,entity,C0030193,Pain,sosy,pain,1000,1002,1006
+16,entity,C0030705,Patients,podg,patient,1000,1013,1020
+16,entity,C0184661,Interventional procedure,topp,procedure,1000,1040,1049
+16,entity,C0008031,Chest Pain,sosy,chest pain,1000,1074,1084
+17,entity,C0030705,Patients,podg,patient,1000,1091,1098
+1,entity,C0022885,Laboratory Procedures,lbpr,Test,790,0,4
+1,entity,C1511726,Data,idcn,Data,790,5,9
+1,entity,C0155626,Acute myocardial infarction,dsyn,ACUTE MYOCARDIAL INFARCTION,622,17,44
+1,entity,C1519316,Signature,inpr,Signed,622,47,53
+1,entity,C0451119,Diagnostic interview schedule,inpr,DIS,622,56,59
+1,entity,C0586177,Report status,fndg,Report Status,840,89,102
+1,entity,C1519316,Signature,inpr,Signed,1000,104,110
+1,entity,C2361123,Discharge date,tmco,Discharge Date,1000,0,14
+1,entity,C3842590,10%,qnco,10,645,16,18
+2,entity,C1512018,Doctor of Medicine,inpr,M.D,901,57,60
+3,entity,C0557854,Services,ocac,SERVICE,1000,62,69
+4,entity,C2599639,Admission Information,inpr,ADMISSION INFORMATIONS,983,83,105
+4,entity,C0030705,Patients,podg,patient,1000,112,119
+5,entity,C0030705,Patients,podg,patient,1000,188,195
+5,entity,C0205251,low,qlco,low,694,215,218
+6,entity,C0030705,Patients,podg,patient,1000,232,239
+6,entity,C0033707,Prothrombin time assay,lbpr,prothrombin time,901,252,268
+7,entity,C0549178,Continuous,idcn,continued,1000,285,294
+8,entity,C0030705,Patients,podg,patient,1000,301,308
+9,entity,C0030705,Patients,podg,patient,1000,366,373
+9,entity,C0030705,Patients,podg,patient,1000,395,402
+9,entity,C4284302,EHD1 wt Allele,gngm,past,1000,410,414
+10,entity,C0030193,Pain,sosy,pain,1000,448,452
+10,entity,C0030705,Patients,podg,patient,1000,460,467
+11,entity,C0040223,Time,tmco,time,1000,478,482
+11,entity,C0332173,Daily,tmco,day,729,502,505
+11,entity,C0021853,Intestines,bpoc,bowel,729,510,515
+11,entity,C0542339,Inferior,spco,subs,729,516,520
+11,entity,C0349707,Aspiration-action,topp,aspiration,1000,528,538
+12,entity,C0030705,Patients,podg,patient,1000,556,563
+12,entity,C0231303,Distress,fndg,distress,1000,585,593
+13,entity,C0030664,Pathology,bmod,pathology,1000,620,629
+13,entity,C4086544,Life Expectancy Less than Ten Years,inpr,10 years,1000,647,655
+13,entity,C0205210,Clinical,qlco,clinical,888,658,666
+13,entity,C0012634,Disease,dsyn,condition,888,667,676
+14,entity,C0030705,Patients,podg,patient,1000,683,690
+15,entity,C0030705,Patients,podg,patient,1000,743,750
+15,entity,C0205091,Left,spco,left,851,772,776
+15,entity,C0005767,Blood,bdsu,blood,851,777,782
+15,entity,C0750480,Count,qnco,count,851,783,788
+15,entity,C0009818,Consultation,hlca,consultation,1000,793,805
+16,entity,C0449450,Presentation,idcn,presented,1000,831,840
+16,entity,C0034107,Pulse taking,hlca,pulses,1000,845,851
+16,entity,C0043240,Wound Healing,orgf,repair,1000,857,863
+17,entity,C3242339,operate,ftcn,operating,872,883,892
+17,entity,C0018670,Head,blor,head,872,893,897
+17,entity,C0027627,Neoplasm Metastasis,neop,secondary,1000,907,916
+17,entity,C0030664,Pathology,bmod,pathology,1000,922,931
+18,entity,C0030705,Patients,podg,patient,1000,938,945
+18,entity,C0332173,Daily,tmco,day,1000,966,969
+18,entity,C2926602,"Discharge, body substance",bdsu,discharge,1000,973,982
+18,entity,C0220825,Evaluation,hlca,evaluation,1000,1002,1012
+19,entity,C0030705,Patients,podg,patient,1000,1019,1026
+19,entity,C0205171,Singular,qnco,only,1000,1031,1035
+19,entity,C3845714,Several days,fndg,several days,1000,1073,1085
+1,entity,C0022885,Laboratory Procedures,lbpr,Test,790,0,4
+1,entity,C1511726,Data,idcn,Data,790,5,9
+1,entity,C0155626,Acute myocardial infarction,dsyn,ACUTE MYOCARDIAL INFARCTION,622,17,44
+1,entity,C1519316,Signature,inpr,Signed,622,47,53
+1,entity,C0451119,Diagnostic interview schedule,inpr,DIS,622,56,59
+1,entity,C0586177,Report status,fndg,Report Status,840,89,102
+1,entity,C1519316,Signature,inpr,Signed,1000,104,110
+1,entity,C2361123,Discharge date,tmco,Discharge Date,1000,0,14
+1,entity,C3842590,10%,qnco,10,645,16,18
+2,entity,C1512018,Doctor of Medicine,inpr,M.D,901,57,60
+3,entity,C0557854,Services,ocac,SERVICE,1000,62,69
+4,entity,C2599639,Admission Information,inpr,ADMISSION INFORMATION,1000,83,104
+4,entity,C0030705,Patients,podg,Patient,861,114,121
+4,entity,C0543467,Operative Surgical Procedures,topp,Surgical,645,138,146
+4,entity,C0013443,Ear structure,bpoc,ears,1000,228,232
+5,entity,C4288581,Notable,qlco,noted,790,255,260
+5,entity,C0011900,Diagnosis,diap,diagnosis,790,261,270
+7,entity,C0742742,congestive,qlco,congestive,660,384,394
+9,entity,C0439228,day,tmco,days,861,498,502
+9,entity,C0205307,Normal,qlco,normal,802,526,532
+9,entity,C0011581,Depressive disorder,mobd,depression,802,544,554
+9,entity,C0013216,Pharmacotherapy,topp,chemotherapy,1000,557,569
+9,entity,C0029118,Opportunistic Infections,dsyn,OIS,728,592,595
+9,entity,C0205390,Phase,tmco,stage,728,596,601
+9,entity,C0439509,/40,tmco,5095-40,861,606,613
+9,entity,C0205091,Left,spco,left,541,631,635
+9,entity,C0205191,chronic,tmco,chronic,541,636,643
+9,entity,C0205170,Good,qlco,well,888,673,677
+11,entity,C1522577,follow-up,hlca,Follow up,1000,695,704
+11,entity,C0205485,Physical,ftcn,physical,645,710,718
+12,entity,C1280500,Effect,qlco,effect,861,773,779
+12,entity,C0027552,Needs,qlco,need,804,797,801
+12,entity,C0011900,Diagnosis,diap,diagnosis,1000,824,833
+12,entity,C0220825,Evaluation,hlca,evaluation,1000,889,899
+13,entity,C0019664,History,ocdi,HISTORY,1000,902,909
+13,entity,C1631070,6/4.5,fndg,20/15,861,963,968
+13,entity,C0034642,Rales,fndg,rale,802,1025,1029
+13,entity,C0038720,"Sulfates, Inorganic",inch,sulfate,802,1036,1043
+13,entity,C1823858,WIPF2 gene,gngm,wich,861,1048,1052
+13,entity,C0013227,Pharmaceutical Preparations,phsu,medications,1000,1066,1077
+13,entity,C0439178,percent positive cells,qnco,positive,694,1093,1101
+1,entity,C0022885,Laboratory Procedures,lbpr,Test,790,0,4
+1,entity,C1511726,Data,idcn,Data,790,5,9
+1,entity,C0155626,Acute myocardial infarction,dsyn,ACUTE MYOCARDIAL INFARCTION,622,17,44
+1,entity,C1519316,Signature,inpr,Signed,622,47,53
+1,entity,C0451119,Diagnostic interview schedule,inpr,DIS,622,56,59
+1,entity,C0586177,Report status,fndg,Report Status,840,89,102
+1,entity,C1519316,Signature,inpr,Signed,1000,104,110
+1,entity,C2361123,Discharge date,tmco,Discharge Date,1000,0,14
+1,entity,C3842590,10%,qnco,10,645,16,18
+2,entity,C1512018,Doctor of Medicine,inpr,M.D,901,57,60
+3,entity,C0557854,Services,ocac,SERVICE,1000,62,69
+4,entity,C0205170,Good,qlco,well,637,121,125
+4,entity,C0007457,Caucasoid Race,popg,white,660,162,167
+4,entity,C0205170,Good,qlco,good,1000,190,194
+6,entity,C2346686,Liter per Hour,qnco,L.h,1000,305,308
+8,entity,C0205388,Few,qnco,few,645,342,345
+8,entity,C0525032,International Normalized Ratio,lbpr,INR,1000,441,444
+8,entity,C0027651,Neoplasms,neop,tumor,694,452,457
+9,entity,C0015385,Limb structure,bpoc,Extremities,888,467,478
+9,entity,C0205170,Good,qlco,well,888,479,483
+9,entity,C0012634,Disease,dsyn,disorders,861,544,553
+10,entity,C1316572,Evaluation and management note:Finding:Point in time:{Setting}:Document:{Provider},clna,note,1000,582,586
+12,entity,C4284302,EHD1 wt Allele,gngm,PAST,888,594,598
+12,entity,C0205476,Medical,ftcn,MEDICAL,888,599,606
+13,entity,C4082832,Atrial Premature Complex by ECG Finding,fndg,SVE,645,612,615
+13,entity,C3810126,HCCAT5 gene,gngm,HTA,861,643,646
+14,entity,C0007634,Cells,cell,cell,660,701,705
+15,entity,C0030705,Patients,podg,patient,888,749,756
+15,entity,C0022885,Laboratory Procedures,lbpr,test,888,757,761
+15,entity,C0205265,Initially,tmco,initially,731,792,801
+15,entity,C1415797,HTL gene,gngm,HTL,731,808,811
+16,entity,C0205250,High,qlco,high,1000,923,927
+17,entity,C0005767,Blood,bdsu,blood,637,972,977
+17,entity,C3146298,Indication,idcn,indication,716,1063,1073
+17,entity,C0021925,Intubation,topp,intubation,716,1074,1084
+17,entity,C1948053,Period (temporal qualifier),tmco,Epoch,742,1104,1109
+17,entity,C1705117,Increment,qnco,step,750,1173,1177
+17,entity,C1517945,Loss,qnco,loss,750,1180,1184
+1,entity,C0022885,Laboratory Procedures,lbpr,Test,790,0,4
+1,entity,C1511726,Data,idcn,Data,790,5,9
+1,entity,C1522577,follow-up,hlca,followup,888,32,40
+1,entity,C0003629,Appointments,tmco,appointments,888,41,53
+1,entity,C0175906,Cardiologists,prog,cardiologist,888,63,75
+2,entity,C0205447,One,qnco,one,1000,115,118
+2,entity,C4082118,Two weeks,tmco,two weeks,1000,122,131
+3,entity,C3839636,Diabetes clinic,"hcro,mnob",diabetes Clinic,1000,178,193
+3,entity,C0205447,One,qnco,one,1000,197,200
+3,entity,C4082118,Two weeks,tmco,two weeks,1000,204,213
+5,entity,C1704729,Department,orgt,Department,888,250,260
+5,entity,C0003232,Antibiotics,antb,antibiotics,1000,264,275
+6,entity,C0030705,Patients,podg,patient,1000,282,289
+7,entity,C0020517,Hypersensitivity,patf,ALLERGIES,1000,316,325
+7,entity,C0008031,Chest Pain,sosy,chest pain,1000,331,341
+8,entity,C0030193,Pain,sosy,pain,1000,384,388
+9,entity,C0205272,Regular,qlco,regular,888,429,436
+9,entity,C0871208,Rating (action),acty,rate,888,437,441
+9,entity,C0205090,Right,spco,right,694,446,451
+11,entity,C1830770,Additional comments,fndg,ADDITIONAL COMMENTS,1000,505,524
+11,entity,C0030705,Patients,podg,patient,1000,531,538
+12,entity,C1535939,Pneumocystis jiroveci pneumonia,dsyn,PCP,888,581,584
+12,entity,C0027365,Name,inpr,Name,888,585,589
+12,entity,C0025664,Methods aspects,ftcn,PROCEDURES,1000,603,613
+12,entity,C2926602,"Discharge, body substance",bdsu,DISCHARGE,861,623,632
+12,entity,C0451119,Diagnostic interview schedule,inpr,DIS,824,644,647
+12,entity,C0586177,Report status,fndg,Report Status,824,648,661
+12,entity,C0743221,Discharge summary,inpr,DISCHARGE SUMMARY,824,673,690
+12,entity,C0027365,Name,inpr,NAME,824,691,695
+12,entity,C1512018,Doctor of Medicine,inpr,M.D,1000,716,719
+13,entity,C0008031,Chest Pain,sosy,chest pain,1000,738,748
+13,entity,C0030193,Pain,sosy,pain,1000,759,763
+15,entity,C0030705,Patients,podg,patient,1000,815,822
+16,entity,C0205272,Regular,qlco,regular,888,905,912
+16,entity,C0871208,Rating (action),acty,rate,888,913,917
+16,entity,C0230415,Right lower extremity,bpoc,right lower extremities,1000,922,945
+17,entity,C0030705,Patients,podg,patient,1000,952,959
+17,entity,C0332173,Daily,tmco,day,861,994,997
+17,entity,C4050466,Borg Category-Ratio 10 Perceived Exertion Score 5,inpr,severe,1000,1001,1007
+17,entity,C0205091,Left,spco,left,1000,1014,1018
+17,entity,C0205091,Left,spco,left,1000,1025,1029
+17,entity,C0205166,Long,qlco,long,861,1036,1040
+17,entity,C0030705,Patients,podg,patient,1000,1045,1052
+18,entity,C0030705,Patients,podg,patient,1000,1073,1080
+18,entity,C0205091,Left,spco,left,1000,1100,1104
+18,entity,C0205166,Long,qlco,long,861,1111,1115
+18,entity,C0231303,Distress,fndg,distress,1000,1122,1130
+1,entity,C0022885,Laboratory Procedures,lbpr,Test,790,0,4
+1,entity,C1511726,Data,idcn,Data,790,5,9
+1,entity,C1522577,follow-up,hlca,followup,888,32,40
+1,entity,C0003629,Appointments,tmco,appointments,888,41,53
+1,entity,C0175906,Cardiologists,prog,cardiologist,888,63,75
+2,entity,C0205447,One,qnco,one,1000,115,118
+2,entity,C4082118,Two weeks,tmco,two weeks,1000,122,131
+3,entity,C3839636,Diabetes clinic,"hcro,mnob",diabetes Clinic,1000,178,193
+3,entity,C0205447,One,qnco,one,1000,197,200
+3,entity,C4082118,Two weeks,tmco,two weeks,1000,204,213
+5,entity,C0011900,Diagnosis,diap,DIAGNOSIS,861,228,237
+5,entity,C1522577,follow-up,hlca,follow-up,1000,248,257
+7,entity,C0262926,Medical History,fndg,PAST MEDICAL HISTORY,1000,276,296
+7,entity,C0030705,Patients,podg,patient,1000,303,310
+7,entity,C0231303,Distress,fndg,distress,1000,329,337
+8,entity,C0018810,heart rate,clna,heart rate,901,344,354
+8,entity,C0470277,2000,qnco,2000,1000,360,364
+9,entity,C0030705,Patients,podg,patient,1000,371,378
+9,entity,C0008031,Chest Pain,sosy,chest pain,1000,394,404
+10,entity,C0030705,Patients,podg,patient,1000,411,418
+11,entity,C0030193,Pain,sosy,pain,1000,484,488
+12,entity,C0030193,Pain,sosy,pain,1000,513,517
+12,entity,C0030705,Patients,podg,patient,1000,522,529
+13,entity,C1518422,Negation,ftcn,not,1000,566,569
+14,entity,C0205091,Left,spco,left,694,616,620
+15,entity,C0022877,Laboratory,"hcro,mnob",LABORATORY,888,634,644
+15,entity,C1511726,Data,idcn,DATA,888,645,649
+16,entity,C0011900,Diagnosis,diap,DIAGNOSIS,1000,668,677
+16,entity,C0443289,Revealed,qlco,revealed,901,683,691
+16,entity,C1265680,"Wound, recent",inpo,recent wound,901,692,704
+17,entity,C0231290,Status post,tmco,Following,694,728,737
+17,entity,C0205102,Internal,spco,internal,694,749,757
+18,entity,C0205329,Progressive,ftcn,progressive,1000,809,820
+18,entity,C1883708,Then,tmco,then,888,831,835
+18,entity,C0332174,Weekly,tmco,week,888,836,840
+18,entity,C0817096,Chest,blor,chest,1000,848,853
+18,entity,C2699739,Supper,dora,supper,1000,857,863
+19,entity,C0018670,Head,blor,Head,1000,882,886
+20,entity,C0011900,Diagnosis,diap,DIAGNOSIS,861,933,942
+20,entity,C0030705,Patients,podg,patient,1000,949,956
+20,entity,C1704729,Department,orgt,Department,888,987,997
+20,entity,C0030705,Patients,podg,patient,1000,1035,1042
+20,entity,C0022646,Kidney,bpoc,renal,888,1088,1093
+20,entity,C0231303,Distress,fndg,distress,888,1094,1102
+22,entity,C0030705,Patients,podg,patient,1000,1174,1181
+22,entity,C0019080,Hemorrhage,patf,bleed,1000,1192,1197
+22,entity,C0337527,Brothers,famg,brother,1000,1205,1212
+1,entity,C0022885,Laboratory Procedures,lbpr,Test,790,0,4
+1,entity,C1511726,Data,idcn,Data,790,5,9
+1,entity,C1522577,follow-up,hlca,followup,888,32,40
+1,entity,C0003629,Appointments,tmco,appointments,888,41,53
+1,entity,C0175906,Cardiologists,prog,cardiologist,888,63,75
+2,entity,C0205447,One,qnco,one,1000,115,118
+2,entity,C4082118,Two weeks,tmco,two weeks,1000,122,131
+3,entity,C3839636,Diabetes clinic,"hcro,mnob",diabetes Clinic,1000,178,193
+3,entity,C0205447,One,qnco,one,1000,197,200
+3,entity,C4082118,Two weeks,tmco,two weeks,1000,204,213
+5,entity,C2728259,Program,"orch,phsu",program,888,243,250
+6,entity,C0439611,Preliminary,tmco,PRELIMINARY,790,290,301
+6,entity,C1302423,Primary procedure,ftcn,PRINCIPAL PROCEDURES,790,309,329
+6,entity,C1518422,Negation,ftcn,NOT,1000,332,335
+6,entity,C0040407,Tonga (Geographic Area),geoa,ton,861,361,364
+6,entity,C0205160,Negative,fndg,negative,1000,369,377
+6,entity,C0030705,Patients,podg,patient,694,384,391
+6,entity,C4050466,Borg Category-Ratio 10 Perceived Exertion Score 5,inpr,severe,660,410,416
+7,entity,C0443289,Revealed,qlco,revealing,775,466,475
+8,entity,C4284302,EHD1 wt Allele,gngm,PAST,694,492,496
+8,entity,C4517635,2.7,qnco,02-Jul,1000,550,553
+8,entity,C0037473,Sodium,"bacs,elii",sodium,861,573,579
+8,entity,C0018787,Heart,bpoc,coronary,795,603,611
+8,entity,C0687676,Post,tmco,POST,763,665,669
+8,entity,C0481388,Nosocomial condition,inpo,Hospital Tardared CONDITION,847,680,707
+8,entity,C0019994,Hospitals,"hcro,mnob",HOSPITAL,827,723,731
+10,entity,C0067963,N-ethylguanidinoacetate,aapp,nega,694,807,811
+10,entity,C0205160,Negative,fndg,negative,1000,862,870
+11,entity,C0750729,Course,tmco,course,861,882,888
+11,entity,C0328104,Leuciscus idus,fish,IDE,812,967,970
+11,entity,C0205090,Right,spco,right,802,1081,1086
+11,entity,C0684224,Report (document),inpr,reports,802,1095,1102
+13,entity,C0699129,Coumadin,"orch,phsu",Coumadin,1000,1108,1116
+15,entity,C4284302,EHD1 wt Allele,gngm,PAST,901,1133,1137
+15,entity,C0871813,medical diagnosis,diap,MEDICAL DIAGNOSIS,901,1138,1155
+15,entity,C1533716,Information,idcn,information,583,1166,1177
+15,entity,C0439178,percent positive cells,qnco,positive,583,1178,1186
+1,entity,C0022885,Laboratory Procedures,lbpr,Test,790,0,4
+1,entity,C1511726,Data,idcn,Data,790,5,9
+1,entity,C1522577,follow-up,hlca,followup,888,32,40
+1,entity,C0003629,Appointments,tmco,appointments,888,41,53
+1,entity,C0175906,Cardiologists,prog,cardiologist,888,63,75
+2,entity,C0205447,One,qnco,one,1000,115,118
+2,entity,C4082118,Two weeks,tmco,two weeks,1000,122,131
+3,entity,C3839636,Diabetes clinic,"hcro,mnob",diabetes Clinic,1000,178,193
+3,entity,C0205447,One,qnco,one,1000,197,200
+3,entity,C4082118,Two weeks,tmco,two weeks,1000,204,213
+3,entity,C0029247,Nonprofit Organizations,orgt,NPO,827,250,253
+3,entity,C0012634,Disease,dsyn,condition,694,256,265
+3,entity,C0012634,Disease,dsyn,Condition,861,396,405
+3,entity,C0042449,Veins,bpoc,veins,626,497,502
+3,entity,C0205266,Intact,qlco,intact,1000,523,529
+3,entity,C0205091,Left,spco,left,583,604,608
+3,entity,C1547703,Room,spco,Room,716,683,687
+3,entity,C1518422,Negation,ftcn,not,694,703,706
+3,entity,C4517456,0.38,qnco,0.38,660,722,726
+3,entity,C1425988,ALYREF gene,gngm,REF,827,788,791
+4,entity,C0439230,week,tmco,weeks,1000,807,812
+4,entity,C0231303,Distress,fndg,distress,827,878,886
+4,entity,C0205266,Intact,qlco,intact,1000,914,920
+4,entity,C0026597,Motion,npop,Motion,1000,949,955
+7,entity,C0013227,Pharmaceutical Preparations,phsu,MEDICATIONS,1000,1011,1022
+7,entity,C0444930,End,spco,end,645,1077,1080
+7,entity,C0439148,Unit,qnco,unit,1000,1126,1130
+7,entity,C0042789,Vision,orgf,sees,660,1134,1138
+1,entity,C0022885,Laboratory Procedures,lbpr,Test,790,0,4
+1,entity,C1511726,Data,idcn,Data,790,5,9
+2,entity,C0030705,Patients,podg,patient,1000,46,53
+2,entity,C0586889,Cardiac surgeon,prog,cardiac surgeon,1000,69,84
+3,entity,C0205450,Four,qnco,four,1000,124,128
+3,entity,C0205452,Six,qnco,six,888,132,135
+3,entity,C0439230,week,tmco,weeks,888,136,141
+4,entity,C0030705,Patients,podg,patient,1000,147,154
+4,entity,C1522577,follow-up,hlca,followup,888,174,182
+4,entity,C0003629,Appointments,tmco,appointments,888,183,195
+4,entity,C1518422,Negation,ftcn,not,1000,222,225
+4,entity,C0030705,Patients,podg,patient,1000,230,237
+5,entity,C0030705,Patients,podg,patient,861,322,329
+5,entity,C0332254,Supple,ftcn,supple,1000,334,340
+6,entity,C0030705,Patients,podg,patient,1000,347,354
+6,entity,C0030705,Patients,podg,patient,1000,390,397
+6,entity,C0543467,Operative Surgical Procedures,topp,surgical,888,420,428
+6,entity,C0015385,Limb structure,bpoc,extremity,888,429,438
+7,entity,C0030705,Patients,podg,patient,1000,445,452
+7,entity,C0205090,Right,spco,right,888,502,507
+7,entity,C0439178,percent positive cells,qnco,positive,888,508,516
+7,entity,C0205090,Right,spco,right,724,523,528
+7,entity,C0205091,Left,spco,left,724,529,533
+7,entity,C0033095,Pressure- physical agent,phpr,pressure,724,534,542
+7,entity,C3817553,100%,qnco,100,724,553,556
+7,entity,C0439422,milligram/day,qnco,mg p.o. q. day,724,557,571
+8,entity,C0030193,Pain,sosy,pain,1000,578,582
+9,entity,C0030705,Patients,podg,patient,1000,612,619
+9,entity,C4050466,Borg Category-Ratio 10 Perceived Exertion Score 5,inpr,severe,1000,630,636
+9,entity,C0238767,Bilateral,spco,bilateral,888,649,658
+9,entity,C0750480,Count,qnco,count,888,659,664
+9,entity,C3844012,1.5,qnco,1.5,1000,668,671
+10,entity,C0030705,Patients,podg,patient,1000,701,708
+10,entity,C0444930,End,spco,end,1000,731,734
+10,entity,C0205090,Right,spco,right,766,742,747
+10,entity,C0205091,Left,spco,left,766,748,752
+10,entity,C0033095,Pressure- physical agent,phpr,pressure,766,753,761
+10,entity,C0030705,Patients,podg,patient,1000,779,786
+10,entity,C0205090,Right,spco,right,766,803,808
+10,entity,C0205091,Left,spco,left,766,809,813
+10,entity,C0033095,Pressure- physical agent,phpr,pressure,766,814,822
+10,entity,C0030705,Patients,podg,patient,1000,840,847
+11,entity,C0030705,Patients,podg,patient,1000,869,876
+11,entity,C0205091,Left,spco,left,766,916,920
+11,entity,C0033095,Pressure- physical agent,phpr,pressure,766,921,929
+11,entity,C3842590,10%,qnco,10,766,930,932
+11,entity,C0030705,Patients,podg,patient,1000,964,971
+12,entity,C0030705,Patients,podg,patient,1000,993,1000
+12,entity,C0030193,Pain,sosy,pain,1000,1006,1010
+12,entity,C0205091,Left,spco,left,1000,1018,1022
+12,entity,C0205091,Left,spco,left,766,1029,1033
+12,entity,C0033095,Pressure- physical agent,phpr,pressure,766,1034,1042
+12,entity,C3842590,10%,qnco,10,766,1043,1045
+13,entity,C0332152,Before,tmco,prior to,1000,1076,1084
+13,entity,C0030705,Patients,podg,patient,1000,1093,1100
+13,entity,C0205091,Left,spco,left,790,1117,1121
+13,entity,C0033095,Pressure- physical agent,phpr,pressure,790,1122,1130
+14,entity,C0030705,Patients,podg,patient,1000,1143,1150
+14,entity,C0030193,Pain,sosy,pain,1000,1190,1194
+1,entity,C0022885,Laboratory Procedures,lbpr,Test,790,0,4
+1,entity,C1511726,Data,idcn,Data,790,5,9
+2,entity,C0030705,Patients,podg,patient,1000,46,53
+2,entity,C0586889,Cardiac surgeon,prog,cardiac surgeon,1000,69,84
+3,entity,C0205450,Four,qnco,four,1000,124,128
+3,entity,C0205452,Six,qnco,six,888,132,135
+3,entity,C0439230,week,tmco,weeks,888,136,141
+4,entity,C0030705,Patients,podg,patient,1000,147,154
+4,entity,C1522577,follow-up,hlca,followup,888,174,182
+4,entity,C0003629,Appointments,tmco,appointments,888,183,195
+4,entity,C1561954,tube,mnob,tube,1000,230,234
+4,entity,C0008031,Chest Pain,sosy,chest pain,1000,277,287
+4,entity,C0030193,Pain,sosy,pain,1000,304,308
+5,entity,C0743223,Disposition,qlco,Disposition,1000,323,334
+5,entity,C3842590,10%,qnco,10,802,347,349
+5,entity,C0007584,Cell Count,lbpr,cells,861,381,386
+6,entity,C0439178,percent positive cells,qnco,positive,888,407,415
+6,entity,C0750480,Count,qnco,count,888,416,421
+6,entity,C0030705,Patients,podg,patient,1000,429,436
+6,entity,C0080331,Walking (activity),dora,ambulation,1000,454,464
+6,entity,C0018787,Heart,bpoc,cardiac,1000,472,479
+6,entity,C0205090,Right,spco,right,694,502,507
+6,entity,C0332282,Following,tmco,subsequent,1000,519,529
+6,entity,C0205170,Good,qlco,good,1000,536,540
+7,entity,C0024109,Lung,bpoc,lungs,1000,553,558
+7,entity,C1709157,Negative Surgical Margin,fndg,clear,1000,564,569
+8,entity,C0205091,Left,spco,left,851,620,624
+8,entity,C0032854,Poverty,grpa,poor,851,625,629
+8,entity,C0007097,Carcinoma,neop,carcinoma,851,630,639
+9,entity,C0457453,On admission,tmco,on admission,1000,660,672
+10,entity,C0231832,Respiratory rate,clna,respiratory rate,1000,686,702
+10,entity,C2699739,Supper,dora,supper,694,707,713
+10,entity,C0043210,Woman,popg,female,1000,722,728
+11,entity,C0030705,Patients,podg,patient,1000,735,742
+11,entity,C0449438,Status,qlco,status,861,763,769
+11,entity,C0000726,Abdomen,blor,abdominal,1000,784,793
+11,entity,C1518422,Negation,ftcn,not,1000,797,800
+11,entity,C1517331,Further,spco,further,1000,808,815
+12,entity,C0040223,Time,tmco,time,1000,826,830
+12,entity,C0205272,Regular,qlco,regular,888,840,847
+12,entity,C0543467,Operative Surgical Procedures,topp,surgical,888,848,856
+12,entity,C0205091,Left,spco,left,888,886,890
+12,entity,C0332152,Before,tmco,prior,888,891,896
+12,entity,C0030705,Patients,podg,patient,1000,905,912
+12,entity,C0205272,Regular,qlco,regular,888,932,939
+12,entity,C0871208,Rating (action),acty,rate,888,940,944
+13,entity,C0205160,Negative,fndg,negative,1000,976,984
+14,entity,C0026593,Moths,euka,Moth,771,990,994
+14,entity,C0010294,Creatinine,"bacs,orch",creatinine,771,995,1005
+14,entity,C3842590,10%,qnco,10,771,1006,1008
+14,entity,C3842590,10%,qnco,10,861,1018,1020
+15,entity,C0030705,Patients,podg,patient,1000,1031,1038
+15,entity,C0332232,Approximate,qlco,approximately,851,1056,1069
+15,entity,C4050466,Borg Category-Ratio 10 Perceived Exertion Score 5,inpr,severe,851,1070,1076
+15,entity,C1316572,Evaluation and management note:Finding:Point in time:{Setting}:Document:{Provider},clna,note,851,1077,1081
+15,entity,C0000726,Abdomen,blor,abdomen,1000,1106,1113
+16,entity,C0011900,Diagnosis,diap,Diagnosis,1000,1116,1125
+16,entity,C0750480,Count,qnco,count,1000,1140,1145
+16,entity,C0019994,Hospitals,"hcro,mnob",hospital,1000,1153,1161
+16,entity,C0030705,Patients,podg,patient,1000,1172,1179
+17,entity,C0030705,Patients,podg,patient,1000,1202,1209
+1,entity,C0022885,Laboratory Procedures,lbpr,Test,790,0,4
+1,entity,C1511726,Data,idcn,Data,790,5,9
+2,entity,C0030705,Patients,podg,patient,1000,46,53
+2,entity,C0586889,Cardiac surgeon,prog,cardiac surgeon,1000,69,84
+3,entity,C0205450,Four,qnco,four,1000,124,128
+3,entity,C0205452,Six,qnco,six,888,132,135
+3,entity,C0439230,week,tmco,weeks,888,136,141
+4,entity,C0030705,Patients,podg,patient,1000,147,154
+4,entity,C1522577,follow-up,hlca,followup,888,174,182
+4,entity,C0003629,Appointments,tmco,appointments,888,183,195
+5,entity,C0030705,Patients,podg,patient,1000,235,242
+6,entity,C0439084,>5,qnco,5-100,623,331,336
+6,entity,C3817553,100%,qnco,5-100,623,331,336
+6,entity,C1518422,Negation,ftcn,non,827,351,354
+7,entity,C0039401,Educational process of instructing,edac,Instruction,1000,397,408
+7,entity,C1522577,follow-up,hlca,follow up,1000,428,437
+7,entity,C1709157,Negative Surgical Margin,fndg,clear,1000,443,448
+7,entity,C0205170,Good,qlco,good,694,483,487
+8,entity,C0543467,Operative Surgical Procedures,topp,surgical,660,525,533
+8,entity,C1301808,Geographic state,geoa,stated,1000,545,551
+9,entity,C0085559,intensive care,hlca,Intensive care,1000,554,568
+9,entity,C0021853,Intestines,bpoc,bowel,694,580,585
+10,entity,C0030705,Patients,podg,patient,775,607,614
+10,entity,C0022646,Kidney,bpoc,renal,775,625,630
+10,entity,C0035853,Rosa,plnt,rose,775,631,635
+10,entity,C1517331,Further,spco,further,694,641,648
+11,entity,C4284302,EHD1 wt Allele,gngm,PAST,694,677,681
+11,entity,C0444930,End,spco,end,851,697,700
+11,entity,C1527021,Text,inpr,TEXT,851,705,709
+11,entity,C0034869,Records,inpr,RECORD,1000,713,719
+1,entity,C1424025,MCM8 gene,gngm,REC,888,1,4
+1,entity,C0011900,Diagnosis,diap,DIAGNOSES,888,5,14
+1,entity,C0444930,End,spco,END,861,21,24
+1,entity,C0205090,Right,spco,right,660,48,53
+2,entity,C4284302,EHD1 wt Allele,gngm,PAST,546,114,118
+2,entity,C3842584,70%,qnco,70,546,134,136
+2,entity,C0019994,Hospitals,"hcro,mnob",hospital,802,204,212
+2,entity,C0475211,liter,qnco,liter,802,222,227
+2,entity,C0475211,liter,qnco,liter,1000,230,235
+4,entity,C1555319,discharge diagnosis,fndg,DISCHARGE DIAGNOSIS,1000,240,259
+4,entity,C0021641,Insulin,"aapp,horm,phsu",insulin,861,266,273
+5,entity,C0015811,Femur,bpoc,femoral,660,356,363
+6,entity,C0205358,Soft,qlco,Soft,1000,393,397
+6,entity,C0005889,Body Fluids,bdsu,fluid,1000,404,409
+6,entity,C0015259,Exercise,dora,exercise,775,431,439
+6,entity,C0673013,"GPER protein, human","aapp,rcpt",Mer,775,440,443
+6,entity,C1512338,HEENT,blor,HEENT,775,446,451
+6,entity,C1282927,Shortened,qlco,shortness,928,471,480
+6,entity,C0225386,Breath,bdsu,breath,1000,484,490
+1,entity,C0022885,Laboratory Procedures,lbpr,Test,790,0,4
+1,entity,C1511726,Data,idcn,Data,790,5,9
+2,entity,C0030705,Patients,podg,patient,1000,46,53
+2,entity,C0586889,Cardiac surgeon,prog,cardiac surgeon,1000,69,84
+3,entity,C0205450,Four,qnco,four,1000,124,128
+3,entity,C0205452,Six,qnco,six,888,132,135
+3,entity,C0439230,week,tmco,weeks,888,136,141
+4,entity,C0030705,Patients,podg,patient,1000,147,154
+4,entity,C1522577,follow-up,hlca,followup,888,174,182
+4,entity,C0003629,Appointments,tmco,appointments,888,183,195
+4,entity,C0332232,Approximate,qlco,approximately,694,215,228
+4,entity,C0332234,Leaking,ftcn,leak,861,247,251
+4,entity,C0205266,Intact,qlco,intact,1000,268,274
+4,entity,C0348016,Intravenous,spco,intravenous,1000,289,300
+5,entity,C0205170,Good,qlco,well,694,322,326
+7,entity,C0205161,Abnormal,fndg,abnormal,541,380,388
+7,entity,C2261656,phosphatase I,moft,phosphatase abnormal iept AD 07/07/43606 i,541,368,410
+7,entity,C0005890,Body Height,orga,STATURES,541,431,439
+7,entity,C0205307,Normal,qlco,normal,1000,456,462
+8,entity,C0019664,History,ocdi,History,1000,465,472
+8,entity,C0205117,Adjacent,spco,next,746,511,515
+8,entity,C0038720,"Sulfates, Inorganic",inch,sulfate,746,530,537
+11,entity,C1668248,Iso,fish,iso,508,608,611
+11,entity,C0026649,Movement,orgf,movement,508,619,627
+11,entity,C0005767,Blood,bdsu,blood,508,628,633
+11,entity,C0332173,Daily,tmco,day,861,675,678
+13,entity,C0043240,Wound Healing,orgf,repair,1000,689,695
+13,entity,C0011900,Diagnosis,diap,DIAGNOSIS,812,723,732
+14,entity,C0021853,Intestines,bpoc,bowel,694,820,825
+14,entity,C0021853,Intestines,bpoc,bowel,781,867,872
+14,entity,C0054027,brass,inch,brass,781,916,921
+14,entity,C1518422,Negation,ftcn,not,645,929,932
+14,entity,C0439208,gram,qnco,gram,861,982,986
+15,entity,C1522577,follow-up,hlca,Follow up,1000,1023,1032
+15,entity,C0439259,kilocalorie,qnco,cals,575,1036,1040
+20,entity,C0011900,Diagnosis,diap,diagnosis,775,1161,1170
+20,entity,C4284302,EHD1 wt Allele,gngm,past,775,1171,1175
+20,entity,C0205447,One,qnco,one,775,1188,1191
+20,entity,C4517790,5.2,qnco,5.2,901,1194,1197
+20,entity,C0439230,week,tmco,weeks,901,1198,1203
+1,entity,C0022885,Laboratory Procedures,lbpr,Test,790,0,4
+1,entity,C1511726,Data,idcn,Data,790,5,9
+1,entity,C0332177,Monthly (qualifier value),tmco,month,1000,48,53
+1,entity,C0449450,Presentation,idcn,presentation,1000,67,79
+2,entity,C0019664,History,ocdi,history,1000,90,97
+2,entity,C0205447,One,qnco,one,888,101,104
+2,entity,C2828395,Packing (action),acty,pack,888,105,109
+2,entity,C0453996,Tobacco smoking behavior,inbe,tobacco smoking,1000,113,128
+2,entity,C0439511,times/day,qnco,day times,861,133,142
+2,entity,C0439234,year,tmco,years,861,146,151
+3,entity,C0030705,Patients,podg,patient,1000,157,164
+3,entity,C0521320,Girlfriend,popg,girlfriend,1000,180,190
+3,entity,C0337554,Stepdaughter,famg,step-daughter,1000,196,209
+3,entity,C0013103,Drainage procedure,topp,drain,861,218,223
+3,entity,C0205166,Long,qlco,long,861,232,236
+3,entity,C0030705,Patients,podg,patient,1000,241,248
+3,entity,C0008031,Chest Pain,sosy,chest pain,1000,255,265
+4,entity,C0030705,Patients,podg,patient,1000,272,279
+4,entity,C0030705,Patients,podg,patient,1000,300,307
+4,entity,C1836348,Severe disorder,fndg,severe condition,1000,327,343
+5,entity,C0008031,Chest Pain,sosy,chest pain,1000,368,378
+5,entity,C0205156,Previous,tmco,previous,1000,383,391
+5,entity,C0205166,Long,qlco,long,861,398,402
+5,entity,C0030705,Patients,podg,patient,1000,407,414
+5,entity,C0230415,Right lower extremity,bpoc,right lower extremity,1000,434,455
+6,entity,C0030705,Patients,podg,patient,1000,474,481
+6,entity,C0030705,Patients,podg,patient,1000,517,524
+7,entity,C0008031,Chest Pain,sosy,chest pain,1000,561,571
+7,entity,C0205166,Long,qlco,long,861,578,582
+7,entity,C0030705,Patients,podg,patient,1000,587,594
+7,entity,C0030705,Patients,podg,patient,1000,611,618
+7,entity,C0230416,Left lower extremity,bpoc,left lower extremity,1000,625,645
+8,entity,C0030705,Patients,podg,patient,1000,652,659
+8,entity,C0030705,Patients,podg,Patient,1000,680,687
+8,entity,C0030705,Patients,podg,patient,1000,700,707
+8,entity,C4050466,Borg Category-Ratio 10 Perceived Exertion Score 5,inpr,severe,888,727,733
+8,entity,C0013216,Pharmacotherapy,topp,chemotherapy,888,734,746
+9,entity,C0262926,Medical History,fndg,PAST MEDICAL HISTORY,1000,749,769
+9,entity,C0030705,Patients,podg,patient,1000,776,783
+9,entity,C0030705,Patients,podg,Patient,1000,804,811
+9,entity,C0030705,Patients,podg,patient,1000,819,826
+9,entity,C0008031,Chest Pain,sosy,chest pain,1000,846,856
+10,entity,C0030705,Patients,podg,patient,1000,863,870
+10,entity,C0030705,Patients,podg,Patient,1000,891,898
+10,entity,C0030705,Patients,podg,patient,1000,906,913
+11,entity,C0015252,removal technique,topp,excision,1000,961,969
+11,entity,C0205091,Left,spco,left,888,976,980
+11,entity,C0033095,Pressure- physical agent,phpr,pressure,888,981,989
+12,entity,C0205082,Severe (severity modifier),fndg,severely,888,1033,1041
+12,entity,C0012634,Disease,dsyn,condition,888,1042,1051
+13,entity,C0030705,Patients,podg,patient,1000,1058,1065
+13,entity,C0184661,Interventional procedure,topp,procedure,1000,1086,1095
+13,entity,C0205178,acute,tmco,acute,1000,1102,1107
+13,entity,C0030705,Patients,podg,patient,1000,1112,1119
+13,entity,C0035204,Respiration Disorders,dsyn,respiratory disease,1000,1139,1158
+14,entity,C0030705,Patients,podg,patient,1000,1165,1172
+14,entity,C0030705,Patients,podg,patient,1000,1192,1199
+14,entity,C4050466,Borg Category-Ratio 10 Perceived Exertion Score 5,inpr,severe,694,1207,1213
+1,entity,C0022885,Laboratory Procedures,lbpr,Test,790,0,4
+1,entity,C1511726,Data,idcn,Data,790,5,9
+1,entity,C0332177,Monthly (qualifier value),tmco,month,1000,48,53
+1,entity,C0449450,Presentation,idcn,presentation,1000,67,79
+2,entity,C0019664,History,ocdi,history,1000,90,97
+2,entity,C0205447,One,qnco,one,888,101,104
+2,entity,C2828395,Packing (action),acty,pack,888,105,109
+2,entity,C0453996,Tobacco smoking behavior,inbe,tobacco smoking,1000,113,128
+2,entity,C0439511,times/day,qnco,day times,861,133,142
+2,entity,C0439234,year,tmco,years,861,146,151
+3,entity,C0030705,Patients,podg,patient,1000,157,164
+3,entity,C0521320,Girlfriend,popg,girlfriend,1000,180,190
+3,entity,C0337554,Stepdaughter,famg,step-daughter,1000,196,209
+3,entity,C1856053,Hydranencephaly with Renal Aplasia-Dysplasia,dsyn,Marches,966,214,221
+3,entity,C0001962,Ethanol,"orch,phsu",alcohol,1000,224,231
+4,entity,C0030705,Patients,podg,patient,1000,238,245
+4,entity,C0015385,Limb structure,bpoc,extremity,1000,268,277
+5,entity,C0018670,Head,blor,Head,1000,303,307
+5,entity,C0030705,Patients,podg,patient,1000,337,344
+5,entity,C0030705,Patients,podg,Patient,1000,366,373
+5,entity,C0008031,Chest Pain,sosy,chest pain,1000,378,388
+5,entity,C0582103,Medical Examination,hlca,exam,861,404,408
+5,entity,C0205170,Good,qlco,well,1000,417,421
+5,entity,C1522577,follow-up,hlca,follow up,888,439,448
+6,entity,C0150312,Present,fndg,found,1000,467,472
+6,entity,C0205091,Left,spco,left,851,493,497
+6,entity,C0033095,Pressure- physical agent,phpr,pressure,851,498,506
+7,entity,C0030705,Patients,podg,patient,1000,531,538
+7,entity,C0030705,Patients,podg,patient,1000,555,562
+8,entity,C0561946,Removal of implant (procedure),topp,explantation,1000,635,647
+8,entity,C0030705,Patients,podg,patient,1000,658,665
+8,entity,C0030705,Patients,podg,patient,1000,685,692
+8,entity,C2759050,Melanis,euka,melanis,763,744,751
+8,entity,C0000726,Abdomen,blor,abdominal,888,763,772
+8,entity,C0449438,Status,qlco,status,888,773,779
+8,entity,C0543467,Operative Surgical Procedures,topp,surgical,888,792,800
+8,entity,C0582103,Medical Examination,hlca,exam,888,801,805
+9,entity,C0030705,Patients,podg,patient,1000,812,819
+9,entity,C0008031,Chest Pain,sosy,chest pain,1000,831,841
+9,entity,C0699129,Coumadin,"orch,phsu",Coumadin,781,849,857
+9,entity,C0439422,milligram/day,qnco,mg PO q.d,781,861,870
+10,entity,C0205091,Left,spco,left,569,919,923
+10,entity,C0001962,Ethanol,"orch,phsu",alcohol,569,924,931
+10,entity,C1427148,LRRC15 gene,gngm,lib,569,932,935
+10,entity,C0302908,Liquid substance,sbst,fluids,1000,956,962
+11,entity,C0030705,Patients,podg,patient,1000,981,988
+11,entity,C0348016,Intravenous,spco,intravenous,861,1000,1011
+11,entity,C0008034,Chest Tubes,medd,chest tube,1000,1019,1029
+11,entity,C4050466,Borg Category-Ratio 10 Perceived Exertion Score 5,inpr,severe,694,1037,1043
+11,entity,C0030705,Patients,podg,patient,1000,1079,1086
+12,entity,C0030705,Patients,podg,patient,1000,1147,1154
+12,entity,C0230416,Left lower extremity,bpoc,left lower extremity,1000,1176,1196
+1,entity,C0022885,Laboratory Procedures,lbpr,Test,790,0,4
+1,entity,C1511726,Data,idcn,Data,790,5,9
+1,entity,C0332177,Monthly (qualifier value),tmco,month,1000,48,53
+1,entity,C0449450,Presentation,idcn,presentation,1000,67,79
+2,entity,C0019664,History,ocdi,history,1000,90,97
+2,entity,C0205447,One,qnco,one,888,101,104
+2,entity,C2828395,Packing (action),acty,pack,888,105,109
+2,entity,C0453996,Tobacco smoking behavior,inbe,tobacco smoking,1000,113,128
+2,entity,C0439511,times/day,qnco,day times,861,133,142
+2,entity,C0439234,year,tmco,years,861,146,151
+3,entity,C0030705,Patients,podg,patient,1000,157,164
+3,entity,C0521320,Girlfriend,popg,girlfriend,1000,180,190
+3,entity,C0337554,Stepdaughter,famg,step-daughter,1000,196,209
+3,entity,C0026597,Motion,npop,motion,861,219,225
+3,entity,C0006675,Calcium,"bacs,elii,phsu",calcium,1000,230,237
+4,entity,C0582103,Medical Examination,hlca,exam,1000,315,319
+4,entity,C0520960,Non-tender,qlco,nontender,694,335,344
+4,entity,C0005889,Body Fluids,bdsu,fluid,606,413,418
+4,entity,C0022742,Knee,bpoc,kneed,606,419,424
+5,entity,C1512018,Doctor of Medicine,inpr,M.D,1000,528,531
+6,entity,C0004057,Aspirin,"orch,phsu",aspirin,1000,554,561
+7,entity,C0015264,Exertion,orgf,exertion,1000,574,582
+8,entity,C0205170,Good,qlco,well,562,592,596
+11,entity,C4517491,1.1,qnco,1.1,901,771,774
+11,entity,C0205091,Left,spco,left,629,780,784
+11,entity,C0687725,Alcoholics,podg,alcoholics,1000,860,870
+12,entity,C0030705,Patients,podg,patient,1000,907,914
+12,entity,C0019994,Hospitals,"hcro,mnob",hospital,1000,939,947
+12,entity,C0205476,Medical,ftcn,medical,888,955,962
+12,entity,C0449438,Status,qlco,status,888,963,969
+13,entity,C0013604,Edema,sosy,edema,888,1039,1044
+13,entity,C4517642,20.2,qnco,20-Feb,790,1051,1055
+13,entity,C0019080,Hemorrhage,patf,bleeding,790,1064,1072
+13,entity,C0205447,One,qnco,one,713,1125,1128
+13,entity,C0699129,Coumadin,"orch,phsu",Coumadin,713,1129,1137
+13,entity,C0030193,Pain,sosy,pain,713,1138,1142
+13,entity,C0442766,Jan-24,fndg,Jan-24,1000,1159,1163
+14,entity,C0205093,Lateral,spco,lateral,660,1176,1183
+1,entity,C0022885,Laboratory Procedures,lbpr,Test,790,0,4
+1,entity,C1511726,Data,idcn,Data,790,5,9
+1,entity,C0332177,Monthly (qualifier value),tmco,month,1000,48,53
+1,entity,C0449450,Presentation,idcn,presentation,1000,67,79
+2,entity,C0019664,History,ocdi,history,1000,90,97
+2,entity,C0205447,One,qnco,one,888,101,104
+2,entity,C2828395,Packing (action),acty,pack,888,105,109
+2,entity,C0453996,Tobacco smoking behavior,inbe,tobacco smoking,1000,113,128
+2,entity,C0439511,times/day,qnco,day times,861,133,142
+2,entity,C0439234,year,tmco,years,861,146,151
+3,entity,C0030705,Patients,podg,patient,1000,157,164
+3,entity,C0521320,Girlfriend,popg,girlfriend,1000,180,190
+3,entity,C0337554,Stepdaughter,famg,step-daughter,1000,196,209
+4,entity,C0030193,Pain,sosy,PAIN,660,286,290
+5,entity,C0019664,History,ocdi,history,861,302,309
+5,entity,C0220825,Evaluation,hlca,evaluation,775,317,327
+5,entity,C0871744,Fame,idcn,fame,775,340,344
+5,entity,C0439148,Unit,qnco,UNIT,537,348,352
+5,entity,C0600587,Primed In Situ Labeling,mbrt,PRIN-IINCUSANNA,537,353,368
+5,entity,C0012265,Digoxin,"orch,phsu",digoxin,713,407,414
+8,entity,C0011900,Diagnosis,diap,DIAGNOSIS,1000,521,530
+8,entity,C0205231,Extensive,qlco,Extensive,1000,533,542
+8,entity,C1535939,Pneumocystis jiroveci pneumonia,dsyn,PCP,740,545,548
+8,entity,C0027365,Name,inpr,Name,740,549,553
+8,entity,C0011900,Diagnosis,diap,DIAGNOSIS,740,570,579
+8,entity,C0497156,Lymphadenopathy,dsyn,adenopathy,861,617,627
+8,entity,C0205091,Left,spco,left,645,659,663
+9,entity,C0205090,Right,spco,right,888,703,708
+9,entity,C0066020,MESK,sbst,mesk,806,722,726
+9,entity,C0682596,thoracic bone,tisu,chest mesk incitster bone,806,716,741
+10,entity,C0558141,Transsexual (finding),fndg,Trans,660,779,784
+10,entity,C0439148,Unit,qnco,UNIT,861,816,820
+10,entity,C1269776,Gray color,qlco,gray,623,827,831
+11,entity,C0011900,Diagnosis,diap,DIAGNOSIS,861,878,887
+13,entity,C2620455,Actus,euka,Actus,824,1040,1045
+13,entity,C1512018,Doctor of Medicine,inpr,M.D,824,1048,1051
+14,entity,C3842674,Day 5,fndg,day EBPO Endoorated 40 h 5,724,1093,1119
+16,entity,C1416865,LIPA gene,gngm,LAL,861,1135,1138
+16,entity,C0205485,Physical,ftcn,physical,694,1147,1155
+1,entity,C0022885,Laboratory Procedures,lbpr,Test,790,0,4
+1,entity,C1511726,Data,idcn,Data,790,5,9
+1,entity,C0003842,Arteries,bpoc,artery,787,23,29
+1,entity,C0185098,Bypass graft,topp,bypass graft,787,30,42
+1,entity,C0040223,Time,tmco,times,787,43,48
+1,entity,C0205449,Three,qnco,three,787,49,54
+1,entity,C0447054,Left internal mammary artery,bpoc,left internal mammary artery,1000,60,88
+1,entity,C0441998,Left anterior,spco,left anterior,861,92,105
+1,entity,C0205386,Descending,qlco,descending,861,106,116
+1,entity,C0003842,Arteries,bpoc,artery,861,117,123
+1,entity,C0729538,Saphenous vein graft,bpoc,saphenous vein graft,1000,126,146
+1,entity,C0226047,Posterior interventricular branch of right coronary artery,bpoc,posterior descending artery,1000,150,177
+1,entity,C0729538,Saphenous vein graft,bpoc,saphenous vein graft,1000,184,204
+1,entity,C0443198,Diagonal,spco,diagonal,1000,208,216
+1,entity,C0205266,Intact,qlco,intact,1000,223,229
+2,entity,C0030705,Patients,podg,patient,1000,236,243
+2,entity,C0027627,Neoplasm Metastasis,neop,secondary,1000,264,273
+2,entity,C0009566,Complication,patf,complication,1000,282,294
+2,entity,C0205090,Right,spco,right,888,302,307
+2,entity,C0030193,Pain,sosy,pain,888,308,312
+3,entity,C0030705,Patients,podg,patient,1000,319,326
+3,entity,C0030705,Patients,podg,patient,1000,347,354
+3,entity,C0230416,Left lower extremity,bpoc,left lower extremity,1000,375,395
+4,entity,C0030705,Patients,podg,patient,1000,402,409
+4,entity,C0439175,% of total,qnco,total,888,430,435
+4,entity,C0030705,Patients,podg,patient,888,436,443
+4,entity,C0030705,Patients,podg,patient,1000,454,461
+4,entity,C0230416,Left lower extremity,bpoc,left lower extremity,1000,482,502
+5,entity,C0030705,Patients,podg,patient,1000,509,516
+5,entity,C0023216,Lower Extremity,bpoc,lower extremity,1000,537,552
+6,entity,C0030705,Patients,podg,patient,1000,559,566
+6,entity,C0230416,Left lower extremity,bpoc,left lower extremity,1000,587,607
+7,entity,C0030705,Patients,podg,patient,1000,614,621
+7,entity,C0205094,Anterior,spco,anterior,888,642,650
+7,entity,C0332185,Recent,tmco,recent,888,651,657
+7,entity,C0030705,Patients,podg,patient,1000,665,672
+7,entity,C0205090,Right,spco,right,888,693,698
+7,entity,C0030193,Pain,sosy,pain,888,699,703
+8,entity,C0030705,Patients,podg,patient,1000,710,717
+8,entity,C0205090,Right,spco,right,888,738,743
+8,entity,C0030193,Pain,sosy,pain,888,744,748
+8,entity,C0030705,Patients,podg,patient,1000,759,766
+8,entity,C0230416,Left lower extremity,bpoc,left lower extremity,1000,787,807
+9,entity,C0030705,Patients,podg,patient,1000,814,821
+9,entity,C0030705,Patients,podg,patient,1000,842,849
+9,entity,C0030705,Patients,podg,patient,1000,870,877
+9,entity,C0230415,Right lower extremity,bpoc,right lower extremity,1000,898,919
+10,entity,C0030705,Patients,podg,patient,1000,926,933
+10,entity,C0439175,% of total,qnco,total,888,954,959
+10,entity,C0030193,Pain,sosy,pain,888,960,964
+11,entity,C0030705,Patients,podg,patient,1000,971,978
+11,entity,C0019994,Hospitals,"hcro,mnob",hospital,1000,999,1007
+11,entity,C0030705,Patients,podg,patient,1000,1028,1035
+11,entity,C0030705,Patients,podg,patient,1000,1056,1063
+11,entity,C0230416,Left lower extremity,bpoc,left lower extremity,1000,1084,1104
+12,entity,C0030705,Patients,podg,patient,1000,1111,1118
+12,entity,C0205091,Left,spco,left,888,1139,1143
+12,entity,C0150312,Present,fndg,present,888,1144,1151
+12,entity,C0030705,Patients,podg,patient,1000,1160,1167
+12,entity,C0230416,Left lower extremity,bpoc,left lower extremity,1000,1188,1208
+1,entity,C0022885,Laboratory Procedures,lbpr,Test,790,0,4
+1,entity,C1511726,Data,idcn,Data,790,5,9
+1,entity,C0003842,Arteries,bpoc,artery,787,23,29
+1,entity,C0185098,Bypass graft,topp,bypass graft,787,30,42
+1,entity,C0040223,Time,tmco,times,787,43,48
+1,entity,C0205449,Three,qnco,three,787,49,54
+1,entity,C0447054,Left internal mammary artery,bpoc,left internal mammary artery,1000,60,88
+1,entity,C0441998,Left anterior,spco,left anterior,861,92,105
+1,entity,C0205386,Descending,qlco,descending,861,106,116
+1,entity,C0003842,Arteries,bpoc,artery,861,117,123
+1,entity,C0729538,Saphenous vein graft,bpoc,saphenous vein graft,1000,126,146
+1,entity,C0226047,Posterior interventricular branch of right coronary artery,bpoc,posterior descending artery,1000,150,177
+1,entity,C0729538,Saphenous vein graft,bpoc,saphenous vein graft,1000,184,204
+1,entity,C0443198,Diagonal,spco,diagonal,1000,208,216
+1,entity,C0817096,Chest,blor,chest,901,223,228
+1,entity,C0034571,roentgenographic,ftcn,#NAME?,901,230,234
+1,entity,C0332173,Daily,tmco,day,861,252,255
+1,entity,C0205160,Negative,fndg,negative,888,278,286
+1,entity,C0021853,Intestines,bpoc,bowel,888,287,292
+1,entity,C0332173,Daily,tmco,day,1000,305,308
+1,entity,C0444930,End,spco,end,790,319,322
+1,entity,C0030193,Pain,sosy,pain,790,323,327
+1,entity,C1457868,Worse,fndg,worsening,1000,332,341
+1,entity,C1180150,Right superior,spco,right upper,812,349,360
+1,entity,C0030054,Oxygen,"bacs,elii,phsu",oxygen,812,373,379
+1,entity,C0205090,Right,spco,right,1000,387,392
+1,entity,C0205307,Normal,qlco,normal,1000,399,405
+1,entity,C0040223,Time,tmco,time,1000,447,451
+2,entity,C0030705,Patients,podg,patient,1000,458,465
+3,entity,C0030705,Patients,podg,patient,1000,490,497
+3,entity,C0030705,Patients,podg,patient,1000,513,520
+3,entity,C0030705,Patients,podg,patient,1000,539,546
+4,entity,C0030705,Patients,podg,patient,1000,565,572
+4,entity,C0006826,Malignant Neoplasms,neop,cancer,1000,605,611
+4,entity,C0018787,Heart,bpoc,cardiac,851,622,629
+4,entity,C0332185,Recent,tmco,recent,851,630,636
+4,entity,C1710443,Tower,mnob,tower,851,637,642
+4,entity,C0332173,Daily,tmco,day,1000,650,653
+5,entity,C0030705,Patients,podg,patient,1000,660,667
+5,entity,C1180150,Right superior,spco,right upper,1000,688,699
+5,entity,C0439175,% of total,qnco,total,1000,710,715
+5,entity,C0040223,Time,tmco,time,1000,737,741
+5,entity,C0012634,Disease,dsyn,condition,1000,756,765
+6,entity,C0030705,Patients,podg,patient,1000,772,779
+6,entity,C1180150,Right superior,spco,right upper,901,839,850
+6,entity,C0443225,Full,qlco,full,901,851,855
+6,entity,C0030193,Pain,sosy,pain,861,891,895
+7,entity,C0015385,Limb structure,bpoc,extremities,1000,902,913
+7,entity,C0030705,Patients,podg,patient,1000,920,927
+7,entity,C0030705,Patients,podg,patient,1000,958,965
+7,entity,C0015385,Limb structure,bpoc,extremity,1000,986,995
+8,entity,C0030705,Patients,podg,patient,1000,1002,1009
+8,entity,C1517741,Last,qlco,last,1000,1030,1034
+8,entity,C0332173,Daily,tmco,day,888,1042,1045
+8,entity,C0205447,One,qnco,one,888,1046,1049
+8,entity,C0030705,Patients,podg,patient,1000,1056,1063
+8,entity,C0012634,Disease,dsyn,disease,1000,1070,1077
+9,entity,C0004057,Aspirin,"orch,phsu",aspirin,597,1087,1094
+9,entity,C0332173,Daily,tmco,day,597,1109,1112
+10,entity,C0449438,Status,qlco,status,861,1142,1148
+10,entity,C0010294,Creatinine,"bacs,orch",creatinine,1000,1168,1178
+10,entity,C0456166,Right ventricular pressure,lbtr,right ventricular pressure,916,1186,1212
+1,entity,C0022885,Laboratory Procedures,lbpr,Test,790,0,4
+1,entity,C1511726,Data,idcn,Data,790,5,9
+1,entity,C0003842,Arteries,bpoc,artery,787,23,29
+1,entity,C0185098,Bypass graft,topp,bypass graft,787,30,42
+1,entity,C0040223,Time,tmco,times,787,43,48
+1,entity,C0205449,Three,qnco,three,787,49,54
+1,entity,C0447054,Left internal mammary artery,bpoc,left internal mammary artery,1000,60,88
+1,entity,C0441998,Left anterior,spco,left anterior,861,92,105
+1,entity,C0205386,Descending,qlco,descending,861,106,116
+1,entity,C0003842,Arteries,bpoc,artery,861,117,123
+1,entity,C0729538,Saphenous vein graft,bpoc,saphenous vein graft,1000,126,146
+1,entity,C0226047,Posterior interventricular branch of right coronary artery,bpoc,posterior descending artery,1000,150,177
+1,entity,C0729538,Saphenous vein graft,bpoc,saphenous vein graft,1000,184,204
+1,entity,C0205090,Right,spco,right,888,282,287
+1,entity,C0796494,lobe,bpoc,lobe,888,288,292
+3,entity,C2926602,"Discharge, body substance",bdsu,DISCHARGE,1000,435,444
+3,entity,C0444930,End,spco,end,851,463,466
+3,entity,C1527021,Text,inpr,TEXT,851,471,475
+3,entity,C0034869,Records,inpr,RECORD,1000,479,485
+1,entity,C0034869,Records,inpr,RECORD,790,1,7
+1,entity,C0009450,Communicable Diseases,dsyn,ID,790,8,10
+1,entity,C1527021,Text,inpr,TEXT,1000,19,23
+1,entity,C1518422,Negation,ftcn,NON,824,59,62
+1,entity,C0332137,Principal diagnosis,qlco,PRINCIPAL DIAGNOSIS,824,66,85
+1,entity,C1555319,discharge diagnosis,fndg,DISCHARGE DIAGNOSIS,1000,88,107
+2,entity,C0606665,pinal,phsu,pinal,1000,156,161
+2,entity,C0205266,Intact,qlco,intact,1000,162,168
+2,entity,C0205307,Normal,qlco,normal,694,202,208
+3,entity,C0030705,Patients,podg,patient,1000,234,241
+3,entity,C1514721,Range,qnco,range,1000,246,251
+4,entity,C0220825,Evaluation,hlca,evaluation,1000,298,308
+4,entity,C0205451,Five,qnco,five,694,316,320
+4,entity,C0613678,UTEN,"orch,phsu",uten,660,328,332
+4,entity,C0009393,Color,qlco,color,888,346,351
+4,entity,C0030193,Pain,sosy,pain,888,352,356
+4,entity,C1881878,Moderation,qlco,moderate,1000,361,369
+4,entity,C1423524,NCKIPSD gene,gngm,wish,1000,378,382
+4,entity,C0043246,Laceration,inpo,teary,808,398,403
+4,entity,C0741968,carotid,bpoc,carotid,808,404,411
+4,entity,C3715044,AKR1A1 wt Allele,gngm,arm,808,412,415
+4,entity,C0205476,Medical,ftcn,MEDICAL,808,416,423
+4,entity,C0582948,Admission procedure,hlca,admission teary carotid arm MEDICAL PROCEDURE,808,388,433
+4,entity,C1705827,SAT1 wt Allele,gngm,Sat,808,434,437
+5,entity,C0040223,Time,tmco,time,827,477,481
+5,entity,C3842590,10%,qnco,10,827,484,486
+5,entity,C0030705,Patients,podg,patient,1000,502,509
+5,entity,C0332464,Widening,spco,wide,1000,534,538
+6,entity,C0031809,Physical Examination,hlca,PHYSICAL EXAMINATION,1000,541,561
+7,entity,C0031809,Physical Examination,hlca,PHYSICAL EXAMINATION,1000,573,593
+7,entity,C0205171,Singular,qnco,only,1000,613,617
+7,entity,C3540595,CD8A wt Allele,gngm,mal,1000,623,626
+7,entity,C3820394,Thrombin to Antithrombin Ratio Measurement,lbpr,Tat,790,645,648
+7,entity,C0013103,Drainage procedure,topp,drain,790,649,654
+8,entity,C0038039,Sports,dora,sport,1000,662,667
+8,entity,C0337664,Smoker,fndg,smoker,1000,671,677
+9,entity,C0030705,Patients,podg,patient,1000,709,716
+1,entity,C0022885,Laboratory Procedures,lbpr,Test,790,0,4
+1,entity,C1511726,Data,idcn,Data,790,5,9
+1,entity,C0003842,Arteries,bpoc,artery,787,23,29
+1,entity,C0185098,Bypass graft,topp,bypass graft,787,30,42
+1,entity,C0040223,Time,tmco,times,787,43,48
+1,entity,C0205449,Three,qnco,three,787,49,54
+1,entity,C0447054,Left internal mammary artery,bpoc,left internal mammary artery,1000,60,88
+1,entity,C0441998,Left anterior,spco,left anterior,861,92,105
+1,entity,C0205386,Descending,qlco,descending,861,106,116
+1,entity,C0003842,Arteries,bpoc,artery,861,117,123
+1,entity,C0729538,Saphenous vein graft,bpoc,saphenous vein graft,1000,126,146
+1,entity,C0226047,Posterior interventricular branch of right coronary artery,bpoc,posterior descending artery,1000,150,177
+1,entity,C0729538,Saphenous vein graft,bpoc,saphenous vein graft,1000,184,204
+1,entity,C0443198,Diagonal,spco,diagonal,562,208,216
+1,entity,C0019994,Hospitals,"hcro,mnob",hospital,562,217,225
+2,entity,C1335494,Primase Polypeptide 1,"aapp,enzy",P49,583,284,287
+2,entity,C0332173,Daily,tmco,day,583,289,292
+2,entity,C0205447,One,qnco,one,794,363,366
+2,entity,C0000737,Abdominal Pain,sosy,abdominal pain,794,367,381
+3,entity,C0702093,Per Minute,tmco,min,861,412,415
+5,entity,C1555319,discharge diagnosis,fndg,DISCHARGE DIAGNOSIS,1000,522,541
+5,entity,C0030193,Pain,sosy,pain,790,558,562
+5,entity,C0369183,Erythrocyte Mean Corpuscular Hemoglobin Test,lbpr,MCH,1000,568,571
+5,entity,C0024809,Marijuana Abuse,mobd,POT,752,721,724
+5,entity,C2361123,Discharge date,tmco,DISCHARGE DAAATIUNTION DATE,752,763,790
+6,entity,C0011900,Diagnosis,diap,DIAGNOSIS,861,826,835
+6,entity,C2827975,Tmin,tmco,tmin,1000,861,865
+7,entity,C0205177,Active,qlco,Activity,802,868,876
+7,entity,C1193341,Symphonia globulifera,plnt,mani,802,887,891
+7,entity,C0332174,Weekly,tmco,week,660,899,903
+7,entity,C0042469,Venezuela,geoa,Ven,861,926,929
+7,entity,C0006826,Malignant Neoplasms,neop,cancer,861,972,978
+7,entity,C1518422,Negation,ftcn,not,660,987,990
+8,entity,C0030705,Patients,podg,patient,1000,1099,1106
+8,entity,C0014511,Epithelial cyst,anab,wen,1000,1117,1120
+8,entity,C0205307,Normal,qlco,normal,888,1165,1171
+8,entity,C0376558,Life,idcn,life,888,1172,1176
+8,entity,C0205177,Active,qlco,activity,861,1190,1198
+1,entity,C0022885,Laboratory Procedures,lbpr,Test,790,0,4
+1,entity,C1511726,Data,idcn,Data,790,5,9
+1,entity,C0205449,Three,qnco,three,851,30,35
+1,entity,C0332173,Daily,tmco,day,851,36,39
+1,entity,C0240805,Prodrome,sosy,prodrome,851,40,48
+1,entity,C0010200,Coughing,sosy,cough,1000,52,57
+1,entity,C0700148,Congestion,patf,congestion,1000,60,70
+1,entity,C0085593,Chills,sosy,chills,1000,77,83
+2,entity,C0562508,Accident and Emergency department,"hcro,mnob",emergency room,1000,92,106
+2,entity,C0030705,Patients,podg,patient,1000,113,120
+2,entity,C0054015,Nesiritide,"aapp,horm,phsu",BNP,1000,141,144
+2,entity,C0205265,Initially,tmco,initially,1000,160,169
+2,entity,C0699992,Lasix,"orch,phsu",Lasix,1000,183,188
+2,entity,C0562508,Accident and Emergency department,"hcro,mnob",emergency room,1000,196,210
+2,entity,C0030705,Patients,podg,patient,1000,221,228
+2,entity,C0030705,Patients,podg,patient,1000,250,257
+3,entity,C0030705,Patients,podg,patient,1000,278,285
+4,entity,C0030705,Patients,podg,patient,1000,322,329
+4,entity,C0205276,Local,spco,local,694,336,341
+4,entity,C0741968,carotid,bpoc,carotid,1000,372,379
+4,entity,C0741968,carotid,bpoc,carotid,1000,398,405
+4,entity,C0332185,Recent,tmco,recent,888,410,416
+4,entity,C0741968,carotid,bpoc,carotid,888,417,424
+4,entity,C0587117,Evening,tmco,evening,1000,432,439
+4,entity,C0205091,Left,spco,left,1000,449,453
+4,entity,C0013798,Electrocardiogram,fndg,electrocardiogram,1000,490,507
+4,entity,C0030193,Pain,sosy,pain,1000,515,519
+4,entity,C0332232,Approximate,qlco,approximately,694,533,546
+4,entity,C0018935,Hematocrit procedure,lbpr,hematocrit,1000,556,566
+5,entity,C0030705,Patients,podg,patient,1000,591,598
+6,entity,C0262926,Medical History,fndg,PAST MEDICAL HISTORY,1000,615,635
+6,entity,C0030705,Patients,podg,patient,1000,642,649
+6,entity,C0009566,Complication,patf,complication,1000,654,666
+6,entity,C0030705,Patients,podg,patient,1000,674,681
+7,entity,C0587117,Evening,tmco,evening,1000,743,750
+7,entity,C0013798,Electrocardiogram,fndg,electrocardiogram,1000,754,771
+7,entity,C0030705,Patients,podg,patient,1000,780,787
+7,entity,C0030705,Patients,podg,patient,1000,809,816
+7,entity,C0030193,Pain,sosy,pain,1000,843,847
+7,entity,C0030193,Pain,sosy,pain,1000,856,860
+7,entity,C0018935,Hematocrit procedure,lbpr,hematocrit,1000,867,877
+8,entity,C0030705,Patients,podg,patient,1000,892,899
+8,entity,C1545588,Protection,fndg,protection,1000,904,914
+9,entity,C0030705,Patients,podg,patient,1000,921,928
+9,entity,C0030705,Patients,podg,patient,1000,946,953
+10,entity,C0030705,Patients,podg,patient,1000,989,996
+10,entity,C0030705,Patients,podg,patient,1000,1017,1024
+10,entity,C0009566,Complication,patf,complication,1000,1029,1041
+10,entity,C0018935,Hematocrit procedure,lbpr,hematocrit,1000,1050,1060
+11,entity,C1442792,State,ftcn,state,1000,1081,1086
+11,entity,C0030705,Patients,podg,patient,1000,1093,1100
+11,entity,C0009566,Complication,patf,complication,1000,1105,1117
+11,entity,C0332232,Approximate,qlco,approximately,888,1125,1138
+11,entity,C0043210,Woman,popg,female,888,1139,1145
+11,entity,C0030193,Pain,sosy,pain,1000,1153,1157
+12,entity,C0030705,Patients,podg,patient,1000,1164,1171
+12,entity,C0587117,Evening,tmco,evening,1000,1192,1199
+12,entity,C0000726,Abdomen,blor,abdominal,888,1203,1212
+1,entity,C0022885,Laboratory Procedures,lbpr,Test,790,0,4
+1,entity,C1511726,Data,idcn,Data,790,5,9
+1,entity,C0205449,Three,qnco,three,851,30,35
+1,entity,C0332173,Daily,tmco,day,851,36,39
+1,entity,C0240805,Prodrome,sosy,prodrome,851,40,48
+1,entity,C0010200,Coughing,sosy,cough,1000,52,57
+1,entity,C0700148,Congestion,patf,congestion,1000,60,70
+1,entity,C0085593,Chills,sosy,chills,1000,77,83
+2,entity,C0562508,Accident and Emergency department,"hcro,mnob",emergency room,1000,92,106
+2,entity,C0030705,Patients,podg,patient,1000,113,120
+2,entity,C0054015,Nesiritide,"aapp,horm,phsu",BNP,1000,141,144
+2,entity,C0205265,Initially,tmco,initially,1000,160,169
+2,entity,C0699992,Lasix,"orch,phsu",Lasix,1000,183,188
+2,entity,C0562508,Accident and Emergency department,"hcro,mnob",emergency room,1000,196,210
+2,entity,C0030193,Pain,sosy,pain,1000,240,244
+2,entity,C1883702,Supernumerary,qnco,extra,1000,247,252
+2,entity,C0040223,Time,tmco,times,1000,276,281
+2,entity,C0019664,History,ocdi,history,1000,286,293
+2,entity,C0439064,Numerous,qnco,multiple,1000,297,305
+2,entity,C0030705,Patients,podg,patient,1000,318,325
+2,entity,C1442792,State,ftcn,state,660,355,360
+3,entity,C0030705,Patients,podg,patient,1000,377,384
+3,entity,C1883708,Then,tmco,then,888,400,404
+3,entity,C0020517,Hypersensitivity,patf,sensitive,888,405,414
+4,entity,C0030705,Patients,podg,patient,1000,421,428
+4,entity,C1522577,follow-up,hlca,follow-up,888,442,451
+5,entity,C0019664,History,ocdi,History,1000,461,468
+5,entity,C4050466,Borg Category-Ratio 10 Perceived Exertion Score 5,inpr,severe,694,472,478
+6,entity,C0439208,gram,qnco,gram,750,498,502
+7,entity,C0332174,Weekly,tmco,week,1000,560,564
+7,entity,C0019994,Hospitals,"hcro,mnob",hospital,1000,572,580
+8,entity,C0030705,Patients,podg,patient,1000,587,594
+9,entity,C2926602,"Discharge, body substance",bdsu,DISCHARGE,660,602,611
+9,entity,C0522523,Percutaneous,spco,percutaneous,861,632,644
+9,entity,C0030664,Pathology,bmod,pathology,1000,659,668
+10,entity,C0030705,Patients,podg,patient,1000,701,708
+11,entity,C0817096,Chest,blor,chest,901,754,759
+11,entity,C0034571,roentgenographic,ftcn,#NAME?,901,761,765
+11,entity,C0029921,Outpatients,podg,outpatient,1000,772,782
+11,entity,C0030193,Pain,sosy,pain,1000,790,794
+12,entity,C0030705,Patients,podg,patient,1000,801,808
+12,entity,C0205052,rectal,spco,rectal,888,839,845
+12,entity,C0030705,Patients,podg,patient,1000,861,868
+12,entity,C0030193,Pain,sosy,pain,1000,875,879
+12,entity,C1518422,Negation,ftcn,not,1000,886,889
+12,entity,C0030705,Patients,podg,patient,1000,894,901
+13,entity,C0030705,Patients,podg,patient,1000,929,936
+13,entity,C0205307,Normal,qlco,normal,775,945,951
+13,entity,C4050466,Borg Category-Ratio 10 Perceived Exertion Score 5,inpr,severe,775,952,958
+13,entity,C0205266,Intact,qlco,intact,775,966,972
+13,entity,C0009566,Complication,patf,complications,1000,976,989
+14,entity,C0205091,Left,spco,left,1000,1005,1009
+16,entity,C0030705,Patients,podg,patient,1000,1117,1124
+16,entity,C0020517,Hypersensitivity,patf,sensitive,1000,1129,1138
+17,entity,C3887511,Evidence,idcn,evidence,1000,1144,1152
+17,entity,C0030705,Patients,podg,patient,1000,1160,1167
+17,entity,C0032821,Potassium,"bacs,elii,phsu",potassium,812,1189,1198
+1,entity,C0022885,Laboratory Procedures,lbpr,Test,790,0,4
+1,entity,C1511726,Data,idcn,Data,790,5,9
+1,entity,C0205449,Three,qnco,three,851,30,35
+1,entity,C0332173,Daily,tmco,day,851,36,39
+1,entity,C0240805,Prodrome,sosy,prodrome,851,40,48
+1,entity,C0010200,Coughing,sosy,cough,1000,52,57
+1,entity,C0700148,Congestion,patf,congestion,1000,60,70
+1,entity,C0085593,Chills,sosy,chills,1000,77,83
+2,entity,C0562508,Accident and Emergency department,"hcro,mnob",emergency room,1000,92,106
+2,entity,C0030705,Patients,podg,patient,1000,113,120
+2,entity,C0054015,Nesiritide,"aapp,horm,phsu",BNP,1000,141,144
+2,entity,C0205265,Initially,tmco,initially,1000,160,169
+2,entity,C0699992,Lasix,"orch,phsu",Lasix,1000,183,188
+2,entity,C0562508,Accident and Emergency department,"hcro,mnob",emergency room,1000,196,210
+2,entity,C0057652,di-beta-(morpholinoethyl)selenide,orch,mose,694,217,221
+3,entity,C0043250,Injury wounds,inpo,wound,623,238,243
+3,entity,C1282910,Upper,spco,upper,623,244,249
+3,entity,C0020538,Hypertensive disease,dsyn,hypertension,1000,263,275
+3,entity,C0024109,Lung,bpoc,pulmonary,888,282,291
+3,entity,C0542339,Inferior,spco,inferior,888,292,300
+3,entity,C0205170,Good,qlco,well,1000,317,321
+3,entity,C4517683,3.1,qnco,3.1,734,325,328
+4,entity,C0030705,Patients,podg,patient,1000,338,345
+5,entity,C0565990,Medical center,"hcro,mnob",Medical Center,1000,431,445
+5,entity,C1709157,Negative Surgical Margin,fndg,clear,660,456,461
+5,entity,C1279919,Early,tmco,early,694,486,491
+5,entity,C4035627,2 times,fndg,2 times,1000,494,501
+5,entity,C3536832,Air,"inch,phsu",air,763,522,525
+6,entity,C0022646,Kidney,bpoc,renal,660,551,556
+6,entity,C0019080,Hemorrhage,patf,bleeding,694,627,635
+7,entity,C0205447,One,qnco,one,527,708,711
+8,entity,C0262926,Medical History,fndg,PAST MEDICAL HISTORY,1000,739,759
+9,entity,C0332173,Daily,tmco,Day,888,777,780
+9,entity,C0085988,Cephalopelvic Disproportion,fndg,CPD,888,781,784
+9,entity,C4284302,EHD1 wt Allele,gngm,past,694,791,795
+9,entity,C0046018,2-chloroethyl ethyl sulfide,orch,cee,645,820,823
+9,entity,C1518422,Negation,ftcn,not,790,876,879
+9,entity,C0741968,carotid,bpoc,carotid,790,880,887
+10,entity,C1522410,Highest,qlco,apex,1000,898,902
+10,entity,C0021308,Infarction,patf,infarctions,790,911,922
+10,entity,C0849355,Removed,qlco,out,888,931,934
+10,entity,C4050466,Borg Category-Ratio 10 Perceived Exertion Score 5,inpr,severe,1000,971,977
+10,entity,C1522577,follow-up,hlca,follow up,888,987,996
+11,entity,C0441998,Left anterior,spco,left anterior,1000,1036,1049
+11,entity,C0205307,Normal,qlco,normal,861,1059,1065
+11,entity,C0443288,Restricted,ftcn,Restriction,1000,1074,1085
+11,entity,C0027627,Neoplasm Metastasis,neop,secondary,1000,1097,1106
+11,entity,C0021853,Intestines,bpoc,bowel,645,1126,1131
+12,entity,C0030705,Patients,podg,patient,1000,1143,1150
+12,entity,C0205358,Soft,qlco,soft,1000,1210,1214
+1,entity,C0022885,Laboratory Procedures,lbpr,Test,790,0,4
+1,entity,C1511726,Data,idcn,Data,790,5,9
+1,entity,C0205449,Three,qnco,three,851,30,35
+1,entity,C0332173,Daily,tmco,day,851,36,39
+1,entity,C0240805,Prodrome,sosy,prodrome,851,40,48
+1,entity,C0010200,Coughing,sosy,cough,1000,52,57
+1,entity,C0700148,Congestion,patf,congestion,1000,60,70
+1,entity,C0085593,Chills,sosy,chills,1000,77,83
+2,entity,C0562508,Accident and Emergency department,"hcro,mnob",emergency room,1000,92,106
+2,entity,C0030705,Patients,podg,patient,1000,113,120
+2,entity,C0054015,Nesiritide,"aapp,horm,phsu",BNP,1000,141,144
+2,entity,C0205265,Initially,tmco,initially,1000,160,169
+2,entity,C0699992,Lasix,"orch,phsu",Lasix,1000,183,188
+2,entity,C0562508,Accident and Emergency department,"hcro,mnob",emergency room,1000,196,210
+2,entity,C0522499,Palpable,qlco,palpable,750,232,240
+2,entity,C0205307,Normal,qlco,normal,750,241,247
+2,entity,C0337514,Sister,famg,sister,861,264,270
+2,entity,C0022209,isoniazid,"orch,phsu",Inh,571,282,285
+2,entity,C0234857,Singing,inbe,Sing,660,379,383
+2,entity,C2744579,"ATP8A2 protein, human","aapp,enzy",IB,1000,398,400
+3,entity,C4319609,480,qnco,480,888,444,447
+3,entity,C0019080,Hemorrhage,patf,bleed,569,453,458
+3,entity,C0205448,Two,qnco,two,569,459,462
+3,entity,C0442824,Very,qlco,very,569,463,467
+4,entity,C0031809,Physical Examination,hlca,PHYSICAL EXAMINATION,1000,493,513
+4,entity,C0030705,Patients,podg,patient,1000,520,527
+4,entity,C0687676,Post,tmco,posts,612,573,578
+5,entity,C1709157,Negative Surgical Margin,fndg,clear,746,689,694
+5,entity,C0205170,Good,qlco,well,1000,698,702
+6,entity,C1325231,arylsulfate sulfotransferase activity,moft,ASSt,1000,705,709
+6,entity,C1292426,4 Hours,tmco,4 hours,1000,721,728
+6,entity,C1522577,follow-up,hlca,follow-up,734,749,758
+6,entity,C0205250,High,qlco,elevated,734,765,773
+6,entity,C0000726,Abdomen,blor,abdomen,734,799,806
+6,entity,C1555622,Arikaree language,lang,ree,583,817,820
+6,entity,C0022742,Knee,bpoc,knee,583,821,825
+6,entity,C0019664,History,ocdi,history,1000,885,892
+6,entity,C0019080,Hemorrhage,patf,bleeding,888,896,904
+6,entity,C0017446,Geographic Locations,geoa,region,888,905,911
+7,entity,C0332173,Daily,tmco,day,575,967,970
+7,entity,C1518422,Negation,ftcn,non,575,979,982
+7,entity,C0439230,week,tmco,weeks,861,1014,1019
+1,entity,C0022885,Laboratory Procedures,lbpr,Test,790,0,4
+1,entity,C1511726,Data,idcn,Data,790,5,9
+1,entity,C1289919,Intravenous fluid,sbst,IV fluids,983,35,44
+1,entity,C0033107,prevention & control,qlco,prophylaxis,1000,55,66
+1,entity,C0002978,angiogram,diap,angiogram,888,78,87
+2,entity,C0032821,Potassium,"bacs,elii,phsu",potassium,1000,93,102
+2,entity,C0024467,Magnesium,"bacs,elii",magnesium,1000,107,116
+2,entity,C1879745,PRN (schedule frequency),tmco,as needed,1000,131,140
+2,entity,C0018787,Heart,bpoc,cardiac,861,179,186
+2,entity,C3811629,Anti-Drug Antibody,"aapp,imft",ADA,861,187,190
+2,entity,C0457987,Renal disease diet,topp,"renal , cardiac ADA diet",861,171,195
+4,entity,C0033107,prevention & control,qlco,Prophylaxis,1000,200,211
+4,entity,C0030193,Pain,sosy,pain,1000,222,226
+5,entity,C0030705,Patients,podg,patient,1000,233,240
+5,entity,C0030193,Pain,sosy,pain,1000,275,279
+6,entity,C0030705,Patients,podg,patient,1000,286,293
+6,entity,C0030193,Pain,sosy,pain,1000,300,304
+6,entity,C0030705,Patients,podg,patient,1000,312,319
+6,entity,C0205082,Severe (severity modifier),fndg,severely,694,324,332
+6,entity,C0439178,percent positive cells,qnco,positive,888,351,359
+6,entity,C0332173,Daily,tmco,day,888,360,363
+6,entity,C1290864,Disorder of abdomen,dsyn,abdominal disease,1000,370,387
+7,entity,C0030705,Patients,podg,patient,1000,394,401
+7,entity,C0205091,Left,spco,left,901,408,412
+7,entity,C1290864,Disorder of abdomen,dsyn,abdominal disease,901,413,430
+8,entity,C0030705,Patients,podg,patient,1000,437,444
+8,entity,C0030705,Patients,podg,patient,1000,465,472
+8,entity,C0040223,Time,tmco,time,1000,490,494
+8,entity,C0030705,Patients,podg,patient,1000,502,509
+8,entity,C0205082,Severe (severity modifier),fndg,severely,694,514,522
+9,entity,C0030705,Patients,podg,patient,1000,540,547
+9,entity,C0220825,Evaluation,hlca,evaluation,1000,568,578
+9,entity,C0018787,Heart,bpoc,heart,888,586,591
+9,entity,C0439792,Extent,spco,extending,888,592,601
+9,entity,C0205091,Left,spco,left,1000,608,612
+9,entity,C0013216,Pharmacotherapy,topp,chemotherapy,1000,638,650
+10,entity,C0030705,Patients,podg,patient,1000,676,683
+10,entity,C0030193,Pain,sosy,pain,1000,714,718
+11,entity,C0030705,Patients,podg,patient,1000,725,732
+11,entity,C2926602,"Discharge, body substance",bdsu,discharge,1000,737,746
+11,entity,C0030193,Pain,sosy,pain,1000,753,757
+11,entity,C0449438,Status,qlco,status,1000,765,771
+11,entity,C0332173,Daily,tmco,day,1000,776,779
+11,entity,C0013798,Electrocardiogram,fndg,electrocardiogram,1000,786,803
+11,entity,C0332232,Approximate,qlco,about,1000,870,875
+11,entity,C0030193,Pain,sosy,pain,1000,882,886
+13,entity,C0030705,Patients,podg,patient,1000,917,924
+13,entity,C0030705,Patients,podg,patient,1000,956,963
+13,entity,C2926602,"Discharge, body substance",bdsu,discharge,1000,968,977
+13,entity,C0030193,Pain,sosy,pain,1000,984,988
+14,entity,C2740529,Excel,"orch,phsu",excelled,966,1008,1016
+14,entity,C0030193,Pain,sosy,pain,1000,1023,1027
+15,entity,C0030705,Patients,podg,patient,1000,1053,1060
+15,entity,C0030193,Pain,sosy,pain,1000,1067,1071
+15,entity,C0205091,Left,spco,left,1000,1079,1083
+15,entity,C0205091,Left,spco,left,888,1090,1094
+15,entity,C0184661,Interventional procedure,topp,procedure,888,1095,1104
+16,entity,C0030705,Patients,podg,patient,1000,1111,1118
+16,entity,C0332300,Except for,ftcn,except for,901,1165,1175
+16,entity,C0030705,Patients,podg,patient,901,1180,1187
+16,entity,C2926602,"Discharge, body substance",bdsu,discharge,1000,1192,1201
+16,entity,C0030193,Pain,sosy,pain,1000,1208,1212
+1,entity,C0022885,Laboratory Procedures,lbpr,Test,790,0,4
+1,entity,C1511726,Data,idcn,Data,790,5,9
+1,entity,C1289919,Intravenous fluid,sbst,IV fluids,983,35,44
+1,entity,C0033107,prevention & control,qlco,prophylaxis,1000,55,66
+1,entity,C0002978,angiogram,diap,angiogram,888,78,87
+2,entity,C0032821,Potassium,"bacs,elii,phsu",potassium,1000,93,102
+2,entity,C0024467,Magnesium,"bacs,elii",magnesium,1000,107,116
+2,entity,C1879745,PRN (schedule frequency),tmco,as needed,1000,131,140
+2,entity,C0018787,Heart,bpoc,cardiac,861,179,186
+2,entity,C3811629,Anti-Drug Antibody,"aapp,imft",ADA,861,187,190
+2,entity,C0457987,Renal disease diet,topp,"renal , cardiac ADA diet",861,171,195
+4,entity,C0033107,prevention & control,qlco,Prophylaxis,1000,200,211
+4,entity,C0750480,Count,qnco,count,861,230,235
+4,entity,C0205094,Anterior,spco,anterior,888,257,265
+4,entity,C0680727,Mediation,socb,mediation,888,266,275
+5,entity,C0030705,Patients,podg,patient,1000,310,317
+5,entity,C0205091,Left,spco,left,888,343,347
+5,entity,C0587081,Laboratory test finding,lbtr,labs,888,348,352
+5,entity,C0008031,Chest Pain,sosy,chest pain,734,361,371
+6,entity,C0031809,Physical Examination,hlca,PHYSICAL EXAMINATION,1000,379,399
+7,entity,C0030193,Pain,sosy,pain,1000,445,449
+7,entity,C0030705,Patients,podg,patient,888,457,464
+7,entity,C1096155,Macrophage Activation Syndrome,dsyn,mass,888,465,469
+7,entity,C1517331,Further,spco,further,1000,477,484
+7,entity,C1522577,follow-up,hlca,follow-up,1000,498,507
+8,entity,C1444754,Length,qnco,Len,1000,517,520
+8,entity,C0205329,Progressive,ftcn,progressive,790,544,555
+8,entity,C0013216,Pharmacotherapy,topp,chemotherapy,790,556,568
+8,entity,C0018787,Heart,bpoc,heart,694,573,578
+9,entity,C0013216,Pharmacotherapy,topp,chemotherapy,888,594,606
+9,entity,C0687676,Post,tmco,post,851,634,638
+9,entity,C0030193,Pain,sosy,pain,851,639,643
+9,entity,C0017446,Geographic Locations,geoa,region,1000,649,655
+9,entity,C2926602,"Discharge, body substance",bdsu,discharge,1000,663,672
+10,entity,C1518422,Negation,ftcn,not,1000,683,686
+10,entity,C0030705,Patients,podg,patient,1000,691,698
+10,entity,C0205177,Active,qlco,active,1000,717,723
+11,entity,C0030705,Patients,podg,patient,1000,730,737
+11,entity,C1522577,follow-up,hlca,follow up,1000,742,751
+11,entity,C0205156,Previous,tmco,previous,888,759,767
+11,entity,C0040053,Thrombosis,patf,thrombosis,888,768,778
+12,entity,C0030705,Patients,podg,patient,1000,785,792
+12,entity,C0015252,removal technique,topp,resection,1000,797,806
+12,entity,C0205217,Increased,qnco,increased,888,811,820
+12,entity,C0348016,Intravenous,spco,intravenous,888,821,832
+12,entity,C0205251,low,qlco,low,694,847,850
+12,entity,C0030705,Patients,podg,patient,1000,878,885
+12,entity,C0086582,Males,orga,male,1000,912,916
+13,entity,C0030705,Patients,podg,patient,1000,931,938
+13,entity,C2926602,"Discharge, body substance",bdsu,discharge,1000,943,952
+13,entity,C0205091,Left,spco,left,694,959,963
+14,entity,C0018681,Headache,sosy,pain head,1000,974,983
+14,entity,C0230415,Right lower extremity,bpoc,right lower extremity,1000,988,1009
+14,entity,C0750430,work up,diap,workup,1000,1014,1020
+14,entity,C0020649,Hypotension,fndg,low blood pressure,850,1043,1061
+15,entity,C0030705,Patients,podg,patient,1000,1076,1083
+16,entity,C0030705,Patients,podg,patient,1000,1104,1111
+16,entity,C0024109,Lung,bpoc,pulmonary,1000,1131,1140
+16,entity,C0000726,Abdomen,blor,abdominal,694,1147,1156
+17,entity,C0743223,Disposition,qlco,Disposition,1000,1164,1175
+18,entity,C4288581,Notable,qlco,Notable,1000,1178,1185
+18,entity,C0439064,Numerous,qnco,several,888,1192,1199
+18,entity,C2926602,"Discharge, body substance",bdsu,discharge,888,1200,1209
+1,entity,C0022885,Laboratory Procedures,lbpr,Test,790,0,4
+1,entity,C1511726,Data,idcn,Data,790,5,9
+1,entity,C1289919,Intravenous fluid,sbst,IV fluids,983,35,44
+1,entity,C0033107,prevention & control,qlco,prophylaxis,1000,55,66
+1,entity,C0002978,angiogram,diap,angiogram,888,78,87
+2,entity,C0032821,Potassium,"bacs,elii,phsu",potassium,1000,93,102
+2,entity,C0024467,Magnesium,"bacs,elii",magnesium,1000,107,116
+2,entity,C1879745,PRN (schedule frequency),tmco,as needed,1000,131,140
+2,entity,C0018787,Heart,bpoc,cardiac,861,179,186
+2,entity,C3811629,Anti-Drug Antibody,"aapp,imft",ADA,861,187,190
+2,entity,C0457987,Renal disease diet,topp,"renal , cardiac ADA diet",861,171,195
+4,entity,C0033107,prevention & control,qlco,Prophylaxis,1000,200,211
+4,entity,C0205177,Active,qlco,Activity,827,242,250
+4,entity,C0205307,Normal,qlco,normal,1000,251,257
+4,entity,C3817553,100%,qnco,100,660,274,277
+4,entity,C0018787,Heart,bpoc,heart,802,296,301
+4,entity,C0019080,Hemorrhage,patf,bleed,802,311,316
+4,entity,C0028778,Obstruction,patf,obstruction,827,336,347
+4,entity,C0439422,milligram/day,qnco,mg. p.D,875,422,429
+5,entity,C0033164,Prions,aapp,PR Cextative 40 mg p,547,433,453
+5,entity,C1096155,Macrophage Activation Syndrome,dsyn,mass,861,517,521
+5,entity,C0018935,Hematocrit procedure,lbpr,hematocrit,861,538,548
+5,entity,C0034606,Radionuclide Imaging,diap,scan,861,572,576
+6,entity,C0205091,Left,spco,left,1000,641,645
+6,entity,C2344229,Ery,"antb,orch",ery,694,656,659
+6,entity,C0042034,Urination,orgf,voiding,1000,690,697
+7,entity,C0162425,Intention - mental process,menp,Intensive,594,700,709
+9,entity,C0205447,One,qnco,one,861,762,765
+9,entity,C0205178,acute,tmco,acute,1000,766,771
+9,entity,C0565990,Medical center,"hcro,mnob",Medical Center,1000,777,791
+10,entity,C0205052,rectal,spco,Rectal,1000,822,828
+10,entity,C0018684,Health,idcn,health,1000,865,871
+10,entity,C0205090,Right,spco,right,802,891,896
+10,entity,C0205091,Left,spco,left,802,907,911
+10,entity,C1657597,Discharge diet,topp,discharge presentession diet,913,961,989
+10,entity,C0017446,Geographic Locations,geoa,regions,966,1012,1019
+10,entity,C1516084,Attempt,evnt,attempted,802,1029,1038
+10,entity,C0750480,Count,qnco,count,802,1045,1050
+10,entity,C0010200,Coughing,sosy,Cough,1000,1057,1062
+11,entity,C0262926,Medical History,fndg,PAST MEDICAL HISTORY,1000,1093,1113
+11,entity,C0079170,county,geoa,County,861,1124,1130
+11,entity,C1547282,Show,anim,showing,872,1136,1143
+11,entity,C0009566,Complication,patf,complication,872,1144,1156
+11,entity,C0030705,Patients,podg,patient,1000,1164,1171
+11,entity,C0013216,Pharmacotherapy,topp,chemotherapy,694,1177,1189
+1,entity,C0022885,Laboratory Procedures,lbpr,Test,790,0,4
+1,entity,C1511726,Data,idcn,Data,790,5,9
+1,entity,C1289919,Intravenous fluid,sbst,IV fluids,983,35,44
+1,entity,C0033107,prevention & control,qlco,prophylaxis,1000,55,66
+1,entity,C0002978,angiogram,diap,angiogram,888,78,87
+2,entity,C0032821,Potassium,"bacs,elii,phsu",potassium,1000,93,102
+2,entity,C0024467,Magnesium,"bacs,elii",magnesium,1000,107,116
+2,entity,C1879745,PRN (schedule frequency),tmco,as needed,1000,131,140
+2,entity,C0018787,Heart,bpoc,cardiac,861,179,186
+2,entity,C3811629,Anti-Drug Antibody,"aapp,imft",ADA,861,187,190
+2,entity,C0457987,Renal disease diet,topp,"renal , cardiac ADA diet",861,171,195
+4,entity,C0033107,prevention & control,qlco,Prophylaxis,1000,200,211
+4,entity,C0019664,History,ocdi,history,645,297,304
+9,entity,C0220825,Evaluation,hlca,evaluation,1000,556,566
+10,entity,C0018684,Health,idcn,health,694,619,625
+10,entity,C0031809,Physical Examination,hlca,physical exam,1000,634,647
+10,entity,C0452995,Ling,food,ling,645,686,690
+11,entity,C0030705,Patients,podg,patient,1000,765,772
+11,entity,C1517331,Further,spco,further,888,785,792
+11,entity,C3811127,SULT1E1 wt Allele,gngm,Est,728,838,841
+11,entity,C0184661,Interventional procedure,topp,procedure,728,842,851
+13,entity,C0015392,Eye,bpoc,eye,861,928,931
+13,entity,C0021853,Intestines,bpoc,bowel,645,958,963
+14,entity,C0030705,Patients,podg,patient,694,977,984
+14,entity,C0205476,Medical,ftcn,Medical,718,1001,1008
+14,entity,C0007097,Carcinoma,neop,carcinoma,718,1027,1036
+15,entity,C0040223,Time,tmco,time,1000,1081,1085
+15,entity,C1998602,Meal (occasion for eating),dora,meals,802,1105,1110
+1,entity,C0022885,Laboratory Procedures,lbpr,Test,790,0,4
+1,entity,C1511726,Data,idcn,Data,790,5,9
+1,entity,C0205160,Negative,fndg,negative,888,22,30
+1,entity,C0243032,Magnetic Resonance Angiography,diap,MRA,888,31,34
+2,entity,C0030705,Patients,podg,patient,1000,48,55
+2,entity,C0332461,Plaque (lesion),fndg,patch,861,85,90
+2,entity,C0001645,Adrenergic beta-Antagonists,phsu,beta-blocker,1000,102,114
+2,entity,C0003015,Angiotensin-Converting Enzyme Inhibitors,phsu,ACE inhibitor,1000,117,130
+2,entity,C0590690,Imdur,"orch,phsu",Imdur,1000,137,142
+3,entity,C3698592,Patient's home,mnob,patient's home,901,148,162
+3,entity,C0013227,Pharmaceutical Preparations,phsu,medication,901,163,173
+3,entity,C0020261,Hydrochlorothiazide,"orch,phsu",hydrochlorothiazide,1000,177,196
+3,entity,C0009566,Complication,patf,complications,1000,222,235
+3,entity,C0205090,Right,spco,right,1000,266,271
+3,entity,C0009566,Complication,patf,complications,1000,278,291
+4,entity,C0030705,Patients,podg,patient,1000,317,324
+4,entity,C0030193,Pain,sosy,pain,1000,331,335
+5,entity,C0205251,low,qlco,low,888,358,361
+5,entity,C0009566,Complication,patf,complications,888,362,375
+5,entity,C1518422,Negation,ftcn,not,1000,381,384
+5,entity,C0030193,Pain,sosy,pain,1000,387,391
+6,entity,C0030664,Pathology,bmod,pathology,1000,403,412
+7,entity,C0030705,Patients,podg,patient,1000,419,426
+7,entity,C0030705,Patients,podg,patient,1000,447,454
+7,entity,C0030705,Patients,podg,patient,1000,469,476
+7,entity,C0030705,Patients,podg,patient,1000,497,504
+7,entity,C0030193,Pain,sosy,pain,1000,511,515
+8,entity,C0030705,Patients,podg,patient,1000,538,545
+8,entity,C0030705,Patients,podg,patient,1000,563,570
+8,entity,C0030705,Patients,podg,patient,1000,588,595
+8,entity,C0030705,Patients,podg,patient,1000,616,623
+8,entity,C0030705,Patients,podg,patient,1000,644,651
+8,entity,C3864418,Complaint:Find:Pt:^Patient:Nom,clna,complaint,1000,672,681
+9,entity,C0030705,Patients,podg,patient,1000,720,727
+9,entity,C0205329,Progressive,ftcn,progressive,1000,748,759
+10,entity,C0030705,Patients,podg,patient,1000,796,803
+10,entity,C0030705,Patients,podg,patient,1000,824,831
+10,entity,C0205091,Left,spco,left,1000,843,847
+11,entity,C0030705,Patients,podg,patient,1000,854,861
+11,entity,C0030705,Patients,podg,patient,1000,882,889
+11,entity,C0030705,Patients,podg,patient,1000,910,917
+11,entity,C0030705,Patients,podg,patient,1000,938,945
+11,entity,C0030705,Patients,podg,patient,1000,963,970
+11,entity,C0441998,Left anterior,spco,left anterior,901,988,1001
+11,entity,C0012634,Disease,dsyn,disease,901,1002,1009
+12,entity,C0030705,Patients,podg,patient,1000,1035,1042
+12,entity,C0030705,Patients,podg,patient,1000,1063,1070
+12,entity,C0030193,Pain,sosy,pain,1000,1089,1093
+13,entity,C0205329,Progressive,ftcn,progressive,1000,1119,1130
+13,entity,C2926602,"Discharge, body substance",bdsu,discharge,861,1141,1150
+14,entity,C0205091,Left,spco,left,1000,1173,1177
+14,entity,C0457453,On admission,tmco,on admission,1000,1182,1194
+15,entity,C0205178,acute,tmco,acute,1000,1210,1215
+1,entity,C0022885,Laboratory Procedures,lbpr,Test,790,0,4
+1,entity,C1511726,Data,idcn,Data,790,5,9
+1,entity,C0205160,Negative,fndg,negative,888,22,30
+1,entity,C0243032,Magnetic Resonance Angiography,diap,MRA,888,31,34
+2,entity,C0030705,Patients,podg,patient,1000,48,55
+2,entity,C0332461,Plaque (lesion),fndg,patch,861,85,90
+2,entity,C0001645,Adrenergic beta-Antagonists,phsu,beta-blocker,1000,102,114
+2,entity,C0003015,Angiotensin-Converting Enzyme Inhibitors,phsu,ACE inhibitor,1000,117,130
+2,entity,C0590690,Imdur,"orch,phsu",Imdur,1000,137,142
+3,entity,C3698592,Patient's home,mnob,patient's home,901,148,162
+3,entity,C0013227,Pharmaceutical Preparations,phsu,medication,901,163,173
+3,entity,C0020261,Hydrochlorothiazide,"orch,phsu",hydrochlorothiazide,1000,177,196
+3,entity,C0030705,Patients,podg,patient,1000,220,227
+3,entity,C0205117,Adjacent,spco,next,1000,245,249
+3,entity,C0237881,Statistical Significance,qnco,significant,1000,262,273
+3,entity,C0205091,Left,spco,left,694,281,285
+4,entity,C0018935,Hematocrit procedure,lbpr,hematocrit,1000,311,321
+4,entity,C0030705,Patients,podg,patient,1000,334,341
+4,entity,C4050466,Borg Category-Ratio 10 Perceived Exertion Score 5,inpr,severe,861,372,378
+4,entity,C0205393,Most,qnco,most,1000,392,396
+4,entity,C0009566,Complication,patf,complications,1000,400,413
+5,entity,C0262926,Medical History,fndg,PAST MEDICAL HISTORY,1000,416,436
+5,entity,C0030705,Patients,podg,patient,1000,443,450
+5,entity,C0009566,Complication,patf,complication,1000,461,473
+6,entity,C0005889,Body Fluids,bdsu,fluid,1000,489,494
+6,entity,C0006675,Calcium,"bacs,elii,phsu",calcium,1000,512,519
+7,entity,C0205170,Good,qlco,good,660,566,570
+7,entity,C0018935,Hematocrit procedure,lbpr,hematocrit,1000,589,599
+7,entity,C0030705,Patients,podg,patient,1000,607,614
+7,entity,C0184666,Hospital admission,hlca,admitting,1000,632,641
+8,entity,C0205329,Progressive,ftcn,progressive,888,739,750
+8,entity,C0205266,Intact,qlco,intact,888,751,757
+9,entity,C3539821,SOX10 wt Allele,gngm,dom,694,769,772
+9,entity,C0205178,acute,tmco,acute,1000,782,787
+9,entity,C1518422,Negation,ftcn,not,1000,791,794
+9,entity,C0018935,Hematocrit procedure,lbpr,hematocrit,827,826,836
+9,entity,C0019994,Hospitals,"hcro,mnob",Hospital,888,844,852
+9,entity,C0231303,Distress,fndg,distress,888,853,861
+10,entity,C1518422,Negation,ftcn,not,1000,871,874
+10,entity,C0205476,Medical,ftcn,medical,824,912,919
+10,entity,C0033972,"Psychotherapy, Multiple",topp,several perine medical therapy,824,897,927
+10,entity,C1514902,Restart,qlco,restarted,966,935,944
+10,entity,C0013798,Electrocardiogram,fndg,electrocardiogram,1000,948,965
+10,entity,C0034571,roentgenographic,ftcn,x-ray,870,1007,1012
+10,entity,C0039976,Thoracic Arteries,bpoc,chest x-ray artery,870,1001,1019
+10,entity,C2587213,Control function,ftcn,controlled,1000,1023,1033
+11,entity,C0030705,Patients,podg,patient,1000,1061,1068
+12,entity,C0030705,Patients,podg,patient,1000,1088,1095
+12,entity,C0205329,Progressive,ftcn,progressive,1000,1102,1113
+12,entity,C0441998,Left anterior,spco,left anterior,901,1120,1133
+12,entity,C0012634,Disease,dsyn,disease,901,1134,1141
+13,entity,C0439208,gram,qnco,gram,861,1167,1171
+15,entity,C0180459,Disks (device),medd,disc,1000,1211,1215
+1,entity,C0022885,Laboratory Procedures,lbpr,Test,790,0,4
+1,entity,C1511726,Data,idcn,Data,790,5,9
+1,entity,C0205160,Negative,fndg,negative,888,22,30
+1,entity,C0243032,Magnetic Resonance Angiography,diap,MRA,888,31,34
+2,entity,C0030705,Patients,podg,patient,1000,48,55
+2,entity,C0332461,Plaque (lesion),fndg,patch,861,85,90
+2,entity,C0001645,Adrenergic beta-Antagonists,phsu,beta-blocker,1000,102,114
+2,entity,C0003015,Angiotensin-Converting Enzyme Inhibitors,phsu,ACE inhibitor,1000,117,130
+2,entity,C0590690,Imdur,"orch,phsu",Imdur,1000,137,142
+3,entity,C3698592,Patient's home,mnob,patient's home,901,148,162
+3,entity,C0013227,Pharmaceutical Preparations,phsu,medication,901,163,173
+3,entity,C0020261,Hydrochlorothiazide,"orch,phsu",hydrochlorothiazide,1000,177,196
+3,entity,C2825250,Fenamole,"orch,phsu",PAT,1000,216,219
+4,entity,C0196558,Incision of nerve,topp,Neurotomy,1000,234,243
+6,entity,C0205307,Normal,qlco,NORMAL,583,286,292
+6,entity,C1535939,Pneumocystis jiroveci pneumonia,dsyn,PCP,583,293,296
+7,entity,C0450981,Addiction severity index,inpr,asis,827,350,354
+8,entity,C0613621,"2,2-dichloro-1,1-difluoroethyl difluoromethyl ether","orch,phsu",demes,827,370,375
+10,entity,C0030705,Patients,podg,patient,1000,415,422
+10,entity,C0043240,Wound Healing,orgf,repair,861,444,450
+11,entity,C0205358,Soft,qlco,Soft,1000,453,457
+11,entity,C0205170,Good,qlco,well,1000,462,466
+11,entity,C0543467,Operative Surgical Procedures,topp,operation,1000,470,479
+11,entity,C0205090,Right,spco,right,775,575,580
+11,entity,C0229992,Psyche structure,menp,minds,775,581,586
+11,entity,C0022742,Knee,bpoc,knee,827,607,611
+11,entity,C0030705,Patients,podg,patient,694,637,644
+11,entity,C0746591,mitral,qlco,mitral,694,651,657
+12,entity,C0262926,Medical History,fndg,PAST MEDICAL HISTORY,1000,671,691
+12,entity,C3845262,6+11,fndg,06-Nov,673,694,698
+20,entity,C0019664,History,ocdi,History,1000,957,964
+20,entity,C0022646,Kidney,bpoc,renal,583,999,1004
+24,entity,C0205266,Intact,qlco,intact,1000,1197,1203
+1,entity,C0022885,Laboratory Procedures,lbpr,Test,790,0,4
+1,entity,C1511726,Data,idcn,Data,790,5,9
+1,entity,C0205160,Negative,fndg,negative,888,22,30
+1,entity,C0243032,Magnetic Resonance Angiography,diap,MRA,888,31,34
+2,entity,C0030705,Patients,podg,patient,1000,48,55
+2,entity,C0332461,Plaque (lesion),fndg,patch,861,85,90
+2,entity,C0001645,Adrenergic beta-Antagonists,phsu,beta-blocker,1000,102,114
+2,entity,C0003015,Angiotensin-Converting Enzyme Inhibitors,phsu,ACE inhibitor,1000,117,130
+2,entity,C0590690,Imdur,"orch,phsu",Imdur,1000,137,142
+3,entity,C3698592,Patient's home,mnob,patient's home,901,148,162
+3,entity,C0013227,Pharmaceutical Preparations,phsu,medication,901,163,173
+3,entity,C0020261,Hydrochlorothiazide,"orch,phsu",hydrochlorothiazide,1000,177,196
+4,entity,C2825407,Half,qnco,halves,966,270,276
+4,entity,C0019664,History,ocdi,history,888,281,288
+8,entity,C1863925,"Nonmedullary thyroid carcinoma, with or without cell oxyphilia",neop,TCO,694,357,360
+9,entity,C0699992,Lasix,"orch,phsu",Lasix,763,404,409
+10,entity,C0238705,Left atrial hypertrophy,fndg,LAH,530,472,475
+10,entity,C0205307,Normal,qlco,NORMAL,530,476,482
+10,entity,C0600587,Primed In Situ Labeling,mbrt,PRIN,530,483,487
+10,entity,C0677535,Walls of a building,mnob,wall,804,527,531
+10,entity,C0019664,History,ocdi,history,1000,601,608
+11,entity,C0205307,Normal,qlco,norm,750,646,650
+13,entity,C0205170,Good,qlco,good,802,701,705
+14,entity,C1708639,Lane,spco,Lane,740,717,721
+14,entity,C0015967,Fever,sosy,fever,740,722,727
+14,entity,C0181074,Graft material,bodm,graft,775,752,757
+14,entity,C0022885,Laboratory Procedures,lbpr,test,775,758,762
+14,entity,C1547703,Room,spco,room,775,763,767
+14,entity,C0039476,Temperature,qnco,temperature,1000,772,783
+14,entity,C0030705,Patients,podg,patient,1000,802,809
+14,entity,C0040223,Time,tmco,times,562,819,824
+16,entity,C0019994,Hospitals,"hcro,mnob",HOSPITAL,645,871,879
+17,entity,C0851346,Radiation,npop,radiation,861,924,933
+17,entity,C0205358,Soft,qlco,soft,1000,940,944
+17,entity,C0220814,Cultural aspects,ftcn,culture,861,1041,1048
+17,entity,C1415181,GOT1 gene,gngm,AST,888,1086,1089
+17,entity,C0006826,Malignant Neoplasms,neop,cancer,861,1147,1153
+1,entity,C0022885,Laboratory Procedures,lbpr,Test,790,0,4
+1,entity,C1511726,Data,idcn,Data,790,5,9
+2,entity,C3842089,2 mm,fndg,2 mm,861,44,48
+2,entity,C0011570,Mental Depression,mobd,depressions,861,52,63
+3,entity,C0022885,Laboratory Procedures,lbpr,test,1000,69,73
+3,entity,C0205250,High,qlco,highly,888,78,84
+3,entity,C0681890,predictive,qlco,predictive,888,85,95
+3,entity,C0237881,Statistical Significance,qnco,significant,901,99,110
+3,entity,C0010068,Coronary heart disease,dsyn,coronary disease,901,111,127
+4,entity,C0015260,Exercise stress test,diap,exercise test,1000,134,147
+4,entity,C3829466,January,qlco,January,1000,160,167
+5,entity,C0030705,Patients,podg,patient,1000,174,181
+5,entity,C0018795,Cardiac Catheterization Procedures,hlca,cardiac catheterization,1000,190,213
+5,entity,C3842590,10%,qnco,10,888,217,219
+5,entity,C0030193,Pain,sosy,pain,1000,230,234
+6,entity,C0439531,per period (qualifier value),tmco,period,1000,266,272
+6,entity,C0230416,Left lower extremity,bpoc,left lower extremity,1000,280,300
+7,entity,C0332282,Following,tmco,subsequent,861,318,328
+8,entity,C0012634,Disease,dsyn,condition,861,388,397
+9,entity,C0030705,Patients,podg,patient,1000,404,411
+9,entity,C0230416,Left lower extremity,bpoc,left lower extremity,1000,435,455
+10,entity,C0205307,Normal,qlco,normal,1000,478,484
+11,entity,C0009818,Consultation,hlca,consultation,1000,506,518
+12,entity,C0030705,Patients,podg,patient,1000,533,540
+12,entity,C0728938,Partial,qnco,partial,1000,553,560
+12,entity,C0009818,Consultation,hlca,consultation,1000,569,581
+13,entity,C0817096,Chest,blor,chest,901,588,593
+13,entity,C0034571,roentgenographic,ftcn,#NAME?,901,595,599
+14,entity,C2926602,"Discharge, body substance",bdsu,discharge,1000,621,630
+14,entity,C0205191,chronic,tmco,chronic,1000,646,653
+14,entity,C0205090,Right,spco,right,1000,661,666
+14,entity,C0332173,Daily,tmco,day,1000,690,693
+15,entity,C0184661,Interventional procedure,topp,procedure,1000,700,709
+15,entity,C0205307,Normal,qlco,normal,1000,715,721
+16,entity,C0205170,Good,qlco,well,861,739,743
+17,entity,C0205091,Left,spco,left,1000,769,773
+18,entity,C0030705,Patients,podg,patient,1000,816,823
+19,entity,C0205091,Left,spco,left,1000,894,898
+19,entity,C0030705,Patients,podg,patient,1000,905,912
+19,entity,C0030705,Patients,podg,patient,1000,920,927
+19,entity,C0030705,Patients,podg,patient,1000,945,952
+19,entity,C0086787,Percocet,"orch,phsu",percocet,1000,960,968
+20,entity,C0439531,per period (qualifier value),tmco,period,1000,998,1004
+21,entity,C0184661,Interventional procedure,topp,procedure,861,1022,1031
+22,entity,C0205191,chronic,tmco,chronic,694,1053,1060
+23,entity,C0184661,Interventional procedure,topp,procedure,1000,1094,1103
+23,entity,C0030705,Patients,podg,patient,1000,1113,1120
+23,entity,C0015385,Limb structure,bpoc,extremities,1000,1147,1158
+23,entity,C0030705,Patients,podg,patient,1000,1163,1170
+23,entity,C0030705,Patients,podg,patient,1000,1178,1185
+1,entity,C0022885,Laboratory Procedures,lbpr,Test,790,0,4
+1,entity,C1511726,Data,idcn,Data,790,5,9
+2,entity,C3842089,2 mm,fndg,2 mm,861,44,48
+2,entity,C0011570,Mental Depression,mobd,depressions,861,52,63
+3,entity,C0022885,Laboratory Procedures,lbpr,test,1000,69,73
+3,entity,C0205250,High,qlco,highly,888,78,84
+3,entity,C0681890,predictive,qlco,predictive,888,85,95
+3,entity,C0237881,Statistical Significance,qnco,significant,901,99,110
+3,entity,C0010068,Coronary heart disease,dsyn,coronary disease,901,111,127
+4,entity,C0015260,Exercise stress test,diap,exercise test,1000,134,147
+4,entity,C3829466,January,qlco,January,1000,160,167
+5,entity,C0030705,Patients,podg,patient,1000,174,181
+5,entity,C0018795,Cardiac Catheterization Procedures,hlca,cardiac catheterization,1000,190,213
+5,entity,C1709157,Negative Surgical Margin,fndg,clear,888,238,243
+5,entity,C0031831,Physicians,prog,doctor,888,244,250
+5,entity,C0332173,Daily,tmco,day,790,263,266
+5,entity,C0582103,Medical Examination,hlca,exam,790,267,271
+6,entity,C0031354,Pharyngeal structure,bpoc,throat,861,287,293
+6,entity,C0015385,Limb structure,bpoc,extremities,1000,319,330
+7,entity,C0750573,emergent,idcn,Emergence,928,373,382
+7,entity,C0457453,On admission,tmco,on admission,1000,383,395
+7,entity,C0449450,Presentation,idcn,presented,1000,479,488
+8,entity,C0205307,Normal,qlco,normal,1000,507,513
+10,entity,C0011900,Diagnosis,diap,DIAGNOSES,861,578,587
+10,entity,C0022646,Kidney,bpoc,renal,790,600,605
+10,entity,C0231303,Distress,fndg,distress,790,606,614
+11,entity,C0040223,Time,tmco,time,1000,643,647
+11,entity,C0332282,Following,tmco,subsequent,1000,652,662
+11,entity,C0750573,emergent,idcn,Emergence,583,694,703
+11,entity,C0205042,Coronary artery,bpoc,Coronary artery,583,704,719
+11,entity,C3842590,10%,qnco,10,802,734,736
+12,entity,C0008320,Cholecystectomy procedure,topp,cholecystectomy,1000,749,764
+13,entity,C0030193,Pain,sosy,pain,1000,788,792
+13,entity,C0030705,Patients,podg,patient,1000,810,817
+14,entity,C0021853,Intestines,bpoc,bowel,861,861,866
+14,entity,C0332282,Following,tmco,subsequent,1000,867,877
+14,entity,C0205178,acute,tmco,acute,1000,882,887
+14,entity,C0030705,Patients,podg,Patient,1000,905,912
+14,entity,C0205090,Right,spco,right,694,920,925
+14,entity,C2699424,Concern,idcn,concerns,1000,944,952
+14,entity,C0205107,Proximal,spco,proximal,888,960,968
+14,entity,C0009818,Consultation,hlca,consultation,888,969,981
+15,entity,C0230416,Left lower extremity,bpoc,left lower extremity,1000,1011,1031
+15,entity,C0205170,Good,qlco,well,1000,1044,1048
+16,entity,C0024109,Lung,bpoc,Pulmonary,660,1071,1080
+16,entity,C0030695,Patient Monitoring,hlca,monitor,1000,1098,1105
+18,entity,C0488549,Hospital course:Finding:Point in time:^Patient:Narrative,clna,HOSPITAL COURSE,1000,1128,1143
+18,entity,C0030705,Patients,podg,patient,1000,1150,1157
+18,entity,C0452694,Pasta,food,pasta,888,1189,1194
+1,entity,C0022885,Laboratory Procedures,lbpr,Test,790,0,4
+1,entity,C1511726,Data,idcn,Data,790,5,9
+2,entity,C3842089,2 mm,fndg,2 mm,861,44,48
+2,entity,C0011570,Mental Depression,mobd,depressions,861,52,63
+3,entity,C0022885,Laboratory Procedures,lbpr,test,1000,69,73
+3,entity,C0205250,High,qlco,highly,888,78,84
+3,entity,C0681890,predictive,qlco,predictive,888,85,95
+3,entity,C0237881,Statistical Significance,qnco,significant,901,99,110
+3,entity,C0010068,Coronary heart disease,dsyn,coronary disease,901,111,127
+4,entity,C0015260,Exercise stress test,diap,exercise test,1000,134,147
+4,entity,C3829466,January,qlco,January,1000,160,167
+5,entity,C0030705,Patients,podg,patient,1000,174,181
+5,entity,C0018795,Cardiac Catheterization Procedures,hlca,cardiac catheterization,1000,190,213
+5,entity,C0013227,Pharmaceutical Preparations,phsu,medications,827,248,259
+6,entity,C0205170,Good,qlco,well,802,274,278
+6,entity,C0302148,Blood Clot,patf,clots,802,289,294
+7,entity,C1710596,VDAC2 wt Allele,gngm,por,1000,322,325
+8,entity,C0018817,Atrial Septal Defects,cgab,Asd,694,411,414
+11,entity,C0439509,/40,tmco,40,812,489,491
+11,entity,C0006318,Bruit,fndg,bruit,888,510,515
+11,entity,C0441889,Levels (qualifier value),qlco,level,888,516,521
+11,entity,C0582103,Medical Examination,hlca,exam,861,541,545
+11,entity,C1442455,2 Days,tmco,2 days,1000,551,557
+13,entity,C0030705,Patients,podg,patient,1000,653,660
+14,entity,C2926602,"Discharge, body substance",bdsu,DISCHARGE,1000,676,685
+14,entity,C0444598,Middle,spco,mid,1000,720,723
+14,entity,C0450346,02-May,qnco,02-May,805,860,863
+14,entity,C0024109,Lung,bpoc,lungs,1000,908,913
+15,entity,C0205266,Intact,qlco,intact,1000,955,961
+16,entity,C0020746,Ice,inch,ice,1000,1030,1033
+16,entity,C0205090,Right,spco,right,694,1051,1056
+16,entity,C0205170,Good,qlco,well,623,1075,1079
+16,entity,C0205160,Negative,fndg,negative,1000,1141,1149
+16,entity,C0205090,Right,spco,right,1000,1169,1174
+16,entity,C1881878,Moderation,qlco,moderated,840,1202,1211
+16,entity,C1138348,"moira protein, Drosophila","aapp,bacs",mor,840,1212,1215
+1,entity,C0022885,Laboratory Procedures,lbpr,Test,790,0,4
+1,entity,C1511726,Data,idcn,Data,790,5,9
+2,entity,C3842089,2 mm,fndg,2 mm,861,44,48
+2,entity,C0011570,Mental Depression,mobd,depressions,861,52,63
+3,entity,C0022885,Laboratory Procedures,lbpr,test,1000,69,73
+3,entity,C0205250,High,qlco,highly,888,78,84
+3,entity,C0681890,predictive,qlco,predictive,888,85,95
+3,entity,C0237881,Statistical Significance,qnco,significant,901,99,110
+3,entity,C0010068,Coronary heart disease,dsyn,coronary disease,901,111,127
+4,entity,C0015260,Exercise stress test,diap,exercise test,1000,134,147
+4,entity,C3829466,January,qlco,January,1000,160,167
+5,entity,C0030705,Patients,podg,patient,1000,174,181
+5,entity,C0018795,Cardiac Catheterization Procedures,hlca,cardiac catheterization,1000,190,213
+6,entity,C0796520,ETV6 gene,gngm,Tel,507,381,384
+6,entity,C4288581,Notable,qlco,noted,507,385,390
+6,entity,C0027061,Myocardium,tisu,myocardial,694,420,430
+6,entity,C4050466,Borg Category-Ratio 10 Perceived Exertion Score 5,inpr,severe,660,455,461
+6,entity,C1299586,Has difficulty doing (qualifier value),fndg,difficult,660,491,500
+6,entity,C0015392,Eye,bpoc,eyes,1000,518,522
+9,entity,C0041582,Ulcer,dsyn,ulcer,728,590,595
+9,entity,C0152244,"Bone Cysts, Aneurysmal",dsyn,aBC,728,596,599
+9,entity,C0201913,"Bilirubin, total measurement",lbpr,bili,637,621,625
+9,entity,C2344229,Ery,"antb,orch",eRy,827,658,661
+10,entity,C0205171,Singular,qnco,only,771,737,741
+10,entity,C0040223,Time,tmco,Time,771,745,749
+11,entity,C0205132,Linear,spco,Line,762,754,758
+11,entity,C0205447,One,qnco,one,762,759,762
+11,entity,C0009818,Consultation,hlca,consultation,762,780,792
+12,entity,C0032225,Pleura,tisu,pleural,601,820,827
+12,entity,C1180151,Left superior,spco,left elterant upper,601,828,847
+12,entity,C0205449,Three,qnco,three,660,880,885
+12,entity,C0012634,Disease,dsyn,disease,827,951,958
+13,entity,C1549864,Q13,inpr,Q13,542,974,977
+13,entity,C0205169,Bad,qlco,poorly,542,1001,1007
+13,entity,C0205170,Good,qlco,good,542,1010,1014
+14,entity,C0028778,Obstruction,patf,block,861,1080,1085
+15,entity,C0439234,year,tmco,year,575,1144,1148
+15,entity,C0023884,Liver,bpoc,liver,575,1154,1159
